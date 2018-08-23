@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Twotailedfox on ReactOS Website</title>
+    <link>https://costanzaltavilla.github.io/author/twotailedfox/</link>
+    <description>Recent content in Twotailedfox on ReactOS Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Feb 2006 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://costanzaltavilla.github.io/author/twotailedfox/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Newsletter 11</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-11/</link>
+      <pubDate>Fri, 10 Feb 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-11/</guid>
+      <description>ReactOS Weekly Newsletter Issue 11, &#34;Not dead just yet&#34; Not dead just yet! Whew. Now that Real Life has for now finished kicking me in the gonads for the time being, it&#39;s time to let you guys, the End Users, know what&#39;s actually happening in the ReactOS Project. Issue II I could have sworn went up, but either it got deleted, or I missed a button.
+Now, first things, first. At the top of Reactos.</description>
+    </item>
+    
+    <item>
+      <title>Newsletter 10</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-10/</link>
+      <pubDate>Mon, 09 Jan 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-10/</guid>
+      <description>Time to get this Newsletter Back on Track A new year, a new start, I always say. Unfortunately, I was a little bit busier over the holiday period than I had anticipated, but now that I&#39;m back doing early shifts, instead of the late ones I was being handed, I will have enough time set aside to continue.
+So, I&#39;ll start as I mean to go on... by Compiling! Yep, ReactOS&#39; Source Code may be all-singing, all-dancing, bu without it being compiled, all it does it look like a pretty collection of ASCII Codes.</description>
+    </item>
+    
+    <item>
+      <title>Newsletter Status</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-status/</link>
+      <pubDate>Fri, 06 Jan 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-status/</guid>
+      <description>Hi Folks, TwoTailedFox here, just giving you guys the rundown on what&#39;s happenning with the Newsletter.
+Unfortunately, I was busier than I&#39;d intended to be over Christmas and New Years. Being given lots of long shifts bunched together is a sure-fire way for me to feel very, very tired.
+Newsletter contents for Issue 10 have been finalised, and I&#39;ve jotted down every relevent SVN update since the 13th of December. All that needs to be done is add lots of pretty formatting, and pray it&#39;s flawless first time around.</description>
+    </item>
+    
+    <item>
+      <title>Newsletter 9</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-9/</link>
+      <pubDate>Tue, 20 Dec 2005 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-9/</guid>
+      <description>Issue 9 of the Newsletter has landed There are very few things that irritate me. Windows XP playing havock with my mouse cursor ranks among them. Thus, a reformat and reload ensues. And to top it all off, I have a PSU that&#39;s as dodgy as an SCO-Endorsed Lawsuit. For some strange reason, one of my Hard Drives will have its power drop out, which causes my drive to spin down, that acts like a domino toppling, and causes my system to hang.</description>
+    </item>
+    
+    <item>
+      <title>Newsletter 8</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-8/</link>
+      <pubDate>Mon, 12 Dec 2005 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-8/</guid>
+      <description>Welcome To Reality Welcome to the ReactOS Weekly Newsletter, Issue 8, where there are three kinds of people, none of them particularly effective at writing a newsletter today.
+The Delay: Excuses Inbound Unfortunately, Issue 8 was delayed last week, because Mrs. Flu decided to bed me over, and screw me crosseyed, leaving me very ill, and making my body wish it had a built-in thermostat. Anyway, it&#39;s better to have a newsletter late, than not at all, so let&#39;s just jump straight to it.</description>
+    </item>
+    
+    <item>
+      <title>Newsletter 7</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-7/</link>
+      <pubDate>Sun, 27 Nov 2005 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-7/</guid>
+      <description>Welcome to Issue 7 of the ReactOS Weekly Newsletter, as persistant as a Jehovah&#39;s Witness. This week, I&#39;ll be taking a look at the NDK used by the ReactOS Developers, covering WINE 0.9.2, and detailing the latest SVN activity.
+NDK: What it does, and why it&#39;s needed &amp;quot;What is the NDK designed to do?&amp;quot;, I hear you ask. Well, first off, a little bit of it&#39;s history. The NDK stands for Native Development Kit, and was the brainchild of Alex Ionescu, as a way of allowing Windows and ReactOS developers alike to have access to a wealth of undocumented kernel and native structures and function prototype.</description>
+    </item>
+    
+    <item>
+      <title>Newsletter 6</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-6/</link>
+      <pubDate>Sun, 20 Nov 2005 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-6/</guid>
+      <description>Welcome to Issue 6, the Issue that confirms we&#39;ve beaten Splash. And to celebrate, this is going to be a Big issue. First off, We&#39;ll be taking a look at where ReactOS is headed, other than for x86, covering the Xbox, Xen, and PowerPC ports.
+And we&#39;ve also got out first vic.. I mean volunteer for our very first Interview. .. Now there&#39;s no excuse for the rest of the Developers to not volunteer!</description>
+    </item>
+    
+    <item>
+      <title>Newsletter 5</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-5/</link>
+      <pubDate>Sun, 13 Nov 2005 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-5/</guid>
+      <description>ReactOS Weekly Newsletter Volume 1, Issue 5 The Number keeps creeping up, and I believe, with this Issue, the ReactOS Weekly Newsletter equals the amount of editions Splash, the former ReactOS Newsletter, released
+Freeloader: What is it? Freeloader (abbreviated freeldr [Why is abbreviated such a long word? -Ed.]), is the ReactOS Bootloader, licensed under the GPL.
+What does it do?  It parses the ReactOS registry, and examines particular keys for certain values to act upon.</description>
+    </item>
+    
+    <item>
+      <title>Newsletter 4</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-4/</link>
+      <pubDate>Mon, 07 Nov 2005 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-4/</guid>
+      <description>ReactOS Weekly Newsletter Volume 1, Issue 4 Issue 4. A full month of Newsletters, and we&#39;re only just beginning.
+ReactOS and other Software I said I&#39;d do this last week, and I&#39;m not one to cut back on a promise.
+So, to clarify, ReactOS is an Operating System. What is an Operating System supposed to include? Well, there are several mentalities.
+ The Linux Distro Approach. All the software you&#39;d ever need on one DVD, and then some.</description>
+    </item>
+    
+    <item>
+      <title>Newsletter 3</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-3/</link>
+      <pubDate>Mon, 31 Oct 2005 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-3/</guid>
+      <description>Another Week, Another Newsletter, a lot of news stuffed into a single issue, like an 8-course Barium meal.
+A Request! I actually got a request for some content for the newsletter. And since I like the look of them I&#39;ll have a look at both subjects. Let us begin.
+New Voting System It was decided a while back that the voting procedures needed to be changed, after a slight mis-hap on IRC, and some questioning the validity of a vote conducted there, as opposed to the Ros-Dev Mailing List.</description>
+    </item>
+    
+    <item>
+      <title>Newsletter 2</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-2/</link>
+      <pubDate>Sun, 23 Oct 2005 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-2/</guid>
+      <description>Well, would you look at that. Another Sunday. another Newsletter. And Boy has this week been interesting.
+The ReactOS Constitution Found here, the new ReactOS Constitution is designed to clarify many of the things we all took for granted, such as who can do what on the project, and to elaborate on how Voting Prodecures should be followed. In addition, it also lays out the responsibilities of all the members of the Board of Directors of the ReactOS Foundation.</description>
+    </item>
+    
+    <item>
+      <title>Newsletter 1</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-1/</link>
+      <pubDate>Sun, 16 Oct 2005 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-1/</guid>
+      <description>The Big Intro Ah, Hello There! Allow me introduce myself. My name is Stuart Robbins, and my job on Reactos.org, is to write a newsletter, each week, giving you, the End User, and even Casual Developer, the run-down on what is going on behind the scenes, with the ReactOS Open-Source Operating System.
+The ReactOS Content Management System First off, is the new ReactOS.org Content Management System, abbreviated RosCMS. It blends in nicely with the ReactOS Wiki (Itself using MediaWiki), while also providing space for new Website Articles (Much like this one), as well as providing small subsections, to announce news, like 0.</description>
+    </item>
+    
+  </channel>
+</rss>

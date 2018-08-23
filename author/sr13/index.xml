@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sr13 on ReactOS Website</title>
+    <link>https://costanzaltavilla.github.io/author/sr13/</link>
+    <description>Recent content in Sr13 on ReactOS Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 27 Aug 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://costanzaltavilla.github.io/author/sr13/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>GSoC’17 : Project Taskbar Shell Extensions for ReactOS | Final Report</title>
+      <link>https://costanzaltavilla.github.io/blogs/gsoc17-project-taskbar-shell-extensions-reactos-final-report/</link>
+      <pubDate>Sun, 27 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/gsoc17-project-taskbar-shell-extensions-reactos-final-report/</guid>
+      <description>Hello, everyone! It&amp;rsquo;s me, Shriraj (a.k.a sr13).
+The time has come to summarize all the work I have done in this Summer of Code with ReactOS and complete this journey of my first ever GSoC, though my story with ReactOS is just beginning!
+TL;DR of Project Taskbar Shell Extensions: # Designed &amp;amp; Implemented the Quick Launch Toolbar for ReactOS. # Designed &amp;amp; Added support for Battery Status in notification area (System Tray).</description>
+    </item>
+    
+    <item>
+      <title>GSOC Project TSE Week 11 : Last but not the least...</title>
+      <link>https://costanzaltavilla.github.io/blogs/gsoc-project-tse-week-11-last-not-least/</link>
+      <pubDate>Sun, 20 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/gsoc-project-tse-week-11-last-not-least/</guid>
+      <description>Hello, everyone! 0/
+As you can see in the title, this is officially the last week of coding but not the least as we still have a week left until final evaluation period ends. As we are coming close towards the end of GSoC, you all might feel sad as I won&#39;t be able to share about my work anymore... :`( But hold your hankies, fellas, GSoC might end soon but my journey with ReactOS is just beginning.</description>
+    </item>
+    
+    <item>
+      <title>GSOC Project TSE Week 10</title>
+      <link>https://costanzaltavilla.github.io/blogs/gsoc-project-tse-week-10/</link>
+      <pubDate>Sat, 12 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/gsoc-project-tse-week-10/</guid>
+      <description>Hi, everyone! 0/
+Tick-Tock is coming to an end, and the next week is perhaps the last week of coding before final evaluation starts! ;P But let&#39;s be calm and discuss what happened last week. And as promised, I managed to get some demonstrable snaps this time. So, here we go!
+As told in my last blog, we got some flashy new icons for the stobject modules I worked on. The above pic shows the battery in charging mode.</description>
+    </item>
+    
+    <item>
+      <title>GSOC Project TSE Week 9</title>
+      <link>https://costanzaltavilla.github.io/blogs/gsoc-project-tse-week-9/</link>
+      <pubDate>Sat, 05 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/gsoc-project-tse-week-9/</guid>
+      <description>Hey there, its Shriraj here! 0/
+We are already in week 9 of this 12-week journey of GSoC! Soon about to take the final lap, but wait we have a lot to do before that. This time too I don&#39;t have any pics as such to show visible progress, but yeah let&#39;s see through words what I managed to do last week. ;P
+What I did Last week? As I told in my last blog, we are currently working to find the appropriate enumeration filters required for safely removable devices, but as that feature is being tested on a standalone console app, I was free to prepare the stobject of ReactOS to welcome the hotplug!</description>
+    </item>
+    
+    <item>
+      <title>GSOC Project TSE Week 8 : Phase 3</title>
+      <link>https://costanzaltavilla.github.io/blogs/gsoc-project-tse-week-8-phase-3/</link>
+      <pubDate>Mon, 31 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/gsoc-project-tse-week-8-phase-3/</guid>
+      <description>Hey there! 0/
+Sorry for posting my blog late this time :P. Was kinda busy with my family duties, besides some errands. Also, my college is starting from this week. As devs, we are better coders than writers but yeah, as a GSoC norm, blogging is a healthy habit which keeps us updated. ;)
+About this phase Let&#39;s keep it short this time, as I told in my last blog we are officially in the final phase of the project.</description>
+    </item>
+    
+    <item>
+      <title>GSOC Project TSE Week 7</title>
+      <link>https://costanzaltavilla.github.io/blogs/gsoc-project-tse-week-7/</link>
+      <pubDate>Thu, 20 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/gsoc-project-tse-week-7/</guid>
+      <description>Hello World!! ;D
+If you had read my last blog then you already know that we are in &#34;Phase 2&#34;. And whats exciting is this phase zoomed past at such a speed that in the upcoming week I am starting &#34;Phase 3&#34;. (Spoiler Alert! XP) But, let us hold our horses and let me describe what happened in Phase 2. For a TL;DR you can just check the Task 2.X in the Milestones page.</description>
+    </item>
+    
+    <item>
+      <title>GSOC Project TSE Week 6 : Phase 2</title>
+      <link>https://costanzaltavilla.github.io/blogs/gsoc-project-tse-week-6-phase-2/</link>
+      <pubDate>Thu, 13 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/gsoc-project-tse-week-6-phase-2/</guid>
+      <description>Hey, guys!
+Six weeks have passed since I started my journey of coding with ReactOS. It was a wonderful time full of learning, coding, and fun. In terms of productivity, this week was not that great as compared to weeks before. But I can say it was an essential decision making and learning week. So I started this week, by resuming the task of patching up the remaining issues of CR-122.</description>
+    </item>
+    
+    <item>
+      <title>GSOC Project TSE Week 5</title>
+      <link>https://costanzaltavilla.github.io/blogs/gsoc-project-tse-week-5/</link>
+      <pubDate>Thu, 06 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/gsoc-project-tse-week-5/</guid>
+      <description>Hey there! 0/
+Last time you must have seen some snapshots of where the QuickLaunch has reached. Seeing the UI and some functionalities in the snaps must have given you a feeling that it&#39;s complete and finished. But, Nah... a lot of work is left, besides debugging so that Dr. Watson would finally be free of his postmortems!! XP
+Coming straight to the point, this week the best thing was about &#39;Code Reviews&#39;.</description>
+    </item>
+    
+    <item>
+      <title>GSOC Project TSE Week 4</title>
+      <link>https://costanzaltavilla.github.io/blogs/gsoc-project-tse-week-4/</link>
+      <pubDate>Thu, 29 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/gsoc-project-tse-week-4/</guid>
+      <description>Hi, everyone!! So you all are still with me? Good!! ;)
+As I had told last week, that this week will be rather an exciting one, and yes it indeed was. And the reason is, finally, you all will see a working (prototype) of the quick launch band. (yay!!) Let me go through chronologically, what I did this week. The first thing was to Implement the IShellFolderBand. This is a very important interface as it helps to initialize the IShellFolder and PIDL (via its InitializeSFB method) required to enumerate the folder objects.</description>
+    </item>
+    
+    <item>
+      <title>GSOC Project TSE Week 3</title>
+      <link>https://costanzaltavilla.github.io/blogs/gsoc-project-tse-week-3/</link>
+      <pubDate>Mon, 26 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/gsoc-project-tse-week-3/</guid>
+      <description>Hey there! Great to see you all in my 4th blogpost of this series. ;)
+So far, so good!! No blockers and nothing to worry about, and just being around reactos community is pure fun. Coming straight to the point, this week I continued what I had left last time and that was the james band... err.. i mean CISFBand!! XP
+After forwarding the methods of the built in system CISFBand and testing its integrity within live virtual machine, the next thing to do was to replace this system CISFBand with my own implementation of it.</description>
+    </item>
+    
+    <item>
+      <title>GSOC Project TSE Week 2</title>
+      <link>https://costanzaltavilla.github.io/blogs/gsoc-project-tse-week-2/</link>
+      <pubDate>Tue, 20 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/gsoc-project-tse-week-2/</guid>
+      <description>Hello friends, its Shriraj again. ;)
+Its already second week of the coding period, and I was enjoying my time as a beginner dev in reactos. Learning new things every now and then and just being on irc is a sheer fun. So as decided last time, we had an official gsoc meeting on #reactos-gsoc. I explained and summarized what I was able to do last week. Also planned what Ill be doing next.</description>
+    </item>
+    
+    <item>
+      <title>GSOC Project TSE Week 1</title>
+      <link>https://costanzaltavilla.github.io/blogs/gsoc-project-tse-week-1/</link>
+      <pubDate>Thu, 15 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/gsoc-project-tse-week-1/</guid>
+      <description>Hi, its me Shriraj. :)
+This is my second blog on my GSoC project TSE(Taskbar Shell Extension).
+So, finally coding period began, and I was excited enough to pump out some code boiling within my mind! Sir Giannis (aka gadamopoulos) and Sir Sylvain (aka sdever) are my mentors in this project. In this first week, basically mentor Giannis showed me how to step into this huge codebase of reactos and helped me to get started by providing the canvas for my code.</description>
+    </item>
+    
+    <item>
+      <title>My first ever GSOC!!</title>
+      <link>https://costanzaltavilla.github.io/blogs/my-first-ever-gsoc/</link>
+      <pubDate>Tue, 13 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/my-first-ever-gsoc/</guid>
+      <description>#Introduction: Hi, I am shriraj (aka sr13), currently pursuing my B.Tech in CSE (Computer Science and Engineering) @ National Institute of Technology Goa, India. I am not just studying CSE but I like to play and experiment with CSE. Programming is just another hobby and I knew that its one of my forte the moment I had felt my first &#39;Hello World!!&#39; with &#39;C&#39;. (OK, that might be a little exaggeration XD, but yeah you can tell it when you start enjoying the subject so much that you felt code is better art than a poem.</description>
+    </item>
+    
+  </channel>
+</rss>

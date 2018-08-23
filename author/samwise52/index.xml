@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Samwise52 on ReactOS Website</title>
+    <link>https://costanzaltavilla.github.io/author/samwise52/</link>
+    <description>Recent content in Samwise52 on ReactOS Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Mar 2008 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://costanzaltavilla.github.io/author/samwise52/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Newsletter 38</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-38/</link>
+      <pubDate>Sat, 01 Mar 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-38/</guid>
+      <description>Server maintenance   Recent server maintenance caused outages of the web and SVN servers. The ordeal lasted a few hours for some users, which could not access the project web page, SVN servers, or send mail to the mailing lists. If you sent an email to our mailing list during the outage your mail could have bounced, or have been lost. Don&amp;#39;t believe the conspiracy theories, it was just a DNS change.</description>
+    </item>
+    
+    <item>
+      <title>Newsletter 35</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-35/</link>
+      <pubDate>Sun, 16 Dec 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-35/</guid>
+      <description>Release Time  According to our project manager the change log should be finished by the end of December and if all remaining blockers are fixed release will occur sometime in January. ReactOS 0.3.4 promises to improve on 0.3.3 by working on more hardware, running even more applications, being faster and more stable than ever before. Even so many of the same old restrictions apply. We thank everyone who has helped make this release possible.</description>
+    </item>
+    
+    <item>
+      <title>Newsletter 32</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-32/</link>
+      <pubDate>Sun, 23 Sep 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-32/</guid>
+      <description>ReactOS 0.3.3  Recently we released 0.3.3. We thank all the developers, testers, translators and everyone else who helped make it possible. The official release announcement by our project coordinator is here. The changelog can be found here, new screenshots are also available here. You can download your copy in the download page. Rbuild Improvements  Herve has been working recently on several rbuild improvements. The focuses of these is correctly separate and represent files using only a single scheme, improving flexibility and speed.</description>
+    </item>
+    
+    <item>
+      <title>Newsletter 30</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-30/</link>
+      <pubDate>Tue, 21 Aug 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-30/</guid>
+      <description>Compilation fixes for MacOS X  Recently some developers have managed to compile ReactOS in OS X. So if you have built mingw32 for your mac and would like to build ReactOS in your mac you can. The primary difficulties lay in some wchar defines and iswdigit function and where fixed relatively easily. Win32k  The all important graphical subsystem continues its march to becoming the fully featured, safe and performing beast it should be.</description>
+    </item>
+    
+    <item>
+      <title>Newsletter 28</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-28/</link>
+      <pubDate>Sun, 22 Jul 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-28/</guid>
+      <description>Release time The long awaited 0.3.3 release is branched; the usual preparations for releases are under way. You should already know we skipped a version number and that this release is primarily bug fixes from the massive kernel rewrites that have been taking place. Stability being the primary motivation of this release, I can safely say this is a big improvement from the 0.3.1 release. The outlook looks bright on future releases, ever closer to the 0.</description>
+    </item>
+    
+    <item>
+      <title>Newsletter 23</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-23/</link>
+      <pubDate>Tue, 01 May 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-23/</guid>
+      <description>Just to make it clear, while we aim for a biweekly newsletter, we only aim for it to be up around Sunday. It can easily be delayed if there isn&#39;t enough to talk about. The Road to 0.3.2 For those of you who don&#39;t follow the ReactOS scene closely it may be hard to know what exactly is happening in terms of development progress. The technical nature of some improvements also proves confusing to most people.</description>
+    </item>
+    
+    <item>
+      <title>Newsletter 21</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-21/</link>
+      <pubDate>Mon, 02 Apr 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-21/</guid>
+      <description>Another newsletter  I am glad I am able to bring you the latest news about ReactOS through this newsletter. It is the purpose of this newsletter to inform everyone of the recent work and notable highlights of this great project. It is my hope that you will find it useful and informative. (Insert license agreement indicating no particular usefulness, assorted legal wording and notices here... Just kidding!) Project News   New storage stack based on NT4-DDK examples implemented in trunk, fixes booting on VmWare and several other nasty bugs.</description>
+    </item>
+    
+    <item>
+      <title>Newsletter 19</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-19/</link>
+      <pubDate>Mon, 12 Mar 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-19/</guid>
+      <description>0.3.1 Released! After months of discussions, testing and of course mountains of code, it&amp;rsquo;s finally here! The official release announcement was made by our project coordinator. This release has many deep down changes that may not be comprehensible to most users, but most users will in fact notice improved stability and speed. The changelog will tell you about these changes in technical terms, but the best testimony would be your own tests.</description>
+    </item>
+    
+    <item>
+      <title>Newsletter 18</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-18/</link>
+      <pubDate>Wed, 28 Feb 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-18/</guid>
+      <description>Opening Words Here is another informative newsletter for your enjoyment. You may have recently noticed last issue, that some of our developers were part of community conferences and events. It&amp;rsquo;s all part of new PR efforts to get ReactOS out there, in front of serious developers and community leaders. To raise awareness of how much ReactOS has advanced and it&amp;rsquo;s vast potential.
+I&amp;rsquo;m kind of wary of this issue, I&amp;rsquo;ve been talking about 0.</description>
+    </item>
+    
+    <item>
+      <title>Newsletter 17</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-17/</link>
+      <pubDate>Mon, 12 Feb 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-17/</guid>
+      <description>Busy Times It&#39;s been a hectic 3 weeks, yes I am 1 week overdue. I&#39;ve been real busy with school and personal stuff, but I haven&#39;t been the only one thats been busy. It seems in my absence that 0.3.1 is finally shaping up. In this issue I will expand on the developments that have occurred not only in the main development branch (trunk), but also in the &amp;quot;stable&amp;quot; release branch for 0.</description>
+    </item>
+    
+    <item>
+      <title>Newsletter 16</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-16/</link>
+      <pubDate>Thu, 18 Jan 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-16/</guid>
+      <description>Another 2 weeks without 0.3.1 I know you&#39;ve been waiting for it(I sure have), but you certainly want a release that will boot. ReactOS will still be alpha, unstable and not recommended for everyday use. If you&#39;re really hardcore you&#39;ll try out the SVN versions. I can say that 0.3.1 will be a VERY significant improvement from 0.3.0, when we can finally get it to run on your PC.  Also I would like to remind everyone(just in case you missed the big fundraising bar at the top of every reactos.</description>
+    </item>
+    
+    <item>
+      <title>Newsletter 15</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-15/</link>
+      <pubDate>Sun, 07 Jan 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-15/</guid>
+      <description>On the status of 0.3.1 Many of you have asked about 0.3.1 since it was clearly promised for the time frame of late December-early January. There have been many queries about it in the chat rooms and forums. Well, the problem is actually rather simple. The developers have decided that releases should be made every month, or at an appropriate time where in trunk or a designated branch is reasonably usable and showcases the progress of the ReactOS project.</description>
+    </item>
+    
+    <item>
+      <title>Newsletter 14</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-14/</link>
+      <pubDate>Thu, 28 Dec 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-14/</guid>
+      <description>Another Introduction  Hello, my name is Samuel Serapi&amp;oacute;n, IRC nick: encoded. I Hail from San Juan, Puerto Rico, a 20 year old computer engineering student, I will be your ReactOS informant today. I have great hopes for this project, and this is the small part I do to help it. What will YOU do to help ReactOS!? Website Outage  The day was December 14, 2006. A day which will live in infamy, well maybe not that much.</description>
+    </item>
+    
+  </channel>
+</rss>

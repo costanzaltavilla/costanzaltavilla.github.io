@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Amaneureka on ReactOS Website</title>
+    <link>https://costanzaltavilla.github.io/author/amaneureka/</link>
+    <description>Recent content in Amaneureka on ReactOS Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 Jul 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://costanzaltavilla.github.io/author/amaneureka/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SATA AHCI Driver GSoC - Update</title>
+      <link>https://costanzaltavilla.github.io/blogs/sata-ahci-driver-gsoc-update/</link>
+      <pubDate>Mon, 25 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/sata-ahci-driver-gsoc-update/</guid>
+      <description>Links
+ Short Brief Driver Testing Why no blog? Known Issues  Short Brief
+Supported Features:
+ Device Adapter Detection Non-Fatal Error Handling Adapter Srb PNP Request SCSIOP_INQUIRY : Device Inquiry SCSIOP_REPORT_LUNS : Report LUN SCSIOP_READ_CAPACITY : Device Geometry SCSIOP_TEST_UNIT_READY SCSIOP_READ : Device Read Request  UnSupported Features:
+ Fatal Error Handling SCSIOP_MODE_SENSE SCSIOP_WRITE NCQ : Native Command Queuing Cache and Priority Requests  Driver Testing
+Platform: Virtual Machine (Vmware)</description>
+    </item>
+    
+    <item>
+      <title>SATA AHCI Driver GSoC - Week 5 Update</title>
+      <link>https://costanzaltavilla.github.io/blogs/sata-ahci-driver-gsoc-week-5-update/</link>
+      <pubDate>Wed, 29 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/sata-ahci-driver-gsoc-week-5-update/</guid>
+      <description>From beginning of week I started reading more stuffs (core) about AHCI and trying to plan a road map which I will follow after making first version of AHCI driver. Throughout the week I made some progress with Interrupt Handler and AHCI port programming. Though I have finished port programming routine and next I will complete Interrupt Handler followed by Srb functions.
+Port programming is still untested (fingers crossed), because I can&#39;t test it without Interrupt Handler routine (I can, but It will not give 100% surety) looking forward to get these two routines tested in this week.</description>
+    </item>
+    
+    <item>
+      <title>SATA AHCI Driver GSoC - Week 4 Update</title>
+      <link>https://costanzaltavilla.github.io/blogs/sata-ahci-driver-gsoc-week-4-update-0/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/sata-ahci-driver-gsoc-week-4-update-0/</guid>
+      <description>This week I worked on AHCI IO Request Processing and FIS programming part. I implemented IO Queue, Slot distribution mechanism for AHCI requests. Updated Github&#39;s PR for next round of code review.
+Next I will be working on port programming i.e. telling the controller about the slots that I&#39;ve allotted for IO request.
+Very soon we will have a running AHCI device driver :D
+I also added a notes.txt file which actually tracks my progress for every routine/support link</description>
+    </item>
+    
+    <item>
+      <title>SATA AHCI Driver GSoC - Week 3 Update</title>
+      <link>https://costanzaltavilla.github.io/blogs/sata-ahci-driver-gsoc-week-3-update/</link>
+      <pubDate>Tue, 14 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/sata-ahci-driver-gsoc-week-3-update/</guid>
+      <description>I&#39;ll put my vision toward the version 1.0 of driver first. If we come to the uni_ata which is actually right now supporting React OS with SATA AHCI driver. uni_ata is actually operating SATA device in legacy mode of operation and with no support of NCQ. Although NCQ is not really necessary for now, because I think we are right now targeting to have hardware support as much as we can (this is as per my understanding).</description>
+    </item>
+    
+    <item>
+      <title>SATA AHCI Driver GSoC - Week 2 Update</title>
+      <link>https://costanzaltavilla.github.io/blogs/sata-ahci-driver-gsoc-week-2-update/</link>
+      <pubDate>Tue, 07 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/sata-ahci-driver-gsoc-week-2-update/</guid>
+      <description>In the first week I gained enough knowledge to kick start the coding part. I started implementation with minimal featured design idea i.e. started implementation of non-optional routines first and in order they are being called by Storport/OS. Listed below   DriverEntry:  Registered the driver with very standard configurations (that I learned by WDK samples) and with non-optional (required entrypoint for Storport) Hw Routines. Standard configuration includes NeedPhysicalAddresses (TRUE)</description>
+    </item>
+    
+    <item>
+      <title>SATA AHCI Driver GSoC - Week 1 Update</title>
+      <link>https://costanzaltavilla.github.io/blogs/sata-ahci-driver-gsoc-week-1-update/</link>
+      <pubDate>Thu, 02 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/sata-ahci-driver-gsoc-week-1-update/</guid>
+      <description>To be honest I started working on project after my college finals i.e. 27th of May, Before that I tried to setup build environment and test bed in virtual machine running win2k3. I was totally new to NT driver development so I started my journey with reading storage stack model and NT driver development guide.
+In the first week I explored storage stack of NT 5.2 completely and presented my work plan to my mentor.</description>
+    </item>
+    
+  </channel>
+</rss>

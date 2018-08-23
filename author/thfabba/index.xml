@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thfabba on ReactOS Website</title>
+    <link>https://costanzaltavilla.github.io/author/thfabba/</link>
+    <description>Recent content in Thfabba on ReactOS Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 11 Feb 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://costanzaltavilla.github.io/author/thfabba/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How do security issues happen?</title>
+      <link>https://costanzaltavilla.github.io/blogs/how-do-security-issues-happen/</link>
+      <pubDate>Wed, 11 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/how-do-security-issues-happen/</guid>
+      <description>If you are a Windows user, you may be used to seeing a bunch of updates pop up around the second Tuesday of every month that purport to fix &#34;critical security issues.&#34; Microsoft&#39;s continuous effort to fix these vulnerabilities in its operating system consumes a lot of resources, but it is well worth it to the users: in a world of ever-increasing cyber security threats, no hole in our computers&#39; defenses should be left open to potential attackers.</description>
+    </item>
+    
+  </channel>
+</rss>

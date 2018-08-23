@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Donors on ReactOS Website</title>
+    <link>https://costanzaltavilla.github.io/donors/</link>
+    <description>Recent content in Donors on ReactOS Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 17 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://costanzaltavilla.github.io/donors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2018</title>
+      <link>https://costanzaltavilla.github.io/donors/2018/</link>
+      <pubDate>Fri, 17 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/donors/2018/</guid>
+      <description>Name Date Amount     Nikamoto Hiroshi 2018-08-13 EUR 15.00   Mohamed Labbari 2018-08-13 EUR 5.00   Elias Scheller 2018-08-13 EUR 1.00   Jakub Poterski 2018-08-13 EUR 2.00   Robert Linder 2018-08-13 EUR 5.00   Wayne Boshier 2018-08-12 EUR 5.00   Silent Party 2018-08-12 EUR 2.00   James Andrews 2018-08-12 EUR 5.00   Kashirin Dienis 2018-08-12 EUR 5.</description>
+    </item>
+    
+    <item>
+      <title>2017</title>
+      <link>https://costanzaltavilla.github.io/donors/2017/</link>
+      <pubDate>Sun, 31 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/donors/2017/</guid>
+      <description>Name Date Amount     Kjell Olof Bergström 2017-12-30 EUR 5.00   Johan Haesevoets 2017-12-30 EUR 5.00   David Keenleyside 2017-12-30 EUR 1.00   Steffen Langbein 2017-12-29 EUR 5.00   Dirk Pfeiffer 2017-12-29 EUR 5.00   Smfhelper Hosting 2017-12-29 EUR 5.00   Renault Eric 2017-12-29 EUR 20.00   Evgeni Khmelnitsky 2017-12-29 EUR 10.00   Kay Wiesner 2017-12-29 EUR 1.</description>
+    </item>
+    
+    <item>
+      <title>2016</title>
+      <link>https://costanzaltavilla.github.io/donors/2016/</link>
+      <pubDate>Sat, 31 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/donors/2016/</guid>
+      <description>Name Date Amount     Thomas Fritz 2016-12-31 EUR 100.00   Johan Haesevoets 2016-12-30 EUR 5.00   Ray Mcanally 2016-12-30 EUR 5.00   Gary Chatters 2016-12-30 EUR 10.00   Volker Ebbert 2016-12-30 EUR 5.00   David Keenleyside 2016-12-30 EUR 1.00   Abstract Logic 2016-12-30 EUR 10.00   Roland Kaeser 2016-12-30 EUR 20.00   Brian Brock 2016-12-29 EUR 5.</description>
+    </item>
+    
+    <item>
+      <title>2015</title>
+      <link>https://costanzaltavilla.github.io/donors/2015/</link>
+      <pubDate>Thu, 31 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/donors/2015/</guid>
+      <description>Name Date Amount     Jens Torsten Grobe 2015-12-30 EUR 20.00   Stefan Voswinkel 2015-12-29 EUR 10.00   Kay Wiesner 2015-12-29 EUR 1.46   Théo Cavignac 2015-12-26 EUR 5.00   Dzmitry Lahoda 2015-12-23 USD 10.00   Jarvis Cline 2015-12-22 USD 15.00   Vivek Rajkumar 2015-12-21 USD 5.00   Daniel Sokolic 2015-12-19 EUR 2.00   Stefan Voswinkel 2015-12-18 EUR 15.</description>
+    </item>
+    
+    <item>
+      <title>2014</title>
+      <link>https://costanzaltavilla.github.io/donors/2014/</link>
+      <pubDate>Wed, 31 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/donors/2014/</guid>
+      <description>Name Date Amount     Stefan Voswinkel 2014-12-30 EUR 5.00   Michael Fritscher 2014-12-24 EUR 10.00   Stefan Voswinkel 2014-12-23 EUR 25.00   Christoph Röger 2014-12-23 EUR 60.00   Mx Kleeb 2014-12-23 USD 1.00   Duncan Elliot 2014-12-19 USD 10.00   Reinhard Krummel 2014-12-18 EUR 55.00   George Papalexopoulos 2014-12-18 EUR 5.00   Ing.Pavol Hlavaty 2014-12-15 EUR 40.</description>
+    </item>
+    
+  </channel>
+</rss>

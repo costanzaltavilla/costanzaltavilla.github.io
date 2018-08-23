@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Developments on ReactOS Website</title>
+    <link>https://costanzaltavilla.github.io/development/</link>
+    <description>Recent content in Developments on ReactOS Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 13 Nov 2011 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://costanzaltavilla.github.io/development/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Debugging Overview</title>
+      <link>https://costanzaltavilla.github.io/development/debugging/</link>
+      <pubDate>Sun, 13 Nov 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/development/debugging/</guid>
+      <description>Debugging is an important skill to have when developing large, complex pieces of software. The ReactOS project has a variety of resources and tools to help its developers identify problems. Several different debuggers are supported by the project and the operating system also generates debug messages that can be captured and viewed using a variety of methods. The below guides will show you how to set up ReactOS and the platform it is installed on to receive debug output as well as how to use a debugger to examine the executing code.</description>
+    </item>
+    
+    <item>
+      <title>Build Environment</title>
+      <link>https://costanzaltavilla.github.io/development/build-environment/</link>
+      <pubDate>Sat, 12 Nov 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/development/build-environment/</guid>
+      <description>The Project provides a package of customized compilers and tools to help quickly set up everything needed to build ReactOS called the ReactOS Build Environment (RosBE) for both Windows and Unix. The BE includes:
+ CMake 2.8.12.1 MinGW GCC 4.7.2 ninja Command-line SVN Client 1.8.5  Note that if one wishes to use Microsoft&#39;s toolchain either from the command line or Visual Studio, simply make sure the bin directory of RosBE is in the path.</description>
+    </item>
+    
+    <item>
+      <title>Development Guide</title>
+      <link>https://costanzaltavilla.github.io/development/development-guide/</link>
+      <pubDate>Sat, 12 Nov 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/development/development-guide/</guid>
+      <description>This guide is intended to help new developers setup and familiarize themselves with the tools needed to obtain, compile, and work with the ReactOS source code, along with a few tips and best practices for the required tools if new developers are unsure what is the best approach to use. This guide does not provide a walkthrough of the ReactOS code base nor does it present an introduction to the NT architecture.</description>
+    </item>
+    
+    <item>
+      <title>Source Control</title>
+      <link>https://costanzaltavilla.github.io/development/source-control/</link>
+      <pubDate>Sat, 12 Nov 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/development/source-control/</guid>
+      <description>Revision control for the ReactOS source code is managed using Subversion. As such, users will need a SVN client. Developers working on Windows are encouraged to use TortoiseSVN as it helps simplify many of the tasks associated with managing source code.
+Source CodeThe ReactOS project&amp;#39;s source code is split into several different folders.
+ReactOS: The operating system itself with required base components. svn://svn.reactos.org/reactos/trunk/reactos/Applications: Additional applications developed for use with ReactOS and bundled with each point release.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,1906 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Z98 on ReactOS Website</title>
+    <link>https://costanzaltavilla.github.io/author/z98/</link>
+    <description>Recent content in Z98 on ReactOS Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 16 Feb 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://costanzaltavilla.github.io/author/z98/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ReactOS 0.4.4 Released</title>
+      <link>https://costanzaltavilla.github.io/project-news/reactos-044-released/</link>
+      <pubDate>Thu, 16 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/reactos-044-released/</guid>
+      <description>Today marks the fifth release of the ReactOS 0.4.x series, as well as the fifth following the 3 month release cycle started by 0.4.0 itself. Progress has continued steadily, with a great deal of work going on in the background to improve ReactOS&#39; general usability and stability. Many of these improvements were on display at the FOSDEM convention in Brussels that took place on the 4th and 5th of this month.</description>
+    </item>
+    
+    <item>
+      <title>ReactOS at FOSDEM 2017</title>
+      <link>https://costanzaltavilla.github.io/project-news/reactos-fosdem-2017/</link>
+      <pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/reactos-fosdem-2017/</guid>
+      <description>The ReactOS project will be attending FOSDEM 2017 in Brussels, on Feburary 4th and 5th. The team will be represented by Colin Finck and Hermès BÉLUSCA-MAÏTO in the K Building, manning a joint booth with Adrien Destugues and François Revol from the HaikuOS project, which ReactOS has long had amicable relations with. Be sure to drop by and say hello to the gang, grab some CDs, and if the stars align play a few games.</description>
+    </item>
+    
+    <item>
+      <title>Developer Contract</title>
+      <link>https://costanzaltavilla.github.io/project-news/developer-contract/</link>
+      <pubDate>Mon, 09 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/developer-contract/</guid>
+      <description>The ReactOS Project is pleased to announce that it is appointing Giannis Adamopoulos as a paid developer. Many of you will recall that Giannis was one of the developers heavily responsible for getting the explorer-new shell into trunk, working extensively on the shell32 library that it depended upon. The objective of his current appointment is also shell related, and is specifically to work out the remaining issues in proper theme support, an oft requested feature by the community and one of the milestones of the Community Edition distribution.</description>
+    </item>
+    
+    <item>
+      <title>ReactOS 0.4.3 Released</title>
+      <link>https://costanzaltavilla.github.io/project-news/reactos-043-released/</link>
+      <pubDate>Wed, 16 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/reactos-043-released/</guid>
+      <description>The ReactOS Project is pleased to announce the release of another incremental update, version 0.4.3. This would be fourth such release the project has made this year, an indication we hope of the steady progress that we have made. Approximately 342 issues were resolved since the release of 0.4.2, with the oldest dating all the way back to 2006 involving text alignment.
+Notable in this release is the switching to a new winsock library that had been started several years ago by Alex Ionescu and imported into trunk by Ged Murphy.</description>
+    </item>
+    
+    <item>
+      <title>Google Summer of Code 2016 Conclusion</title>
+      <link>https://costanzaltavilla.github.io/blogs/google-summer-code-2016-conclusion/</link>
+      <pubDate>Wed, 07 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/google-summer-code-2016-conclusion/</guid>
+      <description>It&#39;s been a long but ultimately rewarding journey to the completion of Google Summer of Code 2016 for the ReactOS Project. As a project that seeks to implement an open source operating system based off of the NT architecture and compatible with both NT device drivers and Win32 applications, ReactOS faces some rather distinct challenges compared to other open source OS projects. With an emphasis on compatibility and familiarity, interest in the project has increased substantially after the major revamps the other family of NT operating systems has underwent over the past few years.</description>
+    </item>
+    
+    <item>
+      <title>ReactOS 0.4.2 Released</title>
+      <link>https://costanzaltavilla.github.io/project-news/reactos-042-released/</link>
+      <pubDate>Tue, 16 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/reactos-042-released/</guid>
+      <description>The ReactOS Project is pleased to announce the release of version 0.4.2, again within three months of the previous release. The team sincerely hopes that this new rapid release cycle will hold for future releases as well. If there is one word to describe progress on the project, it would be steady. The project is reaching a point where rapid releases are viable, where disruption from introduction of major components or restructuring has been greatly reduced from the tumultuous early years and even as recently as the late 0.</description>
+    </item>
+    
+    <item>
+      <title>Google SoC lwIP Report Week 1</title>
+      <link>https://costanzaltavilla.github.io/blogs/google-soc-lwip-report-week-1/</link>
+      <pubDate>Fri, 27 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/google-soc-lwip-report-week-1/</guid>
+      <description>Note: I am publishing these but each student is responsible for actually writing them.
+I am Zuodian Hu or, as I like to be called, Dian (pronounced the same as Dan). I just finished my junior year at the University of Wisconsin at Madison, where I am working on an electrical engineering and computer science double major. My personal interest lies in systems programming and digital logic. In addition to my classes, I play violin in the UW-Madison symphony orchestra and do programming for Wisconsin Robotics and the UW-Madison team competing in the NASA Robotics Mining Competition.</description>
+    </item>
+    
+    <item>
+      <title>ReactOS 0.4.1 Released</title>
+      <link>https://costanzaltavilla.github.io/project-news/reactos-041-released/</link>
+      <pubDate>Tue, 17 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/reactos-041-released/</guid>
+      <description>The ReactOS team is proud to announce the release of version 0.4.1 a mere three months after the release of 0.4.0. The team has long desired an increased release tempo and the hope is that this will be the first of many of faster iterations.
+Due to the brief period of time between the two releases, 0.4.1 is ultimately a refinement of what was in 0.4.0. That is not to say that there are no new features of course, and a few highlights of both categories are listed below.</description>
+    </item>
+    
+    <item>
+      <title>ReactOS 0.4.0 Released</title>
+      <link>https://costanzaltavilla.github.io/project-news/reactos-040-released/</link>
+      <pubDate>Tue, 16 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/reactos-040-released/</guid>
+      <description>Nearly ten years ago the ReactOS Project released version 0.3.0. Today we are proud to announce the formal release of version 0.4.0. A great deal of work has gone into making this release happen and as we look back it is remarkable to consider how far the project has come since that release a decade ago. This release is both a celebration of and a testament to everything that the ReactOS team and community has achieved together.</description>
+    </item>
+    
+    <item>
+      <title>Building ReactOS</title>
+      <link>https://costanzaltavilla.github.io/building-reactos/</link>
+      <pubDate>Sun, 31 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/building-reactos/</guid>
+      <description>We&#39;ve invested a great deal of time and effort to making building ReactOS as painless as possible and the ReactOS Build Environment is the fruit of those labors. Instead of requiring you to go and hunt down a half dozen different packages, the RosBE bundles all of the tools needed to get started with ReactOS development.
+ CMake - The build generation program used to describe the source code of ReactOS so that a variety of compiler toolchains can be used to build it.</description>
+    </item>
+    
+    <item>
+      <title>Installing ReactOS</title>
+      <link>https://costanzaltavilla.github.io/installing-reactos/</link>
+      <pubDate>Sun, 31 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/installing-reactos/</guid>
+      <description>As ReactOS is still in alpha stage development, we encourage would-be testers to first try it out on a virtual machine before taking the plunge with real hardware. Of course regardless of whether you do a physical or virtual install there are some basic requirements to keep in mind.
+ x86 processor, Pentium-class or newer 96MB of RAM, 256MB recommended 650MB of free space minimum, 5GB+ recommended if you intend to do testing VGA compatible graphics card, VESA BIOS 2.</description>
+    </item>
+    
+    <item>
+      <title>A Very Bunny Christmas</title>
+      <link>https://costanzaltavilla.github.io/blogs/very-bunny-christmas/</link>
+      <pubDate>Mon, 21 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/very-bunny-christmas/</guid>
+      <description>See here for explanation of the Bunnies.
+When Z logged onto the ROS virtual net he was met with two unexpected things.&amp;nbsp; Seeing as one involved an AI hivemind that the team still did not fully understand he decided to satisfy his curiosity with the other surprise.
+“Colin.”
+The German man glanced up.&amp;nbsp; “Oh, hey Z.&amp;nbsp; Wasn’t expecting you in today.”
+“Likewise,” Z said with a slight smirk.&amp;nbsp; “Don’t you Europeans check out for the entire week before Christmas?</description>
+    </item>
+    
+    <item>
+      <title>Introduction to NDIS Driver Development</title>
+      <link>https://costanzaltavilla.github.io/blogs/introduction-ndis-driver-development/</link>
+      <pubDate>Thu, 17 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/introduction-ndis-driver-development/</guid>
+      <description>Drivers come in many forms as does the hardware they control.&amp;nbsp; Perhaps one of the simplest types of drivers to write for the NT kernel is an NDIS driver for network cards, simplest being in the context of kernel development.&amp;nbsp; That simplicity comes from how the framework used for NIC drivers abstracts away some of the manual setup needed for drivers, eliminating a lot of boilerplate code and making it easier to get a handle on the actual hardware operations being performed.</description>
+    </item>
+    
+    <item>
+      <title>On Patches</title>
+      <link>https://costanzaltavilla.github.io/blogs/on-patches/</link>
+      <pubDate>Mon, 15 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/on-patches/</guid>
+      <description>Before I begin, I should make clear that for all intents and purposes I am not a &#34;developer&#34; on the project. I have actually tried very hard to avoid falling into that role, as most people who do become developers end up getting sucked into that work to the point where of the time they do dedicate to the project, they tend to not have any left over to do other work that the project needs.</description>
+    </item>
+    
+    <item>
+      <title>Explorer Shell Merged</title>
+      <link>https://costanzaltavilla.github.io/project-news/explorer-shell-merged/</link>
+      <pubDate>Wed, 26 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/explorer-shell-merged/</guid>
+      <description>To all the community members, we of the ReactOS Project present an early Thanksgiving present in the form of the merging of the explorer_new branch into trunk. It has been a long road with explorer_new&#39;s development having stretched many years. It is only fitting that we also celebrate the people who contributed so much to bringing this to fruition, some of whom we pay specific thanks to below.
+The first such person actually never touched explorer_new, but his contribution should not be overlooked.</description>
+    </item>
+    
+    <item>
+      <title>Network development branch</title>
+      <link>https://costanzaltavilla.github.io/blogs/network-development-branch/</link>
+      <pubDate>Mon, 17 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/network-development-branch/</guid>
+      <description>People following the SVN logs may have noticed Jerome Gardou creating a network rework branch and ripping out massive chunks of the current code. To explain what prompted this requires a bit of history and background. Many years ago Cameron Gutman imported the lightweight IP (lwIP) library so that ReactOS could take advantage of its TCP implementation for the network stack. It was only used for TCP however, meaning ReactOS was still relying on its existing implementation for things like UDP and ICMP.</description>
+    </item>
+    
+    <item>
+      <title>ReactOS 0.3.17 Released</title>
+      <link>https://costanzaltavilla.github.io/project-news/reactos-0317-released/</link>
+      <pubDate>Wed, 05 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/reactos-0317-released/</guid>
+      <description>The ReactOS Project is pleased to release version 0.3.17. A major new feature for this release is the inclusion of NTVDM, which provides support for a wide range of 16bit applications, a long requested feature by the community. NTVDM is still undergoing work but we felt that it was ready enough to provide a sneak peak to the wider community. In addition, the leadup to the 0.3.17 release saw a very impressive round of testing by the community.</description>
+    </item>
+    
+    <item>
+      <title>October 2014 Meeting Minutes</title>
+      <link>https://costanzaltavilla.github.io/project-news/october-2014-meeting-minutes/</link>
+      <pubDate>Tue, 04 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/october-2014-meeting-minutes/</guid>
+      <description>2014-10-30
+19:00 UTC
+dev.reactos.org, #meeting
+Proceedings Meeting started at 19:05 by Aleksey Bragin.
+ Point 1: Developer Briefings Point 2: 0.3.17 Point 3: 0.4.0 and Future Releases  Point 1 Amine Khaldi has been working on wine syncs and shell bringup testing. Christoph von Wittich has been making minor fixes as he finds time. David Quintana has been resolving the last of the serious memory leaks and considers the branch close to ready for merging back into trunk.</description>
+    </item>
+    
+    <item>
+      <title>Plugging Leaks</title>
+      <link>https://costanzaltavilla.github.io/blogs/plugging-leaks/</link>
+      <pubDate>Mon, 27 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/plugging-leaks/</guid>
+      <description>David is currently a tad busy getting the shell branch ready for the big merge, so I am taking over his usual report this time. Last week was a flurry of activity as David, Giannis, and a community member who wishes to be identified as &#34;V&#34; (those of you in IRC will know who he is, but he requested that we refrain from posting his nick and I expect the rest of the community to honor his request) investigated the large number of memory leaks that explorer_new suffered from.</description>
+    </item>
+    
+    <item>
+      <title>Developer Contract for Jerome Gardou</title>
+      <link>https://costanzaltavilla.github.io/project-news/developer-contract-jerome-gardou/</link>
+      <pubDate>Mon, 20 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/developer-contract-jerome-gardou/</guid>
+      <description>This is somewhat belated, but for the past month Jérôme Gardou has been working under a development grant issued by ReactOS Deutschland e.V. Jerome has been active working on the memory manager and his fixes were instrumental to getting a modern Java runtime to work. Other efforts with the Common Cache will help pave the way for adding support for more advanced and modern filesystems to ReactOS. Jerome&#39;s contract saw him pay special attention to the three applications, Chrome, Java, and Microsoft Office, voted on for support in the Community Edition, and several fixes were made to the network stack as he sought to stabilize Chrome.</description>
+    </item>
+    
+    <item>
+      <title>MIAOW Open Source GPU</title>
+      <link>https://costanzaltavilla.github.io/blogs/miaow-open-source-gpu/</link>
+      <pubDate>Mon, 20 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/miaow-open-source-gpu/</guid>
+      <description>About a year ago I basically disappeared from the project, showing up only very intermittently to write up snippets of text as requested by the team. The reason was I was ramping up for my master&#39;s project, an attempt to put a GPU design on an FPGA. For those of you who do not know what FPGAs are, think of them as chips that you can modify the digital logic on to change its functionality.</description>
+    </item>
+    
+    <item>
+      <title>PITA bugs part 5</title>
+      <link>https://costanzaltavilla.github.io/blogs/pita-bugs-part-5/</link>
+      <pubDate>Thu, 16 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/pita-bugs-part-5/</guid>
+      <description>I mentioned in my last rant about annoying bugs that I do firmware development for the LHC triggers. In addition to that however, as one of the people with experience doing low level embedded programming on the team, I can get tapped to work on a variety of other systems. Recently I was asked to update an old AVR microcontroller codebase that was written for a proprietary toolchain to use AVR-GCC.</description>
+    </item>
+    
+    <item>
+      <title>ReactOS Joins Open Invention Network</title>
+      <link>https://costanzaltavilla.github.io/project-news/reactos-joins-open-invention-network/</link>
+      <pubDate>Fri, 03 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/reactos-joins-open-invention-network/</guid>
+      <description>The ReactOS Foundation officially joins the Open Invention Network! The Open Invention Network is a shared defensive patent pool with the mission to protect Linux. Launched in 2005, OIN has strong industry support with backing from Google, IBM, NEC, Philips, Red Hat, Sony and SUSE (a business unit of Novell). ReactOS is just a small piece in this big opensource world and even if we&#39;re not a Linux project, helping to protect the opensource spirit is, and will always be, a must for us.</description>
+    </item>
+    
+    <item>
+      <title>Moonshot Finale</title>
+      <link>https://costanzaltavilla.github.io/blogs/moonshot-finale/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/moonshot-finale/</guid>
+      <description>The virtual conference room was deathly quiet as Colin and Z finished their report.&amp;nbsp; The gathered represented the core of the project’s decision makers as well as a few of the relevant developers and alumni.&amp;nbsp; All of them were gapping in some fashion or another at the two men standing before them.&amp;nbsp; The first one to verbally react was KJK, who burst out laughing.&amp;nbsp; The others looked somewhat incredulously at him until he managed to recompose himself.</description>
+    </item>
+    
+    <item>
+      <title>September 2014 Meeting Minutes</title>
+      <link>https://costanzaltavilla.github.io/project-news/september-2014-meeting-minutes/</link>
+      <pubDate>Tue, 30 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/september-2014-meeting-minutes/</guid>
+      <description>2014-09-25
+19:00 UTC
+dev.reactos.org, #meeting
+Proceedings Meeting started at 19:00 by Ziliang Guo.
+ Point 1: Developer Briefings Point 2: Jira Point 3: Website  Point 1 Aleksey Bragin had been ill for a bit, which was also why the previous meeting was canceled. Alexander Rechitskiy has been working to promote ReactOS to various organizations. Daniel Reimer has been testing a variety of games and multimedia applications, trying to restore sound that was broken due to a Wine sync of DSound not playing nicely with ReactOS&#39; sound stack.</description>
+    </item>
+    
+    <item>
+      <title>Moonshot Part 3</title>
+      <link>https://costanzaltavilla.github.io/blogs/moonshot-part-3/</link>
+      <pubDate>Tue, 23 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/moonshot-part-3/</guid>
+      <description>The answer to the mystery about the bunnies’ extracurricular activities came soon enough, in no small part thanks to the amount of time the two spent investigating.&amp;nbsp; The bunnies were extremely useful helper utilities and if they were suffering from a bug, it needed fixing otherwise the project would risk losing one of its more useful tools.&amp;nbsp; By the end of these events the bunnies would be considered one of the core assets underpinning the entire project.</description>
+    </item>
+    
+    <item>
+      <title>Memory Manager Development</title>
+      <link>https://costanzaltavilla.github.io/blogs/memory-manager-development/</link>
+      <pubDate>Tue, 09 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/memory-manager-development/</guid>
+      <description>The legacy memory manager in ReactOS has many idiosyncrasies and architectural quirks, issues that have dogged the project for many years now. The ARM team began a rewrite, colorfully named Another Rewrite of the Memory Management Module (ARM3), that partially supplanted the old memory manager but a big chunk of responsibility still lie with it, namely in the form of MEMORY_AREA. Simply put, MEMORY_AREA was the means by which memory address ranges were tracked, tracking which is necessary for things like handling paging.</description>
+    </item>
+    
+    <item>
+      <title>Moonshot Part 2</title>
+      <link>https://costanzaltavilla.github.io/blogs/moonshot-part-2/</link>
+      <pubDate>Tue, 02 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/moonshot-part-2/</guid>
+      <description>The incident that ultimately aroused the suspicion of the project technically occurred first but the analysis was concluded afterwards so it was generally treated as the second checkpoint in the road to the revelation.&amp;nbsp; The initial reaction hovered between heavy uncertainty and cautious concern, a concern that only grew over time.
+ The briefing with the various governmental representatives came and went and was as excruciatingly pointless and braindead as Z had presumed.</description>
+    </item>
+    
+    <item>
+      <title>PSEH Data Corruption</title>
+      <link>https://costanzaltavilla.github.io/blogs/pseh-data-corruption/</link>
+      <pubDate>Wed, 27 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/pseh-data-corruption/</guid>
+      <description>An extremely rare data corruption issue caused by the Portable Structured Exception Handling library was discovered recently, one that is rather interesting in all the factors to come into play to bring it about. PSEH was a library created by KJK::Hyperion and massively overhauled by Timo Kreuzer for its third iteration, intended to bring Structured Exception Handling to GCC. SEH is natively supported by Microsoft&#39;s compilers and underpins a lot of error handling on Windows and so was necessary for proper compatibility between ReactOS&#39; components and Windows&#39;.</description>
+    </item>
+    
+    <item>
+      <title>July 2014 Meeting Minutes</title>
+      <link>https://costanzaltavilla.github.io/project-news/july-2014-meeting-minutes/</link>
+      <pubDate>Fri, 22 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/july-2014-meeting-minutes/</guid>
+      <description>2014-07-03
+19:00 UTC
+dev.reactos.org, #meeting Proceedings Meeting started at 19:01 by Aleksey Bragin.
+ Point 1: Developer Briefings Point 2: Community Edition Update  Point 1 Aleksandar Andrejevic reported that he was unfortunately unable to make much progress with the memory manager and is reverting back to fixing issues with NTVDM. Aleksey Bragin noted that he still had some patches for ARWINSS that needed to be merged in. David Quintana reported that had implemented support for shell service objects and added a skeleton component that contains the system tray for things like volume control, battery icon, USB disconnection, and the like.</description>
+    </item>
+    
+    <item>
+      <title>Moonshot Part 1</title>
+      <link>https://costanzaltavilla.github.io/blogs/moonshot-part-1/</link>
+      <pubDate>Fri, 22 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/moonshot-part-1/</guid>
+      <description>These days when asked what a moonshot was, most people would respond with blank looks and then ask if it had something to do with the moon.&amp;nbsp; A few more knowledgeable persons might respond that it referred to the Apollo program.&amp;nbsp; Still others would say it referred to any project whose chances of success were low or might take a very long time to show demonstrable success.&amp;nbsp; The Reactive Operator System fell squarely in that third category and it was with some irony that with every success it achieved its future goals became ever loftier.</description>
+    </item>
+    
+    <item>
+      <title>ReactOS at Kieler Linux Tage 2014</title>
+      <link>https://costanzaltavilla.github.io/project-news/reactos-kieler-linux-tage-2014/</link>
+      <pubDate>Mon, 11 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/reactos-kieler-linux-tage-2014/</guid>
+      <description>The ReactOS Project will be at the Kieler Linux Tage convention, running September 19th to the 20th in Kiel. Several of the developers will be present and Colin Finck will be presenting the project at a talk on the 20th at 11AM local time. So stop by if you are in the area and say hi to the developers.</description>
+    </item>
+    
+    <item>
+      <title>June 2014 Meeting Minutes</title>
+      <link>https://costanzaltavilla.github.io/project-news/june-2014-meeting-minutes/</link>
+      <pubDate>Wed, 09 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/june-2014-meeting-minutes/</guid>
+      <description>Due to scheduling conflicts (World Cup) the June meeting was moved to July 3rd.
+2014-07-03
+19:00 UTC
+dev.reactos.org, #meeting
+Proceedings Meeting started at 19:22 by Aleksey Bragin.
+ Point 1: Developer Briefings Point 2: Development Focus  Point 1 Developers went over brief summaries of their current work and their intended plans. Aleksandar Andrejevic has been working on the memory manager and intends to complete the transition from using the old MEMORY_AREA to virtual address descriptors.</description>
+    </item>
+    
+    <item>
+      <title>PITA bugs part 4</title>
+      <link>https://costanzaltavilla.github.io/blogs/pita-bugs-part-4/</link>
+      <pubDate>Thu, 26 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/pita-bugs-part-4/</guid>
+      <description>Most of the developers already know this, but my current job is as an engineer working on firmware and software for the trigger system of the Large Hadron Collider (yes, the thing that discovered the Higgs boson). Triggers are basically filters that take in the raw data coming out of the LHC and whittle down the noise to figure out what data is worth keeping and what can be discarded. This is something of a necessity as one of the physics professors that I spoke to mentioned the LHC generates something like a terabyte of data a second when doing collisions.</description>
+    </item>
+    
+    <item>
+      <title>Indiegogo Summary</title>
+      <link>https://costanzaltavilla.github.io/project-news/indiegogo-summary/</link>
+      <pubDate>Fri, 13 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/indiegogo-summary/</guid>
+      <description>The final count: 348 credits, 243 votes, 54 Wall of Fame, and $25,141 with over 500 backers from over two dozen countries.
+Even if the funding goal was not met, the response from the community has been phenomenal and we are grateful for all the support, not just in backing the campaign but also in spreading the word. Thanks to the Campaign, ReactOS and the Community Edition has been shown off by countless blogs, open source news feeds, community sites, and personal pages.</description>
+    </item>
+    
+    <item>
+      <title>Precise Calculator Joins Open Source Support Program</title>
+      <link>https://costanzaltavilla.github.io/project-news/precise-calculator-joins-open-source-support-program/</link>
+      <pubDate>Fri, 30 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/precise-calculator-joins-open-source-support-program/</guid>
+      <description>The calculator in modern versions of Windows is a very useful tool, but it is still limited in many respects especially when trying to punch in a long computation. Third parties have come up with a variety of alternatives though and it is the Project&#39;s great pleasure to present Precise Calculator as another member of the Open Source Support Program.
+Precise Calculator not only has feature parity with the native calculator on Windows, it offers a variety of enhancements such as unit conversions and even the ability to script calculations.</description>
+    </item>
+    
+    <item>
+      <title>PWCT Joins Open Source Support Program</title>
+      <link>https://costanzaltavilla.github.io/project-news/pwct-joins-open-source-support-program/</link>
+      <pubDate>Wed, 28 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/pwct-joins-open-source-support-program/</guid>
+      <description>The ReactOS Project is pleased to announce PWCT as a new participant in the Open Source Support Program.
+Programming Without Coding Technology (PWCT) is a set of tools that tries to make GUI programming more accessible, especially for people with little programming experience.
+PWCT is focused on visual programming&amp;nbsp; and comes with a very practical syntax editor. Its program paradigm ranges from imperative to event driven and uses tree hierarchies instead of a drag-and-drop style.</description>
+    </item>
+    
+    <item>
+      <title>PeaZIP Joins Open Source Support Program</title>
+      <link>https://costanzaltavilla.github.io/project-news/peazip-joins-open-source-support-program/</link>
+      <pubDate>Wed, 28 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/peazip-joins-open-source-support-program/</guid>
+      <description>The ReactOS Project is pleased another participant in the Open Source Support Program, PeaZIP.
+Many community members have been asking that some sort of zip utility be bundled with ReactOS for convenience and while participation in the program does not mean PeaZIP will be present by default, it will make it considerably easier for users to pre-stage PeaZIP so that it will be available to use once the installation of ReactOS is complete.</description>
+    </item>
+    
+    <item>
+      <title>LibreCAD joins ReactOS Open Source Support Program</title>
+      <link>https://costanzaltavilla.github.io/project-news/librecad-joins-reactos-open-source-support-program/</link>
+      <pubDate>Mon, 19 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/librecad-joins-reactos-open-source-support-program/</guid>
+      <description>Computer Aided Design software has long been the bastion of proprietary vendors such as Autodesk and SolidWorks where license seats tend to run into the thousands of dollars, putting them well out of reach of enthusiasts and hobbyists. It has only been recently that software for design work has become more accessible and in many ways this accessibility has helped spawn the entire Maker revolution that is happening now.
+The ReactOS Project is therefore very pleased to see LibreCAD join as the first member of the Open Source Support Program.</description>
+    </item>
+    
+    <item>
+      <title>On installers</title>
+      <link>https://costanzaltavilla.github.io/blogs/on-installers/</link>
+      <pubDate>Mon, 19 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/on-installers/</guid>
+      <description>The ReactOS installer is probably one of the oldest extant chunks of code in ReactOS that has not undergone significant overhauls for a very long time. Besides some tuning by Alex Ionescu to reduce resource usage and adding initial support for removable devices by Cameron Gutman, it has not seen any real major changes since Eric Kohl put it together all those years ago. For the developers, this was not too much of an issue since the installer did its job perfectly fine for the most part.</description>
+    </item>
+    
+    <item>
+      <title>ReactOS Open Source Support Program</title>
+      <link>https://costanzaltavilla.github.io/project-news/reactos-open-source-support-program/</link>
+      <pubDate>Mon, 12 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/reactos-open-source-support-program/</guid>
+      <description>Open source is more than just individual bits of software in isolation, it is about the ecosystem and environment that those bits of software come together to create. To that end, as part of the Community Edition initiative the ReactOS Project has put together the Open Source Support Program to help its end users in building that environment. When a user installs a new operating system, one of the first things they need to do is go and install all of the applications that they actually need.</description>
+    </item>
+    
+    <item>
+      <title>Indiegogo software/hardware vote info</title>
+      <link>https://costanzaltavilla.github.io/blogs/indiegogo-software-hardware-vote-info/</link>
+      <pubDate>Mon, 07 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/indiegogo-software-hardware-vote-info/</guid>
+      <description>So there&#39;s quite a few questions coming in about the campaign and its rewards. Questions are good, that means people are paying attention to us.
+One of the most common ones is in regard to how to &#34;push&#34; one&#39;s desired hardware or software. Well, the FAQ provides a brief explanation and we&#39;ll expand upon it here. After the funding period is over, a series of votes will be held to whittle down candidates.</description>
+    </item>
+    
+    <item>
+      <title>Blog comments</title>
+      <link>https://costanzaltavilla.github.io/blogs/blog-comments/</link>
+      <pubDate>Thu, 20 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/blog-comments/</guid>
+      <description>Due to the proliferating of spamming in the blog comments, we&#39;re going to disable it outright. For the future we&#39;ll link to a dedicated forum/thread for commenting on blog posts.</description>
+    </item>
+    
+    <item>
+      <title>NTVDM progress</title>
+      <link>https://costanzaltavilla.github.io/blogs/ntvdm-progress/</link>
+      <pubDate>Thu, 13 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/ntvdm-progress/</guid>
+      <description>A while back Aleksander Andrejevic began working on a NTVDM implementation for ReactOS to support 16bit programs. This was one of the more often requested features by the community, which was met with some ambivalence by the developers themsleves since it entailed a significant amount of work. Aleksander then appeared and instead of simply asking for the feature, rolled up his sleeve to do the actual work. Since then NTVDM has made significant progress and other developers like Hermès Bélusca-Maïto and community member Vampyre have joined in to help.</description>
+    </item>
+    
+    <item>
+      <title>Feburary 2014 Meeting Minutes</title>
+      <link>https://costanzaltavilla.github.io/project-news/february-2014-meeting-minutes/</link>
+      <pubDate>Tue, 04 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/february-2014-meeting-minutes/</guid>
+      <description>2014-02-27
+19:00 UTC
+dev.reactos.org, #meeting
+ProceedingsMeeting started at 19:14 by Aleksey Bragin.
+Point 1: Shell Development ProgressPoint 2: Contract JobsPoint 1David Quintana and Giannis Adamopoulos provided a summary of the state of the explorer shell implementation, reporting that a fair amount of the start menu functionality is working when run on Windows. Running the current code in ReactOS however requires some improvements to code imported from Wine with respect to vertical toolbars with custom backgrounds and edges.</description>
+    </item>
+    
+    <item>
+      <title>Regarding the motto proposal</title>
+      <link>https://costanzaltavilla.github.io/blogs/regarding-motto-proposal/</link>
+      <pubDate>Mon, 03 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/regarding-motto-proposal/</guid>
+      <description>The ReactOS Project recently received a proposal to adopt &#34;Open your Windows to Freedom&#34; as the official project motto, with the proposed motto itself having been selected in a self-organized vote by the community. After internal discussions between the team developers and other administrative members, the Project has chosen to reject the proposal. The following outlines the reasons.
+The overaching issue the team has with the proposal is the impression that &#34;</description>
+    </item>
+    
+    <item>
+      <title>On ARM</title>
+      <link>https://costanzaltavilla.github.io/blogs/on-arm/</link>
+      <pubDate>Tue, 11 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/on-arm/</guid>
+      <description>A lot of people have expressed excitement or enthusiasm regarding ARM though when asked to explain their enthusiasm the result has often been incoherent babbling. In other words, the vast majority of people still have trouble communicating their thoughts in a clear and, more importantly, concise, manner. ARM is interesting though and from multiple perspectives. The biggest point is the amount of processing power it represents despite its small physical, power, and thermal footprint.</description>
+    </item>
+    
+    <item>
+      <title>Drag&amp;Drop and Improved interactions.</title>
+      <link>https://costanzaltavilla.github.io/blogs/drag-drop-improved-interactions/</link>
+      <pubDate>Sat, 08 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/drag-drop-improved-interactions/</guid>
+      <description>One of the main issues people trying out ReactOS have complained about is the clunkiness of the shell and how things they expect to work don&#39;t. As the shell serves as the main gateway to using the operating system, if it is hard to use then the OS itself becomes hard to use.
+When talking about &#34;interaction&#34; we can think in two different ways of interaction: The interaction between the user and ReactOS Explorer and the interaction between applications and ReactOS Explorer(well, really the Shell).</description>
+    </item>
+    
+    <item>
+      <title>ReactOS 0.3.16 Released</title>
+      <link>https://costanzaltavilla.github.io/project-news/reactos-0316-released/</link>
+      <pubDate>Thu, 06 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/reactos-0316-released/</guid>
+      <description>The ReactOS Project is pleased to announce the release of version 0.3.16. A little under a year has passed since the previous release and a significant amount of progress has been made. Some of the most significant include completion of the CSRSS rewrite and the first stages of a shell32 rewrite. 0.3.16 is in many ways a prelude to several new features that will provide a noticeable enhancement to user visible functionality.</description>
+    </item>
+    
+    <item>
+      <title>Todo list: ReactOS edition</title>
+      <link>https://costanzaltavilla.github.io/blogs/todo-list-reactos-edition/</link>
+      <pubDate>Tue, 28 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/todo-list-reactos-edition/</guid>
+      <description>So there is this tendency amongst the community to ask why the project doesn&#39;t do this or the project doesn&#39;t do that. A lot of the stuff people want done would tend to fall into my area of responsibility. I tend to frown upon people who make more work for me so I often push back, hard, requiring that others demonstrate their willingness to do some heavy lifting before I will consider a proposal.</description>
+    </item>
+    
+    <item>
+      <title>Shell Contract Report</title>
+      <link>https://costanzaltavilla.github.io/project-news/shell-contract-report/</link>
+      <pubDate>Sat, 25 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/shell-contract-report/</guid>
+      <description>Several months ago the ReactOS Foundation issued a development contract to Giannis Adamopoulos to work on improving ReactOS&#39; shell support. The end goal of this work was to get explorer_new running, though it was understood from the onset that a single contract may not be sufficient to finish the project. Still, the first contract would at least provide a solid foundation that could be built upon. The fruits of Giannis&#39; work were recently previewed with screenshots of explorer_new running on Windows 8 and its inclusion into ReactOS, even though not all functionality is working.</description>
+    </item>
+    
+    <item>
+      <title>The shell</title>
+      <link>https://costanzaltavilla.github.io/blogs/the-shell/</link>
+      <pubDate>Wed, 22 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/the-shell/</guid>
+      <description>A part of me feels a tad guilty testing all of you with promises regarding shell progress. Another part of me feels no guilt whatsoever and I tend to listen to that part more. It helps having no conscience when doing PR, I have found.
+Anyway, recently I started doing the prep work needed for a new release of ReactOS, which will be 0.3.16 despite the constant badgering for me to just go ahead and call the next release 0.</description>
+    </item>
+    
+    <item>
+      <title>Thorium: On the embedded use case</title>
+      <link>https://costanzaltavilla.github.io/blogs/thorium-embedded-use-case/</link>
+      <pubDate>Tue, 14 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/thorium-embedded-use-case/</guid>
+      <description>When people think about &#34;embedded&#34; systems, they often think about ARM systems running Linux. Well, that&#39;s one part of the embedded world, but another big chunk is actually x86 systems running Windows. For that matter, one of the biggest reasons for someone to use x86 in an embedded application is to get the ability to run Windows applications. There are a LOT of point-of-sale and other dumb terminals out there that run Windows due to the widespread availability of a Windows application to do damn near anything.</description>
+    </item>
+    
+    <item>
+      <title>Response to Thorium questions</title>
+      <link>https://costanzaltavilla.github.io/blogs/response-to-thorium-questions/</link>
+      <pubDate>Mon, 06 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/response-to-thorium-questions/</guid>
+      <description>Quite a few people that first look at Thorium ask questions about what exactly it is for and what purpose does it serve. These are not unreasonable questions to ask and the answers are sometimes difficult to parse due to the complexity of Thorium itself. The second set of questions relates to why we believe Thorium is achievable with the amount of funding requested. Let&#39;s go over both sets and hopefully they will convince you we aren&#39;t completely out of our minds.</description>
+    </item>
+    
+    <item>
+      <title>Thorium Core</title>
+      <link>https://costanzaltavilla.github.io/project-news/thorium-core/</link>
+      <pubDate>Mon, 06 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/thorium-core/</guid>
+      <description>Right before Christmas, Aleksey Bragin and Steven Edwards launched the Thorium Core Kickstarter appeal. At its most basic level, the goal is to advance ReactOS development by creating a commercial project using it. The proposed product, as it were, is a remotely accessible desktop environment, basically a computer in the cloud. No longer does one need to shuffle around USB sticks or reinstall applications from computer to computer, simply connect to Thorium and you&#39;ll be back to your familiar setup.</description>
+    </item>
+    
+    <item>
+      <title>Monstera</title>
+      <link>https://costanzaltavilla.github.io/blogs/monstera/</link>
+      <pubDate>Sun, 05 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/monstera/</guid>
+      <description>This post really should have been made months ago, but finding the time to write a full blown newsletter has been getting more and more scarce. That being said, I&#39;ve decided for the short term to split things that would normally act as a single newsletter section into separate blog posts so I don&#39;t need to wait and gather things.
+There was a lot of speculation as to what Monstera was when Aleksey made his commit with some suggesting it is a repeat of his ARWINSS effort but targetted at the memory manager.</description>
+    </item>
+    
+    <item>
+      <title>A Little Christmas Gift</title>
+      <link>https://costanzaltavilla.github.io/project-news/little-christmas-gift/</link>
+      <pubDate>Tue, 24 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/little-christmas-gift/</guid>
+      <description>A year ago the project ran a donation drive to raise money to pay for funded development of ReactOS. While the drive was moderately successful, a slight paperwork issue with the German foundation caused a temporary halt to funded development contracts. Since then, the issue has been resolved and the project has been working to restart handing out development contracts to demonstrate that the money donated to the project is being put to good use.</description>
+    </item>
+    
+    <item>
+      <title>Intellectual Property: Ideology vs Practicality</title>
+      <link>https://costanzaltavilla.github.io/blogs/intellectual-property-ideology-vs-practicality/</link>
+      <pubDate>Sat, 14 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/intellectual-property-ideology-vs-practicality/</guid>
+      <description>The thing that people need to keep in mind when discussing the GPL is that it was created to achieve an ideological and political goal, namely that users of software should have the right to modify and extend the software as they see fit. To achieve this goal, the GPL seeks to ensure that the source code is always available and that reusing the source code in question comes without any restrictions save for what the GPL itself imposes in order to ensure this &#34;</description>
+    </item>
+    
+    <item>
+      <title>Intellectual Property: Fundamentals</title>
+      <link>https://costanzaltavilla.github.io/blogs/intellectual-property-fundamentals/</link>
+      <pubDate>Fri, 15 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/intellectual-property-fundamentals/</guid>
+      <description>Intellectual property is something way too many people like to talk about without actually understanding the nuances of the laws supporting them. While I could easily go on and on about these misconceptions, I&#39;ll focus primarily on those that relate to free software and open source, of which there are plenty. Some of the more prominent ones include incorrectly claiming what is and what is not a GNU Public License (GPL) violation and the notion that companies should &#34;</description>
+    </item>
+    
+    <item>
+      <title>October 2013 Meeting Minutes</title>
+      <link>https://costanzaltavilla.github.io/project-news/october-2013-meeting-minutes/</link>
+      <pubDate>Thu, 14 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/october-2013-meeting-minutes/</guid>
+      <description>2013-10-31
+19:00 UTC
+dev.reactos.org, #meeting
+Proceedings
+Meeting started at 19:08 by Aleksey Bragin.
+Point 1: CoordinationPoint 2: Code Style GuidelinesPoint 3: Donations and HardwarePoint 1Aleksey Bragin opened up the meeting with a statement that the project&#39;s members need to coordinate and work better together to avoid internal confusion as to what work is being done and what work requires some help due to other commitments by team members.
+Point 2Colin Finck presented for approval a finalized draft for the project&#39;s coding style guideline.</description>
+    </item>
+    
+    <item>
+      <title>ReactOS Talk at Google Montreal</title>
+      <link>https://costanzaltavilla.github.io/project-news/reactos-talk-google-montreal/</link>
+      <pubDate>Thu, 14 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/reactos-talk-google-montreal/</guid>
+      <description>Alex Ionescu was recently at Google Montreal providing training in Windows internals. He was invited to do one of their monthly tech talks and did an introduction to ReactOS and discussed the project&#39;s current status. It&#39;s an excellent view for anyone who wants to get an overview from a developer&#39;s perspective.
+ </description>
+    </item>
+    
+    <item>
+      <title>September 2013 Meeting Minutes</title>
+      <link>https://costanzaltavilla.github.io/project-news/september-2013-meeting-minutes/</link>
+      <pubDate>Mon, 04 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/september-2013-meeting-minutes/</guid>
+      <description>VersioningThe question of changing the versioning scheme was brought up again by and Victor Martinez and Ziliang Guo. Objections came in principally two forms from developers, the first that none of them saw a reason for changing and the other that attempting to use a new scheme based on progress of components was futile as developers work on components at their whim and thus progress cannot be scheduled. Aleksey Bragin again attempted to push developers to make further use of JIRA to track development and thus perhaps set the stage for resolving the question of development progress.</description>
+    </item>
+    
+    <item>
+      <title>Newsletter 99</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-99/</link>
+      <pubDate>Mon, 09 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-99/</guid>
+      <description>ShellSince the last newsletter Giannis Adamopoulos has completed his development contract and while a more formal report will be published later, a brief summary follows. The fruits of his labor are already visible in that explorer_new can actually start in ReactOS and allow a user to browse the directories. Much of this was achieved by completing work Andrew Hill started. Giannis also spent considerable amounts of time trying to understand how the various menus in the shell worked.</description>
+    </item>
+    
+    <item>
+      <title>August 2013 Meeting Minutes</title>
+      <link>https://costanzaltavilla.github.io/project-news/august-2013-meeting-minutes/</link>
+      <pubDate>Mon, 02 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/august-2013-meeting-minutes/</guid>
+      <description>Note that while there was a June meeting, all of the points were internal in nature. As such, there will be no public minutes for that meeting.
+2013-08-29
+19:00 UTC
+dev.reactos.org, #meeting
+ProceedingsMeeting started at 19:04 by Aleksey Bragin.
+Point 1: Funded Development StatusPoint 2: Version SchemePoint 3: SEOPoint 4: FOSDEMPoint 1Matthias Kupfer reported that revised rules for the German ReactOS Foundation are ready for review. Assuming the tax authorities do not find any new problems, he believes the German ReactOS Foundation will be able to directly issue fellowships for ReactOS developments around the turn of the year.</description>
+    </item>
+    
+    <item>
+      <title>Newsletter 98</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-98/</link>
+      <pubDate>Wed, 07 Aug 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-98/</guid>
+      <description>Explorer Shell A while back the project announced a development contract for Giannis Adamopoulos to work on getting the necessary supports for running explorer-new to run on ReactOS. Since then, Giannis has been very busy and has made considerable progress. Much of his work has been properly separating responsibilities in the various components so that there are clear delineations of who does what.
+There are two major accomplishments, both fairly wide in scope.</description>
+    </item>
+    
+    <item>
+      <title>July 2013 Meeting Minutes</title>
+      <link>https://costanzaltavilla.github.io/project-news/july-2013-meeting-minutes/</link>
+      <pubDate>Sun, 04 Aug 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/july-2013-meeting-minutes/</guid>
+      <description>Note that while there was a June meeting, all of the points were internal in nature. As such, there will be no public minutes for that meeting.
+2013-07-25
+19:00 UTC
+dev.reactos.org, #meeting
+ProceedingsMeeting started at 19:23 by Aleksey Bragin.
+Point 1: StudentsPoint 2: ReleasePoint 3: ContractsPoint 1Aleksey Bragin reported that several of his students showed great promise. Three students in particular have started doing some low level work in extending ReactOS&amp;#39; functionality in the area of virtualization.</description>
+    </item>
+    
+    <item>
+      <title>Newsletter 97</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-97/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-97/</guid>
+      <description>C++ One of the last big missing pieces of building ReactOS using Visual Studio was support for C++. In ReactOS, the biggest piece of C++ code is explorer, without which users have no graphical shell when ReactOS boots up. Support for C++ requires not just a compiler capable of building C++ code, but also the presence of the standard template library. For developers where C++ was their first language, usage of the STL is fairly common and it is almost guaranteed to be linked in by default regardless of whether it is used or not.</description>
+    </item>
+    
+    <item>
+      <title>PITA bugs part 3</title>
+      <link>https://costanzaltavilla.github.io/blogs/pita-bugs-part-3/</link>
+      <pubDate>Wed, 26 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/pita-bugs-part-3/</guid>
+      <description>It is somewhat difficult to put into words just how much hate I have for this particular issue. Debugging it ended up taking an entire week and the result surprised pretty much everyone on the team, including the senior developers. The issue that was highlighted however has very deep root causes that touch upon the very foundation of the C ABI and its brittleness.
+First, a slight aside. In C, there is a family of functions that take in a variable number of arguments, the printf functions.</description>
+    </item>
+    
+    <item>
+      <title>May 2013 Meeting Minutes</title>
+      <link>https://costanzaltavilla.github.io/project-news/may-2013-meeting-minutes/</link>
+      <pubDate>Fri, 21 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/may-2013-meeting-minutes/</guid>
+      <description>2013-05-30
+19:00 UTC
+dev.reactos.org, #meeting
+ProceedingsMeeting started at 19:11 by Aleksey Bragin.
+Point 1: ContractsPoint 2: ReleasePoint 1Colin Finck reported that Matthias Kupfer had another meeting with tax advisers to try to resolve the issue of direct funding. Ziliang Guo prodded Aleksey Bragin again to remind him that the Russian ReactOS Foundation needed to start issuing invoices to cover existing contracts. A suggestion was made to hire freelancers to help develop the project, but there was internal resistance to this as traditionally open source projects do not fund development commercially like that unless under extraordinary circumstances.</description>
+    </item>
+    
+    <item>
+      <title>PITA bugs part 2</title>
+      <link>https://costanzaltavilla.github.io/blogs/pita-bugs-part-2/</link>
+      <pubDate>Sat, 15 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/pita-bugs-part-2/</guid>
+      <description>Weclome to the second part of the series where I discuss bugs that were truly irritating to debug. In general, fixing a bug is usually simple. Finding the bug is where the actual work is involved.
+As I mentioned before, I currently work as an intern at a company that does development work on a UEFI BIOS. BIOS development is difficult because we are often so close to the hardware that we often do not have the convenience of things like a debugger.</description>
+    </item>
+    
+    <item>
+      <title>Sourceforge Project of the Month</title>
+      <link>https://costanzaltavilla.github.io/project-news/sourceforge-project-of-the-month/</link>
+      <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/sourceforge-project-of-the-month/</guid>
+      <description>The ReactOS project has won Sourceforge Project of the Month for June. Thanks to all of our fans who voted for us, netting us the plurality of votes. You can visit Sourceforge to read the interview they conducted with Aleksey Bragin, the project coordinator. Be sure not to miss the little tidbit at the end where Aleksey hints about the future of ReactOS and funded development.</description>
+    </item>
+    
+    <item>
+      <title>On desktops</title>
+      <link>https://costanzaltavilla.github.io/blogs/on-desktops/</link>
+      <pubDate>Fri, 31 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/on-desktops/</guid>
+      <description>In the recent craze over smartphones, tablets, and what I&amp;#39;ll term webbooks (think ChromeOS machines), many companies seem to have forgotten the greatest achievement of modern desktop operating systems, namely the ability to multitask. Smartphone OSes originally either did not have this capability built in or did not expose it to the end user. This was understandable, as smartphones operate under different constraints with respect to power and screen space. Even tablets, with their higher power envelopes and bigger screens, are ultimately presented as consumption devices.</description>
+    </item>
+    
+    <item>
+      <title>ReactOS 0.3.15 Released</title>
+      <link>https://costanzaltavilla.github.io/project-news/reactos-0315-released/</link>
+      <pubDate>Thu, 30 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/reactos-0315-released/</guid>
+      <description>The ReactOS project is proud to announce the release of version 0.3.15. A culmination of over a year of development, 0.3.15 incorporates several architectural enhancements to create a more compatible and conformant implementation of the NT architecture. Perhaps the most user visible enhancement is initial support for USB devices, both storage and input.
+Infrastructure wise, this is the first release of ReactOS using CMake instead of rbuild. The conversion to CMake has allowed developers to generate Visual Studio solutions for working on the code, though several C++ components still need work before support for Microsoft&amp;#39;s toolchain is complete.</description>
+    </item>
+    
+    <item>
+      <title>Use cases for ReactOS</title>
+      <link>https://costanzaltavilla.github.io/blogs/use-cases-for-reactos/</link>
+      <pubDate>Sun, 26 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/use-cases-for-reactos/</guid>
+      <description>Many people see ReactOS as a Windows XP successor, a way for them to avoid the changes Microsoft brought about in Windows 8. This is a somewhat idealized goal, as ReactOS would need to be much more complete before it could attempt to fill in that role. There are however other use cases for which ReactOS is much closer to being ready for. Many of these however are more business use cases than consumer use cases.</description>
+    </item>
+    
+    <item>
+      <title>A perspective: Games vs Microsoft</title>
+      <link>https://costanzaltavilla.github.io/blogs/perspective-games-vs-microsoft/</link>
+      <pubDate>Fri, 24 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/perspective-games-vs-microsoft/</guid>
+      <description>Deciding whether to write this latest entry was a tad difficult, if only because I&amp;#39;m starting to feel like I&amp;#39;ve been harping a bit too much on Microsoft, but some of the information that has trickled out about the new Xbox bears some putting into context. Specifically, the requirement that anyone wanting to publish a game to Xbox Live needs to sign on with a publisher, so no self-publishing by indies.</description>
+    </item>
+    
+    <item>
+      <title>ReactOS at LinuxTag</title>
+      <link>https://costanzaltavilla.github.io/project-news/reactos-at-linuxtag/</link>
+      <pubDate>Tue, 21 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/reactos-at-linuxtag/</guid>
+      <description>The ReactOS will have a display at the LinuxTag expo in Berlin from May 22nd through the 25th. People visiting will get a sneak preview of the 0.3.15 release, along with some of the new eyecandy the development team has decided to turn on. The project will be in hall 7.1c booth179b.</description>
+    </item>
+    
+    <item>
+      <title>The cost of progress</title>
+      <link>https://costanzaltavilla.github.io/blogs/the-cost-of-progress/</link>
+      <pubDate>Tue, 21 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/the-cost-of-progress/</guid>
+      <description>The project often gets suggestions for what people consider to be &amp;quot;improvements&amp;quot; over how Windows does something. Nothing wrong with that, save for the fact people rarely consider the implications of what they are asking for. The most recent spurt was in &amp;quot;enhancements&amp;quot; for the shell, some of it due to the renewed attention I started drawing to it. We&amp;#39;ll take the request for &amp;quot;full screen&amp;quot; application support to start with.</description>
+    </item>
+    
+    <item>
+      <title>Shell Development Contract</title>
+      <link>https://costanzaltavilla.github.io/project-news/shell-development-contract/</link>
+      <pubDate>Sun, 19 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/shell-development-contract/</guid>
+      <description>The Foundation for the Advancement of Information Technologies ReactOS Foundation (Russia) is pleased to announce a development contract with Giannis Adamopoulos. The contract will involve extending the shell32 library to support running the explorer-new shell. Focus will be on the browseui components, needed to allow explorer-new to display its file browser. This is the first step to ultimately replacing the existing explorer shell. Duration: 2 months Time: 100 hours Rate: 600&amp;euro;</description>
+    </item>
+    
+    <item>
+      <title>Newsletter 96</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-96/</link>
+      <pubDate>Thu, 16 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-96/</guid>
+      <description>Testing and Debugging The hardest thing about writing software is finding the source of bugs. Good testers are as such extremely valuable, and those able to use debuggers well even more so. Two issues were recently dealt with thanks to one such tester, Olaf Siejka.
+The first issue involved Microsoft Excel Viewer, an application that as its name suggests allows for viewing of spreadsheets but not editing. Word Viewer actually worked in ReactOS, and Excel Viewer&amp;#39;s failure drew Olaf&amp;#39;s attention.</description>
+    </item>
+    
+    <item>
+      <title>Funded Development Issue Resolved</title>
+      <link>https://costanzaltavilla.github.io/project-news/funded-development-issue-resolved/</link>
+      <pubDate>Tue, 14 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/funded-development-issue-resolved/</guid>
+      <description>After a considerable amount of effort, the issue with funding development using donations collected by ReactOS Deutschland e.V. has been worked around. As a result of this, the Project is working to arrange additional funded development to ensure that the money donated to the project is put to the use it was intended. We hope to pay special attention to the shell, themes, and USB to improve the overall user experience.</description>
+    </item>
+    
+    <item>
+      <title>A perspective: managed developers beyond Microsoft</title>
+      <link>https://costanzaltavilla.github.io/blogs/perspective-managed-developers-beyond-microsoft/</link>
+      <pubDate>Sun, 12 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/perspective-managed-developers-beyond-microsoft/</guid>
+      <description>In my last post, I talked a bit about how Microsoft&amp;#39;s fixation on Metro/Modern and the appstore had resulted in it basically ignoring large swathes of its developer community. So that post got a lot more attention than I was expecting, with some agreeing and others disagreeing. Some discussions however took a turn where people began debating how much trouble, if any, developers were in with Microsoft&amp;#39;s move. This was something that I had decided not to explore further because the previous post had already reached a fairly ridiculous length.</description>
+    </item>
+    
+    <item>
+      <title>A perspective: developers vs Microsoft</title>
+      <link>https://costanzaltavilla.github.io/blogs/perspective-developers-vs-microsoft/</link>
+      <pubDate>Sat, 11 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/perspective-developers-vs-microsoft/</guid>
+      <description>Most people understand that Windows is used by a variety of people who have a variety of needs, ranging from corporate server to workstation to POS terminals to home PC and beyond. Most people accept that whenever Microsoft updates Windows, it has to balance the competing requirements to find some kind of workable compromise. There is however another set of competing requirements that many do not really register, even those that call themselves power users or are IT admins.</description>
+    </item>
+    
+    <item>
+      <title>PITA bugs part 1</title>
+      <link>https://costanzaltavilla.github.io/blogs/pita-bugs-part-1/</link>
+      <pubDate>Mon, 06 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/pita-bugs-part-1/</guid>
+      <description>In my years working as a programmer, I have run into many, many bugs and introduced many of my own. A few stand out as tremendously irritating to debug, as their behavior made little sense and the source of the bug was non-obvious. The first issue was from my work for the HTCondor Project, an open source cluster management software used by research groups around the world including those working on crunching data from the Large Hadron Collider, the LIGO graviton detector, and the IceCube neutrino observatory.</description>
+    </item>
+    
+    <item>
+      <title>April 2013 Meeting Minutes</title>
+      <link>https://costanzaltavilla.github.io/project-news/april-2013-meeting-minutes/</link>
+      <pubDate>Tue, 30 Apr 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/april-2013-meeting-minutes/</guid>
+      <description>2013-04-25
+19:00 UTC
+dev.reactos.org, #meeting
+Proceedings Meeting started at 19:20 by Aleksey Bragin.
+ Point 1: Legal Whitepaper Point 2: 0.3.15 Point 3: Contracts Point 4: 0.4  Point 1 Ziliang Guo reported that the intellectual property guidelines had been agreed upon with other developers and would be published the coming weekend.
+Point 2 Ziliang stated that he wanted the release to be out the coming weekend regardless of whether the changelog was complete or not.</description>
+    </item>
+    
+    <item>
+      <title>An introduction</title>
+      <link>https://costanzaltavilla.github.io/blogs/introduction/</link>
+      <pubDate>Mon, 29 Apr 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/introduction/</guid>
+      <description>Despite my involvement with the project for several years, I do not believe I have ever actually introduced myself. While the developers and a few other members of the community know about me, in general the rest of the community knows me as the guy that writes the newsletters and sometimes posts snarky comments on the forum whenever I see something that I think is a bad idea. As such, this might be a good time to introduce myself and provide some background.</description>
+    </item>
+    
+    <item>
+      <title>Newsletter 95</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-95/</link>
+      <pubDate>Thu, 11 Apr 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-95/</guid>
+      <description>OpenGL The ReactOS project has relied on the Mesa Project for OpenGL 3D graphics for a long time, but unfortunately the code needed by ReactOS is no longer maintained by Mesa. Actual rendering involves a chain of components, one of which is the called the installable client driver. The ICD is for the most part bundled with the graphics card driver, though it can also be a driver that performs rendering completely in software.</description>
+    </item>
+    
+    <item>
+      <title>March 2013 Meeting Minutes</title>
+      <link>https://costanzaltavilla.github.io/project-news/march-2013-meeting-minutes/</link>
+      <pubDate>Wed, 10 Apr 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/march-2013-meeting-minutes/</guid>
+      <description>2013-03-28
+19:00 UTC
+dev.reactos.org, #meeting
+ProceedingsMeeting started at 19:26 by Aleksey Bragin.
+Point 1: GSoC StatusPoint 2: CLT ReportPoint 3: LinuxTag BerlinPoint 4: Foundation FundingPoint 5: Release PlansPoint 1Amine Khaldi reported that the Google Summer of Code application had been completed and a preliminary list of project proposals set up on the wiki, with a link to the main GSoC page put on the front page. Feedback from Google indicated that there was nothing wrong per se with the application last year and the project was encouraged to try again this year.</description>
+    </item>
+    
+    <item>
+      <title>February 2013 Meeting Minutes</title>
+      <link>https://costanzaltavilla.github.io/project-news/february-2013-meeting-minutes/</link>
+      <pubDate>Wed, 13 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/february-2013-meeting-minutes/</guid>
+      <description>2013-02-28
+19:00 UTC
+dev.reactos.org, #meeting
+ProceedingsMeeting started at 19:30 by Aleksey Bragin.
+Point 1: WebsitePoint 2: GSoCPoint 3: CLT2013Point 1Aleksey Bragin reported that backend wise the new site appeared to be functionally complete and that the majority of the remaining work would likely be content-centric. Aleksey also wanted to include a few more people who would have the ability to work on the site so that improvements were not bottlenecked because he or Pierre Schweitzer were busy.</description>
+    </item>
+    
+    <item>
+      <title>Website Translation</title>
+      <link>https://costanzaltavilla.github.io/website-translation/</link>
+      <pubDate>Sat, 02 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/website-translation/</guid>
+      <description>Translating the website via Drupal&#39;s interface is fairly intuitive. The following are some screenshots to guide translators through the interface.
+Assuming one has translation privileges, at the top of the page below the page title is a series of tabs. Do NOT click on the Edit tab EVER. Click on the Translate tab to be taken to the translation page. If there is not a Translate tab, you either do not have translation privileges or the page was marked as non-translatable by the administrators.</description>
+    </item>
+    
+    <item>
+      <title>Newsletter 94</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-94/</link>
+      <pubDate>Wed, 27 Feb 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-94/</guid>
+      <description>Site Migration The project recently migrated from its old site to one using the Drupal content management system. Work on this migration had been going on in some form for the last year, with a major milestone being the migration from Bugzilla to JIRA. The migration of the site proper however was nowhere as smooth as many people, including myself, desired. One of the root causes for the bumpy migration was my fault actually, when I sent an email claiming that the site&#39;s content was at a state where it should not be a blocker to migration.</description>
+    </item>
+    
+    <item>
+      <title>Quickstart</title>
+      <link>https://costanzaltavilla.github.io/quickstart/</link>
+      <pubDate>Sat, 16 Feb 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/quickstart/</guid>
+      <description>The following is a quickstart guide to help newcomers with getting a ReactOS development environment set up. As contributors become more comfortable, each is likely to find his or her own preferred workflow and tool set, but this guide will at least provide a gentle introduction to retrieving, building, and running ReactOS code. This guide assumes a sufficiently modern computer able to compile ReactOS and then run it inside a virtual machine.</description>
+    </item>
+    
+    <item>
+      <title>Installation</title>
+      <link>https://costanzaltavilla.github.io/installation/</link>
+      <pubDate>Sun, 10 Feb 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/installation/</guid>
+      <description>Installing ReactOS is very much like installing Windows XP. However, due to it still undergoing heavy development, a few pointers are helpful when first getting started. Installation Platform ReactOS currently supports running on x86 processors with x64 support still in development. In additional to real hardware, ReactOS also supports running on a variety of virtual machine platforms. More details on setting up ReactOS can be found on the virtual machines page.</description>
+    </item>
+    
+    <item>
+      <title>Translation</title>
+      <link>https://costanzaltavilla.github.io/translation/</link>
+      <pubDate>Sun, 10 Feb 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/translation/</guid>
+      <description>ReactOS uses resource files to hold translations. These must be encoded using UTF-8 so take care the text editor used on these files does not accidentally change the encoding. Each language&#39;s resource file must be included in the rsrc.rc or application.rc file of the respective component being translated. Please keep in mind that some components are imported from WINE and as such translations of those components should be sent upstream instead.</description>
+    </item>
+    
+    <item>
+      <title>Virtual Machines</title>
+      <link>https://costanzaltavilla.github.io/virtual-machines/</link>
+      <pubDate>Sun, 10 Feb 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/virtual-machines/</guid>
+      <description>Virtual machines provide a stable and known configuration for ReactOS to run on, reducing the chances that misbehaving hardware could destabilize the operating system. They are especially helpful when developing and testing higher level components of ReactOS. Several virtual machine platforms are supported and a basic guide to getting ReactOS running on them and configuring for debug support. Suggested resource allocation for all of the following virtual machine platforms is a minimum of 128MB of RAM and 2GB of storage space.</description>
+    </item>
+    
+    <item>
+      <title>Serial Configuration</title>
+      <link>https://costanzaltavilla.github.io/serial-configuration/</link>
+      <pubDate>Sat, 09 Feb 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/serial-configuration/</guid>
+      <description>Debugging ReactOS over serial tends to be the most reliable methodology as it minimizes the risk of losing debug output when ReactOS crashes compared to directing output to a file or application in ReactOS. It however takes a bit more setup on the receiving side and some extra hardware if attempting to debug a physical machine. The following provides basic instructions for setting up serial on both the sending and receiving side.</description>
+    </item>
+    
+    <item>
+      <title>January 2013 Meeting Minutes</title>
+      <link>https://costanzaltavilla.github.io/project-news/january-2013-meeting-minutes/</link>
+      <pubDate>Thu, 07 Feb 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/january-2013-meeting-minutes/</guid>
+      <description>2013-01-31
+19:00 UTC
+dev.reactos.org, #meeting
+Proceedings Meeting started at 19:18 by Aleksey Bragin.
+  Point 0: CLT2013 Point 1: Donation Campaign and Contract Status Point 2: Website Point 3: University Cooperation Point 4: UDF Support   Point 0
+Daniel Reimer called for volunteers to attend this year&#39;s CLT2013 convention. Several of the German members are tentatively able to come, but Daniel wanted a bit more buffering and manpower present to better deal with more people coming.</description>
+    </item>
+    
+    <item>
+      <title>November 2012 Meeting Minutes</title>
+      <link>https://costanzaltavilla.github.io/project-news/november-2012-meeting-minutes/</link>
+      <pubDate>Thu, 20 Dec 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/november-2012-meeting-minutes/</guid>
+      <description>2012-11-29
+19:00 UTC
+freenode, #reactos-meeting
+Proceedings
+Meeting started at 19:02 by Aleksey Bragin.
+  Point 1: Contract Status Point 2: Release Status Point 3: Website Status Point 4: VirtualPC Support  Point 1
+The development team has not been able to get in touch with Magnus Olsen or Mike Nordell for status updates and currently considers these contracts to be voided. Edijs Kolesnikovics reported that work is progressing well, though he faces difficulties in trying to use AutoHotkey to test games.</description>
+    </item>
+    
+    <item>
+      <title>October 2012 Meeting Minutes</title>
+      <link>https://costanzaltavilla.github.io/project-news/october-2012-meeting-minutes/</link>
+      <pubDate>Tue, 06 Nov 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/october-2012-meeting-minutes/</guid>
+      <description>2012-10-30
+19:00 UTC
+dev.reactos.org, #meeting
+Proceedings
+Meeting started at 19:20 by Aleksey Bragin
+ Point 1: Contract status Point 2: Voice chat   Point 1
+People with outstanding contracts were asked to report their progress. There are currently four contracts outstanding for Mike Nordell, Magnus Olsen, Edijs Kolesnikovics, and James Tabor. Edijs is on his third contract extension after completing his second. Ziliang Guo reported that the second contract&#39;s report will be published but had been delayed due to Amine Khaldi being away.</description>
+    </item>
+    
+    <item>
+      <title>Newsletter 93</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-93/</link>
+      <pubDate>Fri, 19 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-93/</guid>
+      <description>Desktops and Windows In the Windows operating system, the desktop one sees is made up of three things, a kernel mode desktop object, a user mode desktop window, and a desktop thread. While the desktop object can be considered almost mundane, the window and thread are somewhat special. In Windows, desktop windows are created differently from regular windows and all share a single desktop thread. This thread handles messages sent to the desktop window, though users will generally only see the desktop window if the explorer shell is not running.</description>
+    </item>
+    
+    <item>
+      <title>September 2012 Meeting Minutes</title>
+      <link>https://costanzaltavilla.github.io/project-news/september-2012-meeting-minutes/</link>
+      <pubDate>Wed, 03 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/september-2012-meeting-minutes/</guid>
+      <description>2012-09-27
+19:00 UTC
+freenode, #reactos-meeting
+Proceedings
+Meeting started at 19:17 by Aleksey Bragin
+&amp;nbsp;
+ 0. Website progress, plan for the next month. 1. Next RosBE release - recent status and what will come next. 2. Gallium3D poor performance - what to do. 3. CIA.vc replacement.  Point 0
+Aleksey Bragin summarized the work done since the last meeting, including setting up an LDAP mirror that Jira could use to authenticate against.</description>
+    </item>
+    
+    <item>
+      <title>Contract Awarded to Mike Nordell</title>
+      <link>https://costanzaltavilla.github.io/project-news/contract-awarded-mike-nordell/</link>
+      <pubDate>Wed, 12 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/contract-awarded-mike-nordell/</guid>
+      <description>The ReactOS Project is delighted to announce another development contract funded by community donations. Mike Nordell was a previous ReactOS developer that went on sabbatical but continued to drop in to check on the project from time to time. As such, he has considerable experience developing ReactOS and extensive knowledge about the Windows NT architecture. As many people are aware of, ReactOS has a large test suite that checks to see whether specific functionality is working or not.</description>
+    </item>
+    
+    <item>
+      <title>New Developer Contract</title>
+      <link>https://costanzaltavilla.github.io/project-news/new-developer-contract/</link>
+      <pubDate>Fri, 07 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/new-developer-contract/</guid>
+      <description>The ReactOS Project is pleased to announce a new development contract with James Tabor, a long time ReactOS developer that has worked extensively on the Win32 subsystem. Jim intends to tackle many of the longstanding bugs and hopefully significantly reduce the number of outstanding issues in the Win32 subsystem. This particular contract will have a heavy emphasis on bugfixing instead of attempting to introduce new features.
+Time: 120 hours
+Wage: 720&amp;euro;</description>
+    </item>
+    
+    <item>
+      <title>Contract Extension</title>
+      <link>https://costanzaltavilla.github.io/project-news/contract-extension/</link>
+      <pubDate>Wed, 05 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/contract-extension/</guid>
+      <description>The ReactOS Project is happy to announce an extension to Edijs Kolesnikovics&#39;s contract for developing application tests using AutoHotkey. Amine Khaldi, the supervisor for the previous contract, was very satisfied with Edijs&#39; work and moved that an extension be made to give Edijs more time to develop additional tests. The first contract saw tests for installing applications and the exercising of some very basic functionality, as well as some improvements to the testing framework.</description>
+    </item>
+    
+    <item>
+      <title>August 2012 Meeting Minutes</title>
+      <link>https://costanzaltavilla.github.io/project-news/august-2012-meeting-minutes/</link>
+      <pubDate>Mon, 03 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/august-2012-meeting-minutes/</guid>
+      <description>2012-08-30
+19:00 UTC
+dev.reactos.org, #meeting
+Proceedings Meeting started at 19:13 by Aleksey Bragin
+ Point 0: Website status Point 1: ROS Testing and Bugs Point 2: Developer Contracts Point 3: State of Trunk and Release Feasibility   Point 0
+Ziliang Guo had earlier reported that Atlassian&#39;s documentation was misleading with respect to Jira integration and did not actually permit what the team was trying to achieve. This was only discovered after Ziliang submitted a support request to Atlassian.</description>
+    </item>
+    
+    <item>
+      <title>Contract and Donation</title>
+      <link>https://costanzaltavilla.github.io/project-news/contract-and-donation/</link>
+      <pubDate>Mon, 03 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/contract-and-donation/</guid>
+      <description>Contract 1 Summary Report
+ The contract issued to Edijs Kolesnikovics has now concluded and the following is a summary of the work completed.
+Installation tests were created for all applications part of the Golden Apps list. One additional test was also created for each to at least attempt to run the application after installation, with some exercising simple functionality. These tests were verified to work on Windows before integration into the ReactOS test suite.</description>
+    </item>
+    
+    <item>
+      <title>July 2012 Meeting B Minutes</title>
+      <link>https://costanzaltavilla.github.io/project-news/july-2012-meeting-b-minutes/</link>
+      <pubDate>Tue, 07 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/july-2012-meeting-b-minutes/</guid>
+      <description>2012-07-26
+19:00 UTC
+dev.reactos.org, #meeting
+Proceedings
+Meeting started at 19:09 by Aleksey Bragin
+ Point 1: Website Update Point 2: Technical Questions by Newer Team Members  &amp;nbsp;
+Point 1 Danny Gotte noted that he was still having trouble with the Java code to plug into the Atlassian web applications. Ziliang Guo had stated that he could help, as he had Java development experience, but both he and Danny had exams this week and so did not have time to do any actual work.</description>
+    </item>
+    
+    <item>
+      <title>ReactOS Presented to President Putin</title>
+      <link>https://costanzaltavilla.github.io/project-news/reactos-presented-president-putin/</link>
+      <pubDate>Mon, 06 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/reactos-presented-president-putin/</guid>
+      <description>The ReactOS Project once again had a presence at the Seliger Youth Forum held at Lake Seliger in Russia, with Marat Karatov and Alexander Rechitskiy representing the project. ReactOS ranked third overall of all projects presented at the Forum, but after Alexander and Marat had already left after having completed the presentation, the project was informed that the Forum wished to present the top projects to President Vladimir Putin. This caused some complications as Aleksey Bragin, the project coordinator, had been on vacation and could not make it back before the security lockdown.</description>
+    </item>
+    
+    <item>
+      <title>First Developer Contract Issued</title>
+      <link>https://costanzaltavilla.github.io/project-news/first-developer-contract-issued/</link>
+      <pubDate>Tue, 31 Jul 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/first-developer-contract-issued/</guid>
+      <description>The ReactOS Project is proud to announce the first of the development&amp;nbsp;contracts that will be funded by the recent donation campaign. Edijs&amp;nbsp;Kolesnikovics joined the ReactOS development team very recently and&amp;nbsp;has been working extensively with Amine Khaldi and Olaf Siejka to&amp;nbsp;create an application test suite based around the AutoHotkey (AHK)&amp;nbsp;automation system. AutoHotkey is a tool for scripting keyboard and&amp;nbsp;mouse actions in order to automate running of programs on Windows.&amp;nbsp;While the current test suites exercise a considerable amount of&amp;nbsp;functionality, the true test for ReactOS remains when it is used to&amp;nbsp;run applications.</description>
+    </item>
+    
+    <item>
+      <title>July Meeting A Minutes</title>
+      <link>https://costanzaltavilla.github.io/project-news/july-2012-meeting-a-minutes/</link>
+      <pubDate>Tue, 10 Jul 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/july-2012-meeting-a-minutes/</guid>
+      <description>July 2012 Meeting A Minutes 2012-07-05
+19:00 UTC
+dev.reactos.org, #meeting
+Proceedings
+Meeting started at 19:16 UTC by Aleksey Bragin.
+&amp;nbsp;
+ Point 0: CD/Product Store Point 1: Update/Team Plan Point 2: Website Update Point 3: Internet Declaration  Due to scheduling constraints by some participants, the question of a team store and sale of ReactOS CDs was moved to be the first topic.
+ Point 0 Ziliang Guo presented the question of CD sales and merchendise sales in general.</description>
+    </item>
+    
+    <item>
+      <title>IPv6 Launch Day</title>
+      <link>https://costanzaltavilla.github.io/project-news/ipv6-launch-day/</link>
+      <pubDate>Wed, 06 Jun 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/ipv6-launch-day/</guid>
+      <description>The foundation of the internet are IP addresses, which tell people how to reach websites and machines across the world. The current iteration, IPv4, is 32bits in size and the world is quickly running out of available addresses. As such, there has been a steady march towards IPv6, which uses 128bits for addresses. This march has however been slow due to the massive existing infrastructure that uses IPv4. To try and help get more organizations IPv6 ready, the Internet Society set up IPv6 Launch Day, intended to be a day where participating organizations permanently turn on access over IPv6 to their services.</description>
+    </item>
+    
+    <item>
+      <title>May 2012 Development Team Meeting</title>
+      <link>https://costanzaltavilla.github.io/project-news/may-2012-development-team-meeting/</link>
+      <pubDate>Sun, 03 Jun 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/may-2012-development-team-meeting/</guid>
+      <description>2012-05-31 19:00 UTC dev.reactos.org, #meeting
+Proceedings
+Meeting started at 19:08 UTC by Aleksey Bragin.
+Point 1: Website Revamp Danny Goette explained that about a month ago he started a new approach for the website revamp, based on the typo3 cms, with a theme based on the current website, a working forum (a mm_forum extension for typo3) that has all the data of our current phpbb forum, along with current user accounts imported from roscms.</description>
+    </item>
+    
+    <item>
+      <title>Newsletter 92</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-92/</link>
+      <pubDate>Mon, 21 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-92/</guid>
+      <description>Win32 Improvements Deep within GDI is code designed to carry out a series of raster operations that involve applying patterns to bitmaps. For performance reasons, it is desirable to have optimized versions of this code for the various bit depths. Formally, ReactOS only generated these optimized versions for the few ternary raster operations that were used often enough to be given a common name by Microsoft. The rest were handled in a single unoptimized version.</description>
+    </item>
+    
+    <item>
+      <title>ReactOS Fundraiser 2012</title>
+      <link>https://costanzaltavilla.github.io/project-news/reactos-fundraiser-2012/</link>
+      <pubDate>Sat, 28 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/reactos-fundraiser-2012/</guid>
+      <description>The ReactOS Project has engaged in several fundraising efforts in the past, and thanks to their success and non-monetary donations, an industry-grade infrastructure was developed and deployed, and is being continuously improved.
+Donations have also helped developers travel to several conferences and events to promote and present ReactOS. These presentations were crucial in drawing attention to the project and often helped spur further donations.
+This year we want to do something different, something even grander.</description>
+    </item>
+    
+    <item>
+      <title>Newsletter 91</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-91/</link>
+      <pubDate>Wed, 29 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-91/</guid>
+      <description>Session Manager Subsystem Rewrite The session manager subsystem is responsible for initializing much of the operating system environment and starting up services and processes needed to get a user to the login screen. Specifically, it creates the environment variables inherited by other processes, loads the Win32 subsystem, sets up the pagefiles for virtual memory, and finally starts up the winlogon.exe process, amongst other things. The implementation that was in ReactOS took many shortcuts in how it communicated with subsystem components, which in turn led to those components not correctly implementing the interfaces SMSS was supposed to use.</description>
+    </item>
+    
+    <item>
+      <title>SourceForge Featured Project</title>
+      <link>https://costanzaltavilla.github.io/project-news/sourceforge-featured-project/</link>
+      <pubDate>Wed, 29 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/sourceforge-featured-project/</guid>
+      <description>The ReactOS Project is proud to have been selected as a SourceForge.net Featured Project for the month of February. While ReactOS maintains much of the development infrastructure internally now, SourceForge remains the host for all of our releases and helps provide another web presence for the project. Based on the stats, getting bumped to SourceForge&#39;s front page has drawn a fair amount of attention to the project.</description>
+    </item>
+    
+    <item>
+      <title>USB Help From Haiku</title>
+      <link>https://costanzaltavilla.github.io/project-news/usb-help-haiku/</link>
+      <pubDate>Tue, 21 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/usb-help-haiku/</guid>
+      <description>The ReactOS and Haiku projects have had a friendly working relationship for several years now, with each group helping the other whenever possible. These range from helping each other with conference attendance at SCALE and FOSDEM to development related matters. Haiku was especially helpful during ReactOS&#39; successful application to Google Summer of Code 2011, providing advice and feedback on ReactOS&#39; application efforts, and the ReactOS project remains grateful for the assistance.</description>
+    </item>
+    
+    <item>
+      <title>ISIMA Partnership</title>
+      <link>https://costanzaltavilla.github.io/project-news/isima-partnership/</link>
+      <pubDate>Wed, 01 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/isima-partnership/</guid>
+      <description>ReactOS developer and IT administrator Pierre Schweitzer is currently a student at Institut Supérieur d&amp;#39;Informatique, de Modélisation et de leurs Applications (ISIMA) and had worked over the last few months to establish a formal partnership between the ReactOS project and ISIMA. After a formal presentation to ISIMA&amp;#39;s directors on January 11th, 2012, this partnership was approved. The ReactOS project will in the future be allowed to present projects that ISIMA students can complete as part of their coursework.</description>
+    </item>
+    
+    <item>
+      <title>Newsletter 90</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-90/</link>
+      <pubDate>Tue, 24 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-90/</guid>
+      <description>Wireless Cameron Gutman has spent the last month or so adding the pieces needed to support wireless network cards to ReactOS. A good portion of the work entailed writing the NDIS protocol driver (ndisuio) that handles sending wireless NDIS object identifier (OID) messages. These messages handle querying network drivers about their status and capabilities and also set the receiving mode the device should operate in. In addition to the kernel side, a user mode utility is needed to let end users actually make these requests.</description>
+    </item>
+    
+    <item>
+      <title>Newsletter 89</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-89/</link>
+      <pubDate>Thu, 15 Dec 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-89/</guid>
+      <description>RPC Remote procedure calls underline a lot of things in Windows, especially services. Thus the Remote Procedure Call Runtime (rpcrt4) library is fairly important to the continued operation and stability of ReactOS. It is also a component in which the project is heavily reliant on Wine for. Unfortunately, just because Wine code works on Linux does not mean it will work on ReactOS, and attempts to sync rpcrt4 in the past have produced monumental headaches, breakages, and difficulties in ReactOS.</description>
+    </item>
+    
+    <item>
+      <title>Debugging Overview</title>
+      <link>https://costanzaltavilla.github.io/development/debugging/</link>
+      <pubDate>Sun, 13 Nov 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/development/debugging/</guid>
+      <description>Debugging is an important skill to have when developing large, complex pieces of software. The ReactOS project has a variety of resources and tools to help its developers identify problems. Several different debuggers are supported by the project and the operating system also generates debug messages that can be captured and viewed using a variety of methods. The below guides will show you how to set up ReactOS and the platform it is installed on to receive debug output as well as how to use a debugger to examine the executing code.</description>
+    </item>
+    
+    <item>
+      <title>Build Environment</title>
+      <link>https://costanzaltavilla.github.io/development/build-environment/</link>
+      <pubDate>Sat, 12 Nov 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/development/build-environment/</guid>
+      <description>The Project provides a package of customized compilers and tools to help quickly set up everything needed to build ReactOS called the ReactOS Build Environment (RosBE) for both Windows and Unix. The BE includes:
+ CMake 2.8.12.1 MinGW GCC 4.7.2 ninja Command-line SVN Client 1.8.5  Note that if one wishes to use Microsoft&#39;s toolchain either from the command line or Visual Studio, simply make sure the bin directory of RosBE is in the path.</description>
+    </item>
+    
+    <item>
+      <title>Development Guide</title>
+      <link>https://costanzaltavilla.github.io/development/development-guide/</link>
+      <pubDate>Sat, 12 Nov 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/development/development-guide/</guid>
+      <description>This guide is intended to help new developers setup and familiarize themselves with the tools needed to obtain, compile, and work with the ReactOS source code, along with a few tips and best practices for the required tools if new developers are unsure what is the best approach to use. This guide does not provide a walkthrough of the ReactOS code base nor does it present an introduction to the NT architecture.</description>
+    </item>
+    
+    <item>
+      <title>Intellectual Property Guideline</title>
+      <link>https://costanzaltavilla.github.io/intellectual-property-guideline/</link>
+      <pubDate>Mon, 31 Oct 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/intellectual-property-guideline/</guid>
+      <description>Preface The ReactOS&amp;trade; Project is an international group of developers whose goal is to create a work-alike version of the Microsoft Windows operating system. In light of recent activity in the free software world relating to copyright and patent concerns, the administrators of the ReactOS Project feel that a general guideline would be helpful for developers and potential contributors. For questions regarding this guideline, please e-mail Aleksey Bragin (project coordinator) or Ziliang Guo (document editor).</description>
+    </item>
+    
+    <item>
+      <title>ING-DiBa Foundation Sponsorship</title>
+      <link>https://costanzaltavilla.github.io/project-news/ing-diba-foundation-sponsorship/</link>
+      <pubDate>Sun, 23 Oct 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/ing-diba-foundation-sponsorship/</guid>
+      <description>The German ING-DiBa AG bank is running a competition which people have until November 15th to vote on which foundation they support. The top 1000 foundations will receive a 1000€ donation from the bank. At the time of writing the ReactOS Foundation is sitting at 9th place, but three weeks is a long time for other projects to catch up and perhaps even bump ReactOS from the top 1000. Instructions for how to vote are located here and requires only an email.</description>
+    </item>
+    
+    <item>
+      <title>Newsletter 88</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-88/</link>
+      <pubDate>Thu, 13 Oct 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-88/</guid>
+      <description>Shell32 Another recent accomplishment by Claudiu Mihail, the Google Summer of Code responsible for transforming the lwIP library into a driver, was the completion and remerging of the shell32 library as C++ code instead of C code. The effort was started originally by Ged Murphy and Andrew Hill as C++ was better suited to implementing the COM aspects of the library. Ged had originally tried to do the conversion in trunk, but that proved too disruptive and he moved the code into a branch.</description>
+    </item>
+    
+    <item>
+      <title>ReactOS Demonstrated to the Russian President Dmitry Medvedev</title>
+      <link>https://costanzaltavilla.github.io/project-news/reactos-demonstrated-russian-president-dmitry-medvedev/</link>
+      <pubDate>Mon, 12 Sep 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/reactos-demonstrated-russian-president-dmitry-medvedev/</guid>
+      <description>ReactOS Demonstrated to the Russian President Dmitry Medvedev The ReactOS project participated in the Seliger 2011 Forum this summer. &#34;Seliger&#34; is an annual youth educational forum held since 2005 at Lake Seliger in Russia, close to the city of Ostashkov in the Tver region (370km away from Moscow). The forum is funded by the Russian government with a budget of approximately 178 million rubles (approximately 5.9 million dollars or 4.3 million euros).</description>
+    </item>
+    
+    <item>
+      <title>Newsletter 87</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-87/</link>
+      <pubDate>Tue, 30 Aug 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-87/</guid>
+      <description>Google Summer of Code Progress Of the six projects ReactOS entered as part of the Google Summer of Code, four are well on track to completion. Each of the completed projects will greatly help increase ReactOS&#39; usability and provide a foundation for future enhancement. Many of the successful projects will help make ReactOS more usable from both a stability and UI perspective. The deadline for final submissions is already over and the project and Google are currently evaluating students.</description>
+    </item>
+    
+    <item>
+      <title>Newsletter 86</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-86/</link>
+      <pubDate>Tue, 26 Jul 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-86/</guid>
+      <description>MSVC Progress The entirety of ReactOS can now be built using Microsoft&#39;s compiler, but running the resulting operating system is still a ways off. &amp;nbsp;Timo Kreuzer has already squashed several bugs that arose, one such being corruption of filesystem metadata that caused the loading of freeldr to fail. On x86/x64 platforms, part of the booting process involves the bootsector loading in the FAT table from disk, which needs to be loaded in a high enough address that reading freeldr into memory afterward would not overwrite the table.</description>
+    </item>
+    
+    <item>
+      <title>Newsletter 85</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-85/</link>
+      <pubDate>Mon, 20 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-85/</guid>
+      <description>Theme Support Giannis has completed support for drawing in most non-client areas of a window such as captions, borders, and scrollbars. Scrollbars turned out to be especially problematic as the code that handles calculations of how much to scroll is also responsible for redrawing the changes. This has the very unfortunate consequence of duplicating a significant amount of drawing code inside the scrolling update function. Maintenance of this code will likely be troublesome due to this, but currently Giannis is not aware of a way around the problem.</description>
+    </item>
+    
+    <item>
+      <title>Newsletter 84</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-84/</link>
+      <pubDate>Sun, 15 May 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-84/</guid>
+      <description>Loader Rewrite When an application has external dependencies that are in DLLs, a loader is responsible for loading and initializing them. The implementation in ReactOS is very, very old and like many such instances of ancient code incorrect. It worked after a fashion but took many shortcuts. There are matters such as initialization of the Thread Local Storage, calling the DllMain of a specific DLL, and loading of DLLs in the correct order based on interdependencies or even circular dependencies.</description>
+    </item>
+    
+    <item>
+      <title>Newsletter 83</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-83/</link>
+      <pubDate>Fri, 29 Apr 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-83/</guid>
+      <description>GDI Memory Usage As part of his work rewriting the Graphics Device Interface (GDI) handle manager, Timo Kreuzer ran across what can only be described as an atrocious waste of memory. The memory allocation granularity for when objects were created was an entire page, 4KB, regardless of whether an object needed that much space to store its attributes. This thus wastes a considerable amount of memory and also eats up memory addresses.</description>
+    </item>
+    
+    <item>
+      <title>Accepted Summer of Code Projects</title>
+      <link>https://costanzaltavilla.github.io/project-news/accepted-summer-code-projects/</link>
+      <pubDate>Tue, 26 Apr 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/accepted-summer-code-projects/</guid>
+      <description>The ReactOS project has accepted six entries from the submitted projects, covering a wide range of functionality. The completion of some would have immediate, user visible effects on ReactOS, while others are more long term.
+TCP/IP Driver Rewrite of the current TCP/IP stack using the lwIP library.
+ Student: Claudiu Mihail Mentor: Art Yerkes  Completion of Explorer_New Complete the implementation of a new explorer shell for ReactOS.
+ Student: Andrew Green Mentor: Aleksey Bragin  Theme Support Implement the theme service for the user interface.</description>
+    </item>
+    
+    <item>
+      <title>Newsletter 82</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-82/</link>
+      <pubDate>Sat, 09 Apr 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-82/</guid>
+      <description>NewCC Status A while back Art Yerkes merged in a significant part of his new common cache implementation into trunk. This merge was intended to lay the foundation for the eventual replacement of the current common cache, which will happen once Art clears up some inconsistencies in how the sections data structure is treated by the memory manager and the common cache. Sections management is the responsibility of the memory manager but provide functionality the common cache relies on.</description>
+    </item>
+    
+    <item>
+      <title>Google Summer of Code 2011</title>
+      <link>https://costanzaltavilla.github.io/project-news/google-summer-code-2011/</link>
+      <pubDate>Sun, 20 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/google-summer-code-2011/</guid>
+      <description>We are proud to announce that ReactOS has been accepted into the 2011 Google Summer of Code program. It has been a few years since we were last a part of the program, so we are keen to use this opportunity not only to benefit ReactOS in hopefully gaining new features, but in passing on our knowledge to bright and prospective students with an interest in operating system development and especially Windows internals.</description>
+    </item>
+    
+    <item>
+      <title>Newsletter 81</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-81/</link>
+      <pubDate>Mon, 14 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-81/</guid>
+      <description>C++ Mangling Those with any experience using third party libraries while writing C++ applications should quickly recognize the topic I am about to go over and can skip down to paragraph three for the ReactOS specific miseries. Those that are not familiar with the issues or want a refresher should continue. The C++ standard outlines behavior for C++ code when compiled. To be considered a compliant compiler requires following the specifications laid out, though no compiler that I am aware of actually implements 100% of the entire standard.</description>
+    </item>
+    
+    <item>
+      <title>Newsletter 80</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-80/</link>
+      <pubDate>Thu, 03 Feb 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-80/</guid>
+      <description>Component Testing As more components relating to filesystems sees implementation in ReactOS, they need to be tested. Pierre Schweitzer decided to try using Microsoft&#39;s FASTFAT driver to help in the effort, as using it successfully in ReactOS would indicate development is on the right track. Unfortunately, ReactOS&#39; current common cache implementation effectively blocks that attempt due to its sorry state. The common cache has been touched upon in the past and mention was made of its problems.</description>
+    </item>
+    
+    <item>
+      <title>Newsletter 79</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-79/</link>
+      <pubDate>Sat, 25 Dec 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-79/</guid>
+      <description>The ReactOS team would like to wish everyone a merry Christmas and a happy New Year.
+Coverity Redux The ReactOS team recently ran another Coverity scan on the source code. While a few new issues were discovered thanks to enhancements to Coverity&#39;s analysis program, the vast majority of issues fell into two categories; false positives due to the way the Portable Structured Exception Handling (PSEH) library is implemented and used, and warnings from third party code not developed by this project.</description>
+    </item>
+    
+    <item>
+      <title>Newsletter 78</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-78/</link>
+      <pubDate>Tue, 23 Nov 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-78/</guid>
+      <description>Sound Stack
+ The sound stack on Windows has a fairly clearcut layout, but the explanation provided in issue 65 of the newsletter was very brief and likely confusing so a more complete explanation follows. The sound card on a computer deals with two types of lines, source and destination. Source lines are effectively inputs from various things like the CD-ROM, microphone, or the like. Destination lines are ouputs from the card to speakers, headphones, and such.</description>
+    </item>
+    
+    <item>
+      <title>Newsletter 77</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-77/</link>
+      <pubDate>Wed, 27 Oct 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-77/</guid>
+      <description>0.3.12 As one can see from the front page, 0.3.12 has been released into the wild. In many ways 0.3.12 provides more a transitional view of ReactOS development than presenting loads and loads of new features or functionality. The 10 months between it and 0.3.11 provided a long window in which developers could drop in new features. Unfortunately many of them promised to be extremely disruptive and the decision was made to disable the full functionality of several before shipping.</description>
+    </item>
+    
+    <item>
+      <title>Newsletter 76</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-76/</link>
+      <pubDate>Wed, 08 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-76/</guid>
+      <description>Hunting Dangling Pointers
+ There has always been a suspicion and concern amongst the ReactOS developers that there are points of sloppiness in ReactOS with respect to memory management. These can be fairly innocuous when at the user mode level, but in kernel mode can lead to data corruption and other problems. Cameron Gutman, Timo Kreuzer, and Michael Martin have just managed to find and fix what was perhaps the most serious of these suspected leaks.</description>
+    </item>
+    
+    <item>
+      <title>Newsletter 75</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-75/</link>
+      <pubDate>Sat, 07 Aug 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-75/</guid>
+      <description>Starcraft 2 came out. Enough said.
+Bitmap Drawing Bitmaps are more or less the primary medium through which the Win32 subsystem draws things. However, the term refers to more than just the widely used format for images and the like. That format is generally considered a device independent bitmap (DIB). With a device independent version there of course exists a device dependent one, which is the format that a particular graphics device supports for drawing.</description>
+    </item>
+    
+    <item>
+      <title>Newsletter 74</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-74/</link>
+      <pubDate>Fri, 09 Jul 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-74/</guid>
+      <description>General Developments Amine Khaldi&#39;s effort in getting the driver headers cleaned up is starting to show results. Not only are a good portion of the driver headers sorted out, the necessary checks have been added to allow the headers to be used in both MSVC and GCC. Anyone who has had to write cross platform code will know that the two compilers have subtle differences at times in their allowed syntax so producing code that works with both can get nontrivial quickly.</description>
+    </item>
+    
+    <item>
+      <title>Newsletter 73</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-73/</link>
+      <pubDate>Wed, 23 Jun 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-73/</guid>
+      <description>A word of advice to everyone, traveling through six different cities in the span of two weeks requires a careful balance between changes of clothes brought and lightness of luggage, though a willingness to hand wash will also go a long way.
+Timers and Messages Several years back when I first joined the ReactOS team as a release engineer, which I technically still am, the team ran into an odd bug where when downloading something in Firefox they needed to move the mouse to see any progress.</description>
+    </item>
+    
+    <item>
+      <title>Newsletter 72</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-72/</link>
+      <pubDate>Sat, 15 May 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-72/</guid>
+      <description>Just a heads up, I&#39;m out of the country for the next two months and will have unreliable net access, so do not expect any newsletters until late July.
+General Developments A few weeks back Aleksey Bragin directed the developers to take a look at a long list of regressions that had accumulated. Individually the problems were for the most part minor, though a few were near show stoppers. However, cumulatively they represented a major perception problem in ReactOS&#39; progress.</description>
+    </item>
+    
+    <item>
+      <title>Newsletter 71</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-71/</link>
+      <pubDate>Fri, 23 Apr 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-71/</guid>
+      <description>NT USB Stack Pre-Vista, the USB architecture started with a very low level usbport driver. This driver was the one that created device objects for each USB controller and received I/O Request Packets (IRP). Depending on which USB standard the controllers were for, usbport would call into one of three helper drivers, usbehci, usbohci, and usbuhci. The one actually sending those IRPs was usbhub, and these components constitute the lower levels of the USB stack.</description>
+    </item>
+    
+    <item>
+      <title>Newsletter 70</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-70/</link>
+      <pubDate>Thu, 01 Apr 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-70/</guid>
+      <description>UniATA Timing UniATA continues to be problematic, with testers often struggling to get past the first stage install much less actually put ReactOS through its paces. As mentioned before, the time UniATA waits for responses from hardware is considerably lower than that of the old ATA driver. On older hardware, sometimes various drives are not fast enough in responding so operations time out and UniATA reports an error even when there technically was nothing wrong.</description>
+    </item>
+    
+    <item>
+      <title>Chemnitz Linux Day</title>
+      <link>https://costanzaltavilla.github.io/project-news/chemnitz-linux-day/</link>
+      <pubDate>Thu, 04 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/chemnitz-linux-day/</guid>
+      <description>Several German members of the ReactOS development team and Aleksey Bragin, the project coordinator, will be attending the Chemnitz Linux Day, an expo for open source technologies running from March 13 to 14. Besides the team manning a table, Matthias Kupfer will be holding a talk outlining the architecture of ReactOS as well as achieved and future objectives on Sunday, March 14 at 16:30, so be sure to drop by. The event will also be the first time the German ReactOS Association makes its public appearance, with the majority of the board present.</description>
+    </item>
+    
+    <item>
+      <title>Newsletter 69</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-69/</link>
+      <pubDate>Wed, 03 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-69/</guid>
+      <description>Trap Handling One of the ways low level communication with hardware is handled is with interrupts and exceptions. Code still has to be written to deal with these and that code is in the trap handler. The original trap handler code in ReactOS was pure assembly, which to an extent is inevitable due to the very needing to carry out operations that the C language does not specify a method for.</description>
+    </item>
+    
+    <item>
+      <title>Newsletter 68</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-68/</link>
+      <pubDate>Fri, 22 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-68/</guid>
+      <description>ARWINSS, Third Time&#39;s the Charm, Maybe There has been increasing speculation on what ARWINSS is, on what it is for, and on what it does, despite several statements released by Aleksey Bragin. The speculation has reached the point where people with incomplete information are making assertions as if they were fact when often their assertions are incorrect. ARWINSS is not intended to &#39;replace&#39; the current Win32 subsystem. It exists as a parallel effort to overcome the limitations in the current Win32 subsystem by applying a different design instead of duplicating the one in Windows NT.</description>
+    </item>
+    
+    <item>
+      <title>ReactOS 0.3.11 Released</title>
+      <link>https://costanzaltavilla.github.io/project-news/reactos-0311-released/</link>
+      <pubDate>Wed, 16 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/reactos-0311-released/</guid>
+      <description>ReactOS 0.3.11 Released The ReactOS team is proud to announce the release of ReactOS 0.3.11. This release has been delayed by quite some time due to various blocker bugs which manifested each time we tried to release. A lot of time has gone into hunting down these bugs and various steps have been taken to try to ensure we don&#39;t hit this problem again. This isn&#39;t to say we don&#39;t have a lot of new and exciting features in this release.</description>
+    </item>
+    
+    <item>
+      <title>Newsletter 67</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-67/</link>
+      <pubDate>Thu, 12 Nov 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-67/</guid>
+      <description>Debugging The last time WinDBG support was discussed up was nearly a year ago. The first step needed was a kernel compatible with WinDBG, which was achieved by the kernel rewrite that mostly concluded two years ago. The required features mostly revolved around dealing with an executing thread&#39;s context and reading virtual memory. While the kernel rewrite made these possible, a few bugs prevented their usage. Debugging requires interrupting the executing thread&#39;s flow but also restoring it to allow the program to continue.</description>
+    </item>
+    
+    <item>
+      <title>Newsletter 66</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-66/</link>
+      <pubDate>Sat, 31 Oct 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-66/</guid>
+      <description>FAT
+ A short while ago the FullFAT library was mentioned on the ReactOS forum and then brought to the attention of the developers by IRC regulars. Written by James Walmsley, it is a platform independent library for accessing FAT12/16/32 partitions and it was suggested that a new IFS driver could be written using it. The current FAT driver was written against an older, less NT compliant kernel and was never extensively tested on Windows to begin with.</description>
+    </item>
+    
+    <item>
+      <title>Newsletter 65</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-65/</link>
+      <pubDate>Sun, 11 Oct 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-65/</guid>
+      <description>Disks and Partitions One of the non-cross platform aspects of ReactOS was in how the bootloader dealt with disks and partitions. The naming scheme used was very x86 centric and also was limited in which partitions it could access. Herv&amp;eacute; Poussineau started working on a new API to remove the limitations, one based on names instead of drive numbers. Previously on platforms like PPC and ARM, developers would have needed to give numbers to each storage device they wanted to use.</description>
+    </item>
+    
+    <item>
+      <title>Newsletter 64</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-64/</link>
+      <pubDate>Wed, 16 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-64/</guid>
+      <description>Color and Filling Colored cursors aren&#39;t a feature used that often by regular applications, but games certainly make use of it and Winamp is a non-game example. When using Winamp, Gregor Schneider noticed the mouse turned into a black box when he tried to use it and dug into the code to see if he could fix it. In several places were comments noting the need for color support so Gregor had a few hints about where additional code was needed.</description>
+    </item>
+    
+    <item>
+      <title>Newsletter 63</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-63/</link>
+      <pubDate>Sat, 01 Aug 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-63/</guid>
+      <description>Test Disruptions For several days the automated testing suite that runs every ReactOS revision got stuck in an infinite loop once it reached the msi_winetest. Several people following the testing noticed this issue and suggested possible causes but Jeffrey Morlan eventually committed a patch that seems to resolve it. The problem appeared to be in the LoadLibraryExW function, in a specific case where the LOAD_LIBRARY_AS_DATAFILE flag was set. The function received as one of its inputs DllName, the name of the library it was being asked to load.</description>
+    </item>
+    
+    <item>
+      <title>Newsletter 62</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-62/</link>
+      <pubDate>Tue, 21 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-62/</guid>
+      <description>PSEH Corruption In NT operating systems, structured exception handling is used to help safeguard probing of user mode memory buffers and pageable memory while in kernel mode. This requirement was what motivated the creation of the PSEH library by KJK::Hyperion since GCC does not have support for it. Since the last attempt to add SEH support to GCC failed, ReactOS remains dependent on PSEH. Recently, the ARM team committed some code which exposed a very nasty bug in the PSEH library and investigation of the issue led KJK to discover another bug while analyzing the code.</description>
+    </item>
+    
+    <item>
+      <title>Newsletter 61</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-61/</link>
+      <pubDate>Tue, 30 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-61/</guid>
+      <description>0.3.10 Preparations  Effort is underway to get the 0.3.10 release out the door. Testers have been going through the usual list of applications to find any regressions and several have popped up. An especially nasty one was a seemingly random data corruption in the Download application, eventually traced back to an update in wininet from Wine. As the developers were unable to pinpoint the exact cause, Cameron Gutman simply reverted the entire code synchronization.</description>
+    </item>
+    
+    <item>
+      <title>Sourceforge Community Choice Awards</title>
+      <link>https://costanzaltavilla.github.io/project-news/sourceforge-community-choice-awards/</link>
+      <pubDate>Thu, 25 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/sourceforge-community-choice-awards/</guid>
+      <description>The ReactOS project is once again taking part in the Sourceforge Community Choice Awards and we have made it into the final round of voting. ReactOS is currently in three categories, Best Project, Best Project for Government, and Most Likely to Change the Way You Do Everything. We ask all of our supporters to please vote for us by following this link and to help spread the word. There&#39;s no money involved, but the publicity would certainly help the project gain more exposure.</description>
+    </item>
+    
+    <item>
+      <title>Newsletter 60</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-60/</link>
+      <pubDate>Fri, 12 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-60/</guid>
+      <description>RBuild and MSVC  Getting ReactOS built using Microsoft&amp;#39;s compilers has been on the wishlist of several ReactOS developers, but no one really wanted to deal with the monstrosity that RBuild had transformed into. KJK::Hyperion decided his sanity was sufficient enough to survive the experience and has been working for quite some time to get it to be able to use a compiler that is not GCC. So far, his additions allow RBuild to detect the presence of the VC++ compiler, whether you got it through Visual Studio, one of the SDKs, or the WDK.</description>
+    </item>
+    
+    <item>
+      <title>Newsletter 59</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-59/</link>
+      <pubDate>Thu, 04 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-59/</guid>
+      <description>ReactOS Foundation   The ReactOS Foundation is the entity that handles the legal affairs of the project and owns the trademarks and logos associated with the ReactOS Project. The Foundation itself has been established for a few years now and is based in Moscow, but two recent developments have helped increase its legitimacy in a broader perspective. The first was the approval of ReactOS as a registered trademark owned by the Foundation in Russia.</description>
+    </item>
+    
+    <item>
+      <title>Newsletter 58</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-58/</link>
+      <pubDate>Sat, 16 May 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-58/</guid>
+      <description>UniATA  The Universal ATA driver has often been pointed out as a way to solve some rather annoying issues in ReactOS, such as the lack of support for SATA and limiting the amount of space ROS sees to about 8GB. Since both issues border on the outright absurd in this day and age, fixing them was of very high priority. A few showstoppers stood in the way however of switching over permanently and Aleksey Bragin has managed to resolve some of them.</description>
+    </item>
+    
+    <item>
+      <title>Newsletter 57</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-57/</link>
+      <pubDate>Thu, 30 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-57/</guid>
+      <description>VBox Video Driver  A while back the VBox video driver started working in ReactOS, which meant people using VirtualBox could now get hardware acceleration for graphics. To make the driver usable, Timo Kreuzer fixed two things in the Win32 subsystem. While the driver ran before the fixes, its functionality was somewhat crippled and drawing often resulted in problems. The first fix was for the mouse pointer, or more specifically drawing the mouse pointer moving across the screen.</description>
+    </item>
+    
+    <item>
+      <title>Newsletter 56</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-56/</link>
+      <pubDate>Thu, 09 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-56/</guid>
+      <description>USB  USB support has an odd history in ReactOS. The original effort involved porting the Cromwell USB stack from Linux, which Aleksey Bragin spent awhile trying to get working. This was eventually abandoned for another third party project, an USB stack developed for NT4 by a programmer in China. This stack however was incomplete and rather buggy and the original author no longer maintained it so Aleksey spent some time fixing it up, to an extent.</description>
+    </item>
+    
+    <item>
+      <title>Newsletter 55</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-55/</link>
+      <pubDate>Mon, 16 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-55/</guid>
+      <description>Font Engine  There is a difference between functional correctness and implementation correctness, a distinction one always has to keep in mind when saying something works in ReactOS. In the case of text rendering, while the output may for the most part look correct, the underlying implementation is nothing like how it should be. The abbreviated function call chain for displaying text is TextOutA/W, NtGdiExtTextOutW, and GreExtTextOutW. There are a few variations but the above provides a general idea of the path down to the Gre function.</description>
+    </item>
+    
+    <item>
+      <title>Newsletter 54</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-54/</link>
+      <pubDate>Wed, 04 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-54/</guid>
+      <description>Memory Usage  The minimum required memory for ReactOS has been creeping up for some time now, mainly due to the installer. In general, the developers knew that the memory required by ROS after the install was nowhere as high as during the install. Most assumed there was some kind of memory leakage happening, whether it be in the installer or even in the memory manager. It was an issue many people wanted addressed but it wasn&amp;#39;t until Alex Ionescu took a look that the problem was resolved.</description>
+    </item>
+    
+    <item>
+      <title>FOSDEM Writeup</title>
+      <link>https://costanzaltavilla.github.io/project-news/fosdem-writeup/</link>
+      <pubDate>Mon, 23 Feb 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/fosdem-writeup/</guid>
+      <description>The following is a writeup by KJK::Hyperion detailing his experiences at FOSDEM. Since all the developers unilaterally agreed that it was a much more entertaining read, it now represents the project&amp;#39;s writeup. Besides some minor spelling corrections, name corrections, and conclusion, it was all his, quirky grammar included. Enjoy. FRIDAY  Left home at 3.30 AM. My pessimistic estimate is 10 hours total of travel from home (Milan, Italy) to hotel (Brussels, Belgium).</description>
+    </item>
+    
+    <item>
+      <title>Newsletter 53</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-53/</link>
+      <pubDate>Mon, 16 Feb 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-53/</guid>
+      <description>ReactOS 0.3.8  Version 0.3.8 was released on Feburary 4th. The developers actually did a rush job, trying to get it ready in time for Andrew Greenwood to burn all the CDs they would be taking to FOSDEM. 0.3.8 continues the emphasis on stability and usability, but ultimately the OS still has a long way to go before these goals are achieved. FOSDEM  Several developers were present at the FOSDEM convention representing the project.</description>
+    </item>
+    
+    <item>
+      <title>Newsletter 52</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-52/</link>
+      <pubDate>Mon, 02 Feb 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-52/</guid>
+      <description>More Win32 Work  Timo Kreuzer continues his efforts to make the Win32 subsystem more correct, recently working on the functions SetWindowExtEx and SetViewpointExtEx. The first step was moving it out of win32k, where the operations were originally being carried out, and into gdi32, where they should be carried out. Jim Tabor had code in place which implemented them, but they needed some fixing. While not yet complete, Timo has corrected some of the errors.</description>
+    </item>
+    
+    <item>
+      <title>Year in Review</title>
+      <link>https://costanzaltavilla.github.io/project-news/year-review/</link>
+      <pubDate>Sat, 17 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/year-review/</guid>
+      <description>Year in Review  2008 saw a total of four point releases by the ReactOS project, all of which were made after the kernel rewrite was completed. Thus the instabilities people saw in the 0.3.1 release were greatly reduced and there were better rates of success in running ROS on real hardware and not just virtual machines. That is not to say the system runs reliably, but we have gotten closer.</description>
+    </item>
+    
+    <item>
+      <title>Newsletter 51</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-51/</link>
+      <pubDate>Mon, 12 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-51/</guid>
+      <description>Drawing Bugs  Two issues were recently fixed that caused some problems in Firefox 2. The first was the page loaded would wash out after about 60 seconds of inactivity. The problem was in NtGdiGetDIBitsInternal, where the function was using the device context&#39;s palette instead of the bitmap&#39;s. The second problem involves the logos and images on Firefox&#39;s Google homepage being blacked out or completely missing entirely. This problem is slightly more complex as it involved the three types of &#34;</description>
+    </item>
+    
+    <item>
+      <title>Newsletter 50</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-50/</link>
+      <pubDate>Sat, 20 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-50/</guid>
+      <description>The Perils of PSEH2  While KJK did get PSEH2 out in record time, this meant that it was relatively untested when he committed it and developers began using it. Currently PSEH seems to be corrupting data when exceptions get thrown, which then cascades down and causes functions to assert and crash, something that it was supposed to prevent. Michael Martin&amp;#39;s theory about what is happening is that PSEH is clobbering local variables that are being held in registers, though KJK attributes it to an issue of not using setjmp.</description>
+    </item>
+    
+    <item>
+      <title>Newsletter 49</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-49/</link>
+      <pubDate>Mon, 17 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-49/</guid>
+      <description>Network Configuration  Johannes Anderwald has been working to fix a persistent bug in the network settings that resulted after he reimplemented the network configuration and settings dialog in netcfgx.dll using COM interfaces. Johannes also had to implement the COM interfaces, since they didn&#39;t exist before, and they are now in netshell.dll. Unfortunately, it seems that the dhcpclient was storing settings in the wrong registry key, which resulted in failure to retrieve DNS information and crashing of applications that relied on such information.</description>
+    </item>
+    
+    <item>
+      <title>Newsletter 48</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-48/</link>
+      <pubDate>Sat, 25 Oct 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-48/</guid>
+      <description>General Developments  The release was delayed to take care of a series of regressions. That and I was busy so the changelog itself wasn&amp;#39;t ready either. Anyways, every time a branch is created, Colin Finck, the release engineer, puts up a build and our team of testers run it through its paces and see if any applications that worked in the past got broken. If that happens, effort is made to fix the regression.</description>
+    </item>
+    
+    <item>
+      <title>Newsletter 47</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-47/</link>
+      <pubDate>Sun, 28 Sep 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-47/</guid>
+      <description>General Developments  The developers have been quite busy over the past month, each chugging away at their respective spots. Cameron Gutman continues filling in holes in our networking code, while Ged Murphy is putting together headers for the user mode side of networking. Samuel Serapion and Timo Kreuzer are still working on the x64 branch, fixing compile errors and warnings as they go. We&#39;ve also had a few discussions with the mingw64 people about what&#39;s missing on both ends to get ReactOS to run as a proper x64 OS.</description>
+    </item>
+    
+    <item>
+      <title>Newsletter 46</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-46/</link>
+      <pubDate>Wed, 20 Aug 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-46/</guid>
+      <description>Shellfolder Extensions  All of the special folders such as control panel, printer folder, and administrative tools are actually shellfolder extensions that the Explorer shell implements using IShellFolder. Johannes Anderwald has been implementing those still missing in ReactOS as well as extending and fixing others. Two new ones are the Font folder and the Administrative Tools folder. Johannes also implemented the dialog for formating drives, but this obviously isn&amp;#39;t functional.  The Recycle Bin was also fixed with help from Herv&amp;eacute; Poussineau, as previously several issues in Trash_CanTrashFile prevented files from being moved there.</description>
+    </item>
+    
+    <item>
+      <title>Newsletter 45</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-45/</link>
+      <pubDate>Mon, 11 Aug 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-45/</guid>
+      <description>LinuxWorld Report  For the past week, Art Yerkes has been representing ReactOS at the Linux World Convention in California.&amp;nbsp; He was unfortunately the only ReactOS developer or community member that could make it, but things seem to have turned out well.&amp;nbsp; In the process of preparing for the convention, Art stumbled over an issue with drive letters that I will cover later.&amp;nbsp; This forced him to rely on running ReactOS in QEMU, which actually turned out nicely.</description>
+    </item>
+    
+    <item>
+      <title>Newsletter 44</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-44/</link>
+      <pubDate>Wed, 06 Aug 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-44/</guid>
+      <description>General Development  There was an interesting bug involving handle creation a while back. When creating the 4100th handle, the system would crash. This bug was exposed through VLC and was eventually fixed by Christoph von Wittich. The problem was the result of an incorrect calculation, where the code attempted to access an index higher than 4099 on the first table. Such values are out of bounds and are supposed to be found in the second table and higher.</description>
+    </item>
+    
+    <item>
+      <title>Newsletter 43</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-43/</link>
+      <pubDate>Wed, 16 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-43/</guid>
+      <description>0.3.5 Release  Obviously the release has gone out and we are receiving the usual reports of problems and successes. The biggest problem seems to be an issue people are having with Qemu on Vista, at least the Qemu version we prepackaged. This is not really a problem with ReactOS itself, but with the emulator software. For people who have encountered this, we suggest using the 0.9.0 builds instead of the 0.</description>
+    </item>
+    
+    <item>
+      <title>Newsletter 42</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-42/</link>
+      <pubDate>Sat, 28 Jun 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-42/</guid>
+      <description>Various Matters  The project&#39;s been dealing with some internal matters recently and this combined with my day job being at the same time the majority of developers are online means I wasn&#39;t fully up to date on development matters and was busy dealing with other matters. Due to various issues and my lack of time recently, it&#39;s taken this long to get one out. We did have a second person who volunteered to write something up and the basic information in this newsletter is from his draft.</description>
+    </item>
+    
+    <item>
+      <title>Newsletter 41</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-41/</link>
+      <pubDate>Thu, 15 May 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-41/</guid>
+      <description>Just a reminder that there really isn&amp;#39;t any set schedule for newsletters anymore. We (or at least I) publish whenever there&amp;#39;s something to report, and boy do we have a lot of ground to cover. The past few weeks have been very eventful. 0.3.5 and Development Focus  Amongst the developers, the joke was that Aleksey&amp;#39;s vacation delayed the release, so it was his fault that we&amp;#39;re behind. Now, it is Aleksey&amp;#39;s fault, but for a different reason.</description>
+    </item>
+    
+    <item>
+      <title>Newsletter 40</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-40/</link>
+      <pubDate>Mon, 05 May 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-40/</guid>
+      <description>Microsoft DirectX Runtime  First, let me state that legally, according to the whole Windows Genuine Advantage and EULA, you&amp;#39;re not supposed to install the MS DirectX runtime on nongenuine Windows systems. On the other hand, the runtimes that come with various games as a prerequisite to playing the game aren&amp;#39;t technically bound by the WGA. That aside, the MS DirectX runtime now loads on ReactOS. To get DX on, you need to manually copy the following files: dxg.</description>
+    </item>
+    
+    <item>
+      <title>Newsletter 39</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-39/</link>
+      <pubDate>Mon, 31 Mar 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-39/</guid>
+      <description>General Status  We&amp;#39;re currently in the middle of compiling the changelog, but that doesn&amp;#39;t necessarily mean we&amp;#39;re ready for release.  The keyboard/mouse problem has slowly been worked out and according to Colin Finck it is now fixed. If you still encounter problems, complain to him, not me.&amp;nbsp; The issue with the keyboard not responding during language selection should now be gone and was due to the keyboard driver not loading properly.</description>
+    </item>
+    
+    <item>
+      <title>Newsletter 37</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-37/</link>
+      <pubDate>Thu, 07 Feb 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-37/</guid>
+      <description>0.3.4 Release  0.3.4 was released a few weeks back. While it has seen some major improvements, the mouse/keyboard bug wasn&amp;#39;t completely squashed in the release. However, it has been fixed in trunk by Aleksey, so all of you can stop complaining about it. On the other hand, people are reporting some major speed increases with this release. Thomas Bluemel&amp;#39;s work on the desktop heap and Jim Tabor&amp;#39;s work in deferring switchs between user and kernel mode seem to be paying off.</description>
+    </item>
+    
+    <item>
+      <title>Forum lock</title>
+      <link>https://costanzaltavilla.github.io/project-news/forum-lock/</link>
+      <pubDate>Thu, 17 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/forum-lock/</guid>
+      <description>Forum Issues  We&amp;#39;re currently dealing with some malicious activity on the forum.&amp;nbsp; Some of the developers have decided to lock it until the problem is fixed.&amp;nbsp; Quite frankly, it&amp;#39;s disappointing that we need to go this far, but we the development team will ban and kick people who refuse to behave or cause problems for us.&amp;nbsp; </description>
+    </item>
+    
+    <item>
+      <title>Newsletter 36</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-36/</link>
+      <pubDate>Tue, 08 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-36/</guid>
+      <description>General Developments  Aleksey and Herve have been working on the PnP problem, which many people are experiencing through the unresponsive mouse or keyboard. At least some of the problem&amp;#39;s been fixed, since people seem to have better success. In an attempt to squash the rest of the bug, Aleksey is updating the Remote Procedure Call code in ROS. Also, a working RPC would also allow WIDL, our substitute for MIDL (Microsoft Interface Definition Language), a method for software components written in different programming languages to communicate, to finally work.</description>
+    </item>
+    
+    <item>
+      <title>Newsletter 34</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-34/</link>
+      <pubDate>Mon, 19 Nov 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-34/</guid>
+      <description>A rare joint newsletter between Samuel and I. General Changes  Some people have already noticed the inclusion of a new remote desktop utility, mstsc.exe, by Ged. Some asked why include this new tool when there is already such a client in SVN, albeit incomplete. The reasoning is simple. The author of the old client has been gone a while and Ged is not familiar with his code, so he chose to use something else.</description>
+    </item>
+    
+    <item>
+      <title>Newsletter 33</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-33/</link>
+      <pubDate>Mon, 22 Oct 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-33/</guid>
+      <description>Les Trophees du Libre  Les Trophees du Libre is a contest for free software, divided into six categories. ReactOS has entered the contest, in the science category. At first glance that might seem odd, but LinuxBIOS is also in that category. However, it&#39;s not LinuxBIOS we should be worried about. The competition from the other projects is going to be rough. We&#39;re facing mathematical libraries, pattern recognition, even bioinformatics. Still, with a grand prize of 3000 euros, it&#39;s definitely worth a shot.</description>
+    </item>
+    
+    <item>
+      <title>Newsletter 31</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-31/</link>
+      <pubDate>Sun, 02 Sep 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-31/</guid>
+      <description>This newsletter is late because I ran into a permissions conflict with RosCMS. Others who have also run into it, frik is fixing it tomorrow.  Win32k Rewrite   Samuel mentioned this last time and I spoke with the developers responsible to get more details. Jim Tabor, Timo Kreuzer, and Magnus Olsen have been working extensively to redo the win32k subsystem. The biggest thing is duplicating the behavior of Windows&amp;#39; win32k.</description>
+    </item>
+    
+    <item>
+      <title>Newsletter 29</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-29/</link>
+      <pubDate>Sat, 21 Jul 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-29/</guid>
+      <description>ReactOS 0.3.3 RC1 The release candidate was more or less a success, far more than what many of us expected. When bug reports started coming in from people running it on real hardware, several of us, including myself, were quite surprised. Having a stabilized kernel definitely helps. The RC was released for several reasons. First, ReactOS suddenly got a surge of attention over the past two weeks, resulting in people going and downloading our latest release.</description>
+    </item>
+    
+    <item>
+      <title>Newsletter 27</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-27/</link>
+      <pubDate>Wed, 04 Jul 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-27/</guid>
+      <description>Bug Hunt  The past few weeks have seen quite a lot of activity.&amp;nbsp; At least six major blocker bugs were dealt with, ranging from the network issue to various bugs in the command line console.&amp;nbsp; The pre VMware Workstation 6 Display Driver also now installs and works, which opens up some interesting possibilities.&amp;nbsp; Specifically, on VMware Workstation, the driver allows the use of DirectX or ReactX.&amp;nbsp; Which means Magnus Olsen&#39;s work on ReactX can actually be demo&#39;ed on Workstation, to an extent.</description>
+    </item>
+    
+    <item>
+      <title>Newsletter 25</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-25/</link>
+      <pubDate>Wed, 06 Jun 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-25/</guid>
+      <description>In theory, I shouldn&#39;t be writing this edition. In reality, I got tired of waiting for Samuel to get this out. Thank You Alex For those that don&#39;t know, Alex Ionescu, the kernel coordinator, has resigned.&amp;nbsp; Alex first joined the project in 2004, around the 0.2.2 release.&amp;nbsp; Since then, he&#39;s been at the center of quite a few squabbles about how to code the kernel.&amp;nbsp; However, Alex has also been responsible for completely rewriting the kernel almost from the ground up.</description>
+    </item>
+    
+    <item>
+      <title>Newsletter 24</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-24/</link>
+      <pubDate>Sun, 20 May 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-24/</guid>
+      <description>When exam time comes, my priorities shift to real life obviously.&amp;nbsp; As such, the newsletter is a week late.&amp;nbsp; Whether the next newsletter is a week away or two will be up to Samuel when he gets around to it. Release Plans When the new release cycle was announced, the idea was that releases would happen every two months. This was a theoretical timeline that was dependent on several factors. First was the state of trunk.</description>
+    </item>
+    
+    <item>
+      <title>Newsletter 22</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-22/</link>
+      <pubDate>Sun, 15 Apr 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-22/</guid>
+      <description>A New Volume When Samuel took over the newsletter, there was no guideline as to what constituted a Volume.&amp;nbsp; After talking to him, we decided to mark Volumes by year.&amp;nbsp; This means that Volume 1 had nine issues from 2005, Volume 2 had five issues from 2006, and Volume 3 has eight issues and counting in 2007.&amp;nbsp; And now we continue the biweekly rotation of who writes the meat of the article.</description>
+    </item>
+    
+    <item>
+      <title>Newsletter 20</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-20/</link>
+      <pubDate>Sun, 18 Mar 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-20/</guid>
+      <description>A Third Introduction Good day to all. The name&#39;s Z98 and I&#39;m one of two release managers for ReactOS. The source files and QEMU images were generated by me, so if there are any mistakes, you know who to complain to. Today I wrote most of the newsletter and I will be helping samwise52 in the future.
+Reactions to 0.3.1 Reactions have varied in regard to 0.3.1, though one response was consistent.</description>
+    </item>
+    
+  </channel>
+</rss>

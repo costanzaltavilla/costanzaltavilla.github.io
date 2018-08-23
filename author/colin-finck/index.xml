@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Colin Finck on ReactOS Website</title>
+    <link>https://costanzaltavilla.github.io/author/colin-finck/</link>
+    <description>Recent content in Colin Finck on ReactOS Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 23 Jul 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://costanzaltavilla.github.io/author/colin-finck/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ReactOS 0.4.9 released</title>
+      <link>https://costanzaltavilla.github.io/project-news/reactos-049-released/</link>
+      <pubDate>Mon, 23 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/reactos-049-released/</guid>
+      <description>The ReactOS Project is pleased to announce the release of version 0.4.9, the latest in our accelerated cadence targeting a release every three months.
+While a consequence of this faster cycle might mean fewer headliner changes, much of the visible effort nowadays comes in the form of quality-of-life improvements in how ReactOS functions. At the same time work continues on the underlying systems which provide more subtle improvements such as greater system stability and general consistency.</description>
+    </item>
+    
+    <item>
+      <title>Website upgraded</title>
+      <link>https://costanzaltavilla.github.io/project-news/website-upgraded/</link>
+      <pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/website-upgraded/</guid>
+      <description>Today, the ReactOS Website has been migrated to a new Login system and all components have been upgraded to their latest versions.
+In the course of that, the user database has also been moved and cleaned from accounts that have never been used.
+Such large migrations hardly go without issues, so if you notice anything wrong, please report a bug in our JIRA bugtracker.
+You are also advised to change your password in the Self-Service, even if it&#39;s just to the same one.</description>
+    </item>
+    
+    <item>
+      <title>ReactOS Repository migrated to GitHub</title>
+      <link>https://costanzaltavilla.github.io/project-news/reactos-repository-migrated-github/</link>
+      <pubDate>Tue, 03 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/reactos-repository-migrated-github/</guid>
+      <description>Today, the ReactOS Source Code has been migrated from a central Subversion instance to a decentralized Git repository. Together with that, ReactOS joins the list of projects using the popular GitHub service for developing software. We expect that this move greatly improves the way we collaborate on ReactOS development and reduces the barriers for newcomers. Just fork our repository on GitHub, commit your changes and send us a Pull Request!</description>
+    </item>
+    
+    <item>
+      <title>ReactOS 0.4.5 Released</title>
+      <link>https://costanzaltavilla.github.io/project-news/reactos-045-released/</link>
+      <pubDate>Thu, 18 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/reactos-045-released/</guid>
+      <description>The ReactOS Project is pleased to release version 0.4.5 as a continuation of its three month cadence. Beyond the usual range of bug fixes and syncs with external dependencies, a fair amount of effort has gone into the graphical subsystem. Thanks to the work of Katayama Hirofumi and Mark Jansen, ReactOS now better serves requests for fonts and font metrics, leading to an improved rendering of applications and a more pleasant user experience.</description>
+    </item>
+    
+    <item>
+      <title>Inside ReactOS Deutschland e.V.: Donations and how to automate them</title>
+      <link>https://costanzaltavilla.github.io/blogs/inside-reactos-deutschland-ev-donations-and-how-automate-them/</link>
+      <pubDate>Thu, 25 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/inside-reactos-deutschland-ev-donations-and-how-automate-them/</guid>
+      <description>Hi all! This is my first blog post designed to shed some light on the foundation behind ReactOS.
+Just like many other big Open-Source projects, ReactOS is backed by a foundation supporting the project financially and organizationally. I have been the treasurer of ReactOS Deutschland e.V. since its establishment in 2009 and as such, it has been my duty to do the tedious accounting of all donations. While most of that is happening in the background, you see the results from time to time when I update the public Donors page.</description>
+    </item>
+    
+    <item>
+      <title>ReactOS printing for the first time!</title>
+      <link>https://costanzaltavilla.github.io/blogs/reactos-printing-first-time/</link>
+      <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/reactos-printing-first-time/</guid>
+      <description>As some of you may already know, my university gave me the unique opportunity to choose a ReactOS topic for my bachelor thesis. Three months ago, my decision fell on the Printing Stack, which was totally non-existing in ReactOS at that time. Since then, you can watch my daily progress in the colins-printing-for-freedom branch.
+The Printing Stack as found in modern Windows&amp;reg; versions is a beast of its own. Microsoft&amp;reg; never wanted to sacrifice backwards compatibility with each new Windows version, so the widely used higher level GDI Printing APIs (like StartDoc or EndDoc found in gdi32.</description>
+    </item>
+    
+    <item>
+      <title>Announcement: Server downtime on 28th December</title>
+      <link>https://costanzaltavilla.github.io/project-news/announcement-server-downtime-28-december/</link>
+      <pubDate>Mon, 16 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/announcement-server-downtime-28-december/</guid>
+      <description>In order to fix the availability problems of our Website, the ReactOS Infrastructure Team will upgrade another Server on 28th December.
+This will result in a downtime for the following public services:
+www.reactos.org Websitejira.reactos.org Bugtrackerreactos.reactos.org Test ServerSVN will continue to function, as well as our Build and Test bots. The latest ReactOS builds can be downloaded at iso.reactos.org in the meantime.
+After the upgrade, you should be able to enjoy a higher availability and faster response times when using the ReactOS Online Services.</description>
+    </item>
+    
+    <item>
+      <title>Donators page is back on track</title>
+      <link>https://costanzaltavilla.github.io/project-news/donators-page-back-track/</link>
+      <pubDate>Sat, 08 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/donators-page-back-track/</guid>
+      <description>Donators page is back on track As of today, the Donators page which lists all monetary donations to the project is back on track.
+The long outage originated from the fact that all donations are handled by the German non-profit organization ReactOS Deutschland e.V. as of 2010. This change has required a new software for creating the donation list, which has needed some time to mature.
+Gladly, this long development time has paid off and updating the donation list is now just a matter of a few clicks.</description>
+    </item>
+    
+  </channel>
+</rss>

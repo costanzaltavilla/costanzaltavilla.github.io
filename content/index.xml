@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contents on ReactOS Website</title>
+    <link>https://costanzaltavilla.github.io/content/</link>
+    <description>Recent content in Contents on ReactOS Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 31 Oct 2011 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://costanzaltavilla.github.io/content/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Home</title>
+      <link>https://costanzaltavilla.github.io/content/home/</link>
+      <pubDate>Mon, 31 Oct 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/content/home/</guid>
+      <description>ReactOS® is a free, modern operating system based on the design of Windows® XP/2003. Written completely from scratch, it aims to follow the Windows-NT® architecture designed by Microsoft from the hardware level right through to the application level. This is not a Linux based system, and shares none of the unix architecture. The main goal of the ReactOS project is to provide an operating system which is binary compatible with Windows.</description>
+    </item>
+    
+    <item>
+      <title>Notes</title>
+      <link>https://costanzaltavilla.github.io/content/notes/</link>
+      <pubDate>Mon, 31 Oct 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/content/notes/</guid>
+      <description>I&#39;m currently working with the stylesheets. Here are my findings: Change Filereactos-style.css [Selector] #block-system-main-menu ul.menu text-align: center; (change to left) margin-left:0px; (change to 230px;) or optionally, create a new reactos-menu-style.css and recreate all the above to override the system stylesheet in zen. Fix 1: Handles all menus and may be detrimental to others. Fix 2: Handles only the reactos main menu. But, means another css to work with. Either way an issue.</description>
+    </item>
+    
+  </channel>
+</rss>

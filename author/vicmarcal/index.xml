@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vicmarcal on ReactOS Website</title>
+    <link>https://costanzaltavilla.github.io/author/vicmarcal/</link>
+    <description>Recent content in Vicmarcal on ReactOS Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 14 Apr 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://costanzaltavilla.github.io/author/vicmarcal/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ReactOS 0.4.8 released!!</title>
+      <link>https://costanzaltavilla.github.io/project-news/reactos-048-released/</link>
+      <pubDate>Sat, 14 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/reactos-048-released/</guid>
+      <description>The ReactOS Project is pleased to announce the release of version 0.4.8 as we continue to work on releasing every three months.
+As you may know, our previous 0.4.7 version was the first one developed in our Git/GitHub repository. 0.4.8 is the nice sequel and a good way to measure the GitHub impact on the ReactOS project. Since ReactOS reached GitHub, it has been forked 248 times. A nice amount understanding ReactOS is not a framework or a library, but a final product.</description>
+    </item>
+    
+    <item>
+      <title>ReactOS 0.4.7 released!</title>
+      <link>https://costanzaltavilla.github.io/project-news/reactos-047-released/</link>
+      <pubDate>Wed, 06 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/reactos-047-released/</guid>
+      <description>The ReactOS Project is pleased to announce the release of version 0.4.7 as we continue to work on releasing every three months.
+We’re especially pleased to present this release as the very first one that’s been developed in our new Git/GitHub repository. Moving from Subversion to GitHub has proven to be an invaluable way to reach new testers, users and improve the overall awareness of the ReactOS project.
+To highlight the impact we’ve had since we moved to GitHub two months ago, ReactOS now leads the Win32Api and OsDev categories in Github, overtaking many amazing and well established projects.</description>
+    </item>
+    
+    <item>
+      <title>The day after: ReactOS in the OpenSourceLisbon...</title>
+      <link>https://costanzaltavilla.github.io/project-news/day-after-reactos-opensourcelisbon/</link>
+      <pubDate>Mon, 16 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/day-after-reactos-opensourcelisbon/</guid>
+      <description>28th September was a sunny and amazing day for us, the open source lovers. During the whole day, the Universidade Nova de Lisboa held the #OpenSourceLx event. The biggest and free open source event in Portugal.
+Projects and companies as Syone, RedHat, Microsoft, Elastic, FSF, IpBrick, among others, were offering simultaneous talks during the event. In this edition ReactOS was invited to talk about the project evolution during 45 minutes in the &#34;</description>
+    </item>
+    
+    <item>
+      <title>Join ReactOS in Open Source Lisbon 2017</title>
+      <link>https://costanzaltavilla.github.io/project-news/join-reactos-open-source-lisbon-2017/</link>
+      <pubDate>Sat, 23 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/join-reactos-open-source-lisbon-2017/</guid>
+      <description>As you may know ReactOS, during this year, has been already shown in Belgium, Germany and Spain in several open source events. We&#39;re always looking forward to be part of new events and reach new countries.
+ ReactOS has been selected by the Open Source Lisbon organization to be part of their event on 28th September. An amazing opportunity to reach a new country ( this is our first time ever in Portugal ) from the hand of the biggest open source FREE event in Portugal.</description>
+    </item>
+    
+    <item>
+      <title>ReactOS 0.4.6 released</title>
+      <link>https://costanzaltavilla.github.io/project-news/reactos-046-released/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/reactos-046-released/</guid>
+      <description>The ReactOS Project is pleased to release version 0.4.6 as a continuation of its three month cadence. 0.4.6 is a major step towards real hardware support. Several dual boot issues have been fixed and now partitions are managed in a safer way avoiding corruption of the partition list structures. ReactOS Loader can now load custom kernels and HALs. Printing Subsystem is still greenish in 0.4.6, however Colin Finck has implemented a huge number of new APIs and fixed some of the bugs reported and detected by the ReactOS automated tests.</description>
+    </item>
+    
+    <item>
+      <title>ReactOS Hackfest 2017 and FrOSCon17!</title>
+      <link>https://costanzaltavilla.github.io/project-news/reactos-hackfest-2017-and-froscon17/</link>
+      <pubDate>Fri, 07 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/reactos-hackfest-2017-and-froscon17/</guid>
+      <description>The ReactOS Team is proud to announce that ReactOS has been selected to be present in the FrOSCon17 event.
+&amp;nbsp; FrOSCon 2017  FrOSCon is a free software and open source event organized by the University of Applied Sciences Bonn-Rhein-Sieg (Germany) full of talks, workshops and booths. Entry is absolutely free so there is no excuse not to meet the ReactOS team live. This event takes place on 19th and 20th August so feel free to book your flights or plan a nice weekend to visit our booth there.</description>
+    </item>
+    
+    <item>
+      <title>ReactOS has been accepted for GSOC&#39;17</title>
+      <link>https://costanzaltavilla.github.io/project-news/reactos-has-been-accepted-gsoc17/</link>
+      <pubDate>Mon, 27 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/reactos-has-been-accepted-gsoc17/</guid>
+      <description>The ReactOS Team is proud to announce that Google has once again selected the ReactOS project to be part in the upcoming 2017 Google Summer of Code.
+This is the first time ReactOS has been accepted for GSOC two years consecutively, setting an important landmark in ReactOS’ history. No doubt the amazing work of the ReactOS mentors and students in the 2016 program contributed to make this possible.
+The GSOC program is a great opportunity to join recognized and skilled mentors with eager and skilled students alike.</description>
+    </item>
+    
+    <item>
+      <title>Controlling (not just) Ctrl&#43;C</title>
+      <link>https://costanzaltavilla.github.io/blogs/controlling-not-just-ctrlc/</link>
+      <pubDate>Sat, 13 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/controlling-not-just-ctrlc/</guid>
+      <description>Probably one of the funniest moments while developing is when you realize that something that &#34;looks easy&#34; is not as straight forward as it seemed at first sight.
+The task was &#34;really easy&#34;: Just creating a console app which (1)loops infinitely, (2)doing some tasks and (3) which breaks when the user decides to stop it (4)printing some valuable info before exiting.
+&#34;Naaah, this is easy. I just need a while/for/do-while/whatever infinite loop, a printf message asking the user to press a specific key to stop it, then a getch() to capture the key in order to break/stop the loop, and finally another printf to print the valuable info: PROFIT!</description>
+    </item>
+    
+    <item>
+      <title>Hello Telegram. A new #ReactOS channel</title>
+      <link>https://costanzaltavilla.github.io/project-news/hello-telegram-new-reactos-channel/</link>
+      <pubDate>Fri, 17 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/hello-telegram-new-reactos-channel/</guid>
+      <description>Hello Telegram!  Technology keeps evolving and the ReactOS Community growing. We&#39;re proud to introduce a new way to keep in touch with ,and updated of, the latest #ReactOS news.
+ The ReactOS project is probably one of the open source communities with a higher social network impact out there.Our ReactOS Twitter channel and ReactOS Facebook page are updated daily with the latest commits, news, and fixes thanks to a nifty integration with our development tools and, of course, some human care.</description>
+    </item>
+    
+    <item>
+      <title>ReactOS Participation in Google Summer of Code 2016</title>
+      <link>https://costanzaltavilla.github.io/project-news/reactos-participation-google-summer-code-2016/</link>
+      <pubDate>Mon, 29 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/reactos-participation-google-summer-code-2016/</guid>
+      <description>After five years the ReactOS Project is returning to the Google Summer of Code. On the heels of the 0.4.0 release the project&#39;s aim is on creating smoother user experiences and generally making the system feel more robust and pleasant to use. The team is looking for students interested in learning more about the NT architecture that underpins the most widely used desktop operating system in the world and who wants to take part in the creation of an open source implementation of it.</description>
+    </item>
+    
+    <item>
+      <title>Discover the new ReactOS website</title>
+      <link>https://costanzaltavilla.github.io/project-news/discover-new-reactos-website2/</link>
+      <pubDate>Mon, 08 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/discover-new-reactos-website2/</guid>
+      <description>As you may have noticed, the ReactOS website has been completely revamped. During the last year, the ReactOS Team has been focusing on entering the 0.4 era, the latest major alpha series before the 0.5 Beta. A common feeling among the ReactOS community was that our (now old) website was not good enough from content, design, and technology points of view to honor one of the greatest releases in the ReactOS history.</description>
+    </item>
+    
+    <item>
+      <title>Impressum</title>
+      <link>https://costanzaltavilla.github.io/impressum/</link>
+      <pubDate>Fri, 05 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/impressum/</guid>
+      <description>Legal Disclosure Legally responsible for this website:
+ReactOS Foundation
+represented by Board Member Aleksey Bragin
+B.Khmelnitskogo Street, 33-604
+430005 Saransk City, Mordovia Republic
+Russian Federation
+E-Mail: info@reactos.org </description>
+    </item>
+    
+    <item>
+      <title>Participation</title>
+      <link>https://costanzaltavilla.github.io/participation/</link>
+      <pubDate>Sun, 03 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/participation/</guid>
+      <description>Getting Involved with ReactOS There are many different ways to get involved with ReactOS. Immense time and effort went into creating the NT family of operating systems, including Windows XP and 2003. As ReactOS aspires to be a replacement for Windows, the same amount of resources would ensure the rapid progress of the project. This is where you can play a part.
+  Developing Testing Translating  Documenting   Infrastructure Public Relations Donating  Others.</description>
+    </item>
+    
+    <item>
+      <title>Free and Open-whaaat...?</title>
+      <link>https://costanzaltavilla.github.io/free-and-open-whaaat/</link>
+      <pubDate>Wed, 25 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/free-and-open-whaaat/</guid>
+      <description>Free and Open Source. Free as &#34;you can download it for free&#34;, and open source..which means...you can see how ReactOS is coded, you can modify it, you can provide patches for any bugs you find, and even more: You can create your own ReactOS versions!
+You&#39;re using Open Source software daily if you use Firefox, LibreOffice, OpenOffice, GNU-Linux distributions among zillions of Open Source projects out there. 
+The Open Source projects, as ReactOS, are driven for and by its Community, so being active translating, donating, or coding is a way to help ReactOS boost forward.</description>
+    </item>
+    
+    <item>
+      <title>How can I helping translating?</title>
+      <link>https://costanzaltavilla.github.io/how-can-i-helping-translating/</link>
+      <pubDate>Wed, 25 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/how-can-i-helping-translating/</guid>
+      <description>You can help translating in at least two different ways. The first one is helping to translate this website (for now it is just in English), the second one is helping to translate the operating system. Here you can find a guide about how to request a position to translate the site, and here an awesome tool created by XXXX which helps you to find which files are needed to be translated.</description>
+    </item>
+    
+    <item>
+      <title>How can ReactOS help me?</title>
+      <link>https://costanzaltavilla.github.io/how-can-reactos-help-me/</link>
+      <pubDate>Wed, 25 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/how-can-reactos-help-me/</guid>
+      <description>Being part of a Worldwide Community, as ReactOS is, will boost your own personal skills to a highest new level. Working teamed with people from different countries will enhance your team-working, empathy and English. All these skills are really appreciated by companies out there in job interviews. Contributing your free time into an open source project seems to be also trending and marks a difference withing you and another candidate for the same job.</description>
+    </item>
+    
+    <item>
+      <title>I am not a Developer...how can I help?</title>
+      <link>https://costanzaltavilla.github.io/i-am-not-developerhow-can-i-help/</link>
+      <pubDate>Wed, 25 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/i-am-not-developerhow-can-i-help/</guid>
+      <description>A pity you&#39;re not a Developer. But ey! ReactOS needs more skills than just Devs. We&#39;re always seeking for real testers. Yeah, becoming a REAL tester is not easy, but it&#39;s funny. Also for designers to enhance our iconsets, create resources for the website or events where ReactOS is shown. Writers willing to create a small snip of text to share the latest ReactOS enhancements. Translators for our website and the operating system itself.</description>
+    </item>
+    
+    <item>
+      <title>Is ReactOS legal?</title>
+      <link>https://costanzaltavilla.github.io/reactos-legal/</link>
+      <pubDate>Wed, 25 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/reactos-legal/</guid>
+      <description>Yes, we are. We are not using any Microsoft Windows source code. All our code has been created from scratch. That&#39;s the reason, btw, why we still have bugs...otherwise we&#39;d be perfect...or as perfect as Windows is.
+This is one of the most asked questions, and it&#39;s funny...because we&#39;re daily using tons of different brands of cars, while the first inventor was Mercedes, and noone asks if using a Ford car is &#34;</description>
+    </item>
+    
+    <item>
+      <title>Ok..so what&#39;s ReactOS?</title>
+      <link>https://costanzaltavilla.github.io/okso-whats-reactos/</link>
+      <pubDate>Wed, 25 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/okso-whats-reactos/</guid>
+      <description>ReactOS is an operating system. Our own main features are: ReactOS is able to run Windows software, ReactOS is able to run Windows drivers, ReactOS looks-like Windows and ReactOS is free and open source.</description>
+    </item>
+    
+    <item>
+      <title>So...Can I install ReactOS and run any software compatible with Windows on it?</title>
+      <link>https://costanzaltavilla.github.io/socan-i-install-reactos-and-run-any-software-compatible-windows-it/</link>
+      <pubDate>Wed, 25 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/socan-i-install-reactos-and-run-any-software-compatible-windows-it/</guid>
+      <description>Probably yes. However we highly recommend to check first if your favourite app runs in ReactOS. 
+ReactOS is still an on-going project and not all the apps and drivers runs perfect on it. 
+The best way to check the compatibility is to install ReactOS inside a virtual machine ( a step by step and video guide can be found here) and try your own needs. 
+There are tons of pieces of software and, as you may imagine, is impossible to track all of them.</description>
+    </item>
+    
+    <item>
+      <title>Which are the differences then between Windows (R) and ReactOS?</title>
+      <link>https://costanzaltavilla.github.io/which-are-differences-then-between-windows-r-and-reactos/</link>
+      <pubDate>Wed, 25 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/which-are-differences-then-between-windows-r-and-reactos/</guid>
+      <description>There are mainly two. First, ReactOS is open source. Second, ReactOS is Free. 
+Also, Windows 8 and Windows 10 are known to monitor all your activity by default. So if you&#39;re concerned about your privacy or just don&#39;t want to share any personal info, we promise (and you can check our open source code) we don&#39;t track any of your data.</description>
+    </item>
+    
+    <item>
+      <title>Developing!</title>
+      <link>https://costanzaltavilla.github.io/developing/</link>
+      <pubDate>Sat, 21 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/developing/</guid>
+      <description>Interested in ReactOS development? Becoming a ReactOS developer is both simple and rewarding. The codebase allows developers of all different backgrounds and skillsets to find something that interests them, and allows them to get going quickly using our excellent build environment.  The challenge of working on a mainstream operating system is something many people are interested in, however the opportunities to do so are rather limited. Linux and BSD are the obvious choices, but not everyone wants to work in a unix environment or are put off by the vast scale of unix communities and the large choice on offer.</description>
+    </item>
+    
+    <item>
+      <title>Download</title>
+      <link>https://costanzaltavilla.github.io/download/</link>
+      <pubDate>Sat, 21 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/download/</guid>
+      <description>Download ReactOS! ReactOS 0.4.9 You can download ReactOS in two different flavors. As a Live CD so you can test it without installing into your computer, or as a Boot CD so you can install ReactOS on your PC.
+ 
+Download BootCD Download BootCD-- 
+Download LiveCD Download LiveCD--  You can download the Press Media kit about this release here.     What now?! If you don&#39;t know what to do with the downloaded file.</description>
+    </item>
+    
+    <item>
+      <title>Joining</title>
+      <link>https://costanzaltavilla.github.io/joining/</link>
+      <pubDate>Sat, 21 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/joining/</guid>
+      <description>Joining &amp; Following ReactOS Progress! Tracking the progress and development of an Operating System is an exciting and educational experience. You can get a glimpse into how things work behind the scenes, see bugs fixed in a daily basis, peek into or get involved in ReactOS developer discussions, or even join Community efforts.
+    About  Email  Blog  ReactOS        </description>
+    </item>
+    
+    <item>
+      <title>Testing!</title>
+      <link>https://costanzaltavilla.github.io/testing/</link>
+      <pubDate>Sat, 21 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/testing/</guid>
+      <description>Pushing ReactOS to the Limit! Testing is pushing ReactOS to its limits. Try to make it BSOD, test your favourite apps, spot and reports bugs. ReactOS is being created by the Community, and depends on your contributions. ReactOS is not perfect so you&#39;ll find a place for your grain of salt. Test it!
+                         </description>
+    </item>
+    
+    <item>
+      <title>The First Ever ReactOS Hackfest!</title>
+      <link>https://costanzaltavilla.github.io/blogs/first-ever-reactos-hackfest/</link>
+      <pubDate>Sat, 20 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/first-ever-reactos-hackfest/</guid>
+      <description>Join us for the very first ReactOS Hackfest from Friday, 7th August to Wednesday, 12th August 2015, in the German city of Aachen. Discover Germany&#39;s most-Western city in the direct neighborhood of Belgium and the Netherlands. Within the historical city center, Aachen offers a scientific environment and a high density of pubs. Let&#39;s catch this atmosphere to code the week away and achieve great results as a team!
+ It is now time to plan your trip!</description>
+    </item>
+    
+    <item>
+      <title>ReactOS Shop Grows!!</title>
+      <link>https://costanzaltavilla.github.io/blogs/reactos-shop-grows/</link>
+      <pubDate>Thu, 23 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/reactos-shop-grows/</guid>
+      <description>One of the most important ways to maintain our ReactOS development is through Donations, another way is through helping us reach out to new and cool developers by sharing these news! We&#39;re proud to share that our Shop is not just including the USB stick, but also.. 6 new and crazy pieces! A must have: An awesome ReactOS mug for your breakfast or evening coffee which can&#39;t look better. Do you see how that black background makes ReactOS orb shine?</description>
+    </item>
+    
+    <item>
+      <title>Contributions: UltraVNC 1.0.5</title>
+      <link>https://costanzaltavilla.github.io/blogs/contributions-ultravnc/</link>
+      <pubDate>Mon, 04 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/contributions-ultravnc/</guid>
+      <description>Thanks to Oldman, we&#39;re proud to announce that UltraVNC 1.0.5 is now running in ReactOS.
+UltraVNC is a powerful, easy to use and free remote pc access software that can display the screen of another computer (via internet or network) on your own screen. The program allows you to use your mouse and keyboard to control the other PC remotely. It means that you can work on a remote computer, as if you were sitting in front of it, right from your current location.</description>
+    </item>
+    
+    <item>
+      <title>Contributions: Command &amp; Conquer: Red Alert 2</title>
+      <link>https://costanzaltavilla.github.io/blogs/contributions-command-conquer-red-alert-2/</link>
+      <pubDate>Mon, 16 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/contributions-command-conquer-red-alert-2/</guid>
+      <description>Thanks to BlackFox, we are proud to announce that &#34;C&amp;amp;C: Red Alert 2&#34; is now running in ReactOS.
+So if you have a &#34;lazy evening&#34; just give it a try and enjoy the Allied or the Soviet campaigns!
+A GamePro reviewer said about this game: &#34;Command &amp;amp; Conquer: Red Alert 2 is the best 2D real-time strategy game since Starcraft&#34;.
+&amp;nbsp;
+&amp;nbsp;
+The ReactOS Menu is shown just to prove this is not a Windows capture but a ReactOS one.</description>
+    </item>
+    
+    <item>
+      <title>ReactOS (R)evolution is happening!</title>
+      <link>https://costanzaltavilla.github.io/project-news/reactos-revolution-happening/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/reactos-revolution-happening/</guid>
+      <description>The ReactOS (R)evolution has begun!
+During the last couple of months we have been compiling all your&amp;nbsp;feedback and suggestions about ReactOS in order to come up with a new&amp;nbsp;paradigm. Now the time has come to show you what we&#39;ve been working on:&amp;nbsp;ReactOS Community Edition.
+ReactOS Community Edition is.. special, not just as a form of&amp;nbsp;connecting further with our Community, it also opens doors to new&amp;nbsp;ideas and strategies.
+We hope that you like all the work that we&#39;ve done as we got inspired by&amp;nbsp;a lot of your ideas.</description>
+    </item>
+    
+    <item>
+      <title>ReactOS. The (R)evolution is now here. </title>
+      <link>https://costanzaltavilla.github.io/project-news/reactos-revolution-now-here/</link>
+      <pubDate>Sat, 22 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/reactos-revolution-now-here/</guid>
+      <description>For a over a year we&#39;ve been working hard on the ReactOS (R)evolution. It is undoubtedly the largest initiative from the ReactOS Foundation so far in terms of Strategy and Evolution. When Microsoft started counting down to the end we started counting down to a new beginning.
+Big changes are coming, while you will find some of them desired and expected thanks to your feedback and support, you&#39;ll also be greatly surprised by some others: It&#39;s time to move ReactOS to the Next Level.</description>
+    </item>
+    
+    <item>
+      <title>Proper?! Windows explorer.exe implementation</title>
+      <link>https://costanzaltavilla.github.io/blogs/proper-windows-explorer-exe-implementation/</link>
+      <pubDate>Tue, 11 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/proper-windows-explorer-exe-implementation/</guid>
+      <description>&#34;A picture is worth a thousand words&#34;
+Thanks Giannis for this awesome work</description>
+    </item>
+    
+    <item>
+      <title>Anonymous spread word of ReactOS Kickstarter</title>
+      <link>https://costanzaltavilla.github.io/blogs/anonymous-spread-word-reactos-kickstarter/</link>
+      <pubDate>Mon, 10 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/anonymous-spread-word-reactos-kickstarter/</guid>
+      <description>An interesting tidbit.
+First because the motto seems to be real: &#34;We are All. We are everywhere&#34;.&amp;nbsp; Second, because they have just twitted the following::
+&amp;nbsp;
+As you may know, ReactOS began a Kickstarter campaign to create a business product to help supporting and boosting current ReactOS development.
+What is it about?
+
+Thorium Core is about taking the ReactOS operating system from the proof-of-concept and engineering stages to building a fast and lightweight solution that can be tailored to suit the computing needs of both private and commercial users.</description>
+    </item>
+    
+    <item>
+      <title>Contributions: MS Office 2003</title>
+      <link>https://costanzaltavilla.github.io/blogs/contributions-ms-office-2003/</link>
+      <pubDate>Fri, 31 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/contributions-ms-office-2003/</guid>
+      <description>This time a double-win.
+Not so long ago trying to run a whole office suite was almost a dream. Just launching an app was a success.There was just one complex suite almost working: &#34;SoftMaker Office 2008&#34;. A nice, and mostly unknown, Microsoft Office clone. It was such a good Office clone that it is closed and non-free.
+From past experience you can find two kind of users out there: &#34;Pro-open source&#34;</description>
+    </item>
+    
+    <item>
+      <title>Contributions: TeamSpeaker!</title>
+      <link>https://costanzaltavilla.github.io/blogs/contributions-teamspeaker/</link>
+      <pubDate>Fri, 31 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/contributions-teamspeaker/</guid>
+      <description>&amp;nbsp;
+After opening the totally unofficial, irrelevant, NôÓbsletter section, now it&#39;s time to open a new serious section oriented and opened to the Community. Because, as you may know, an opensource project has sense thanks because its supporting Community behind it.
+Welcome to this awesome, yours, &#34;Contribution&#34; section.
+From time to time astonishing content is created by the Community and shared through IRC or Forum. It&#39;s a pity that such content keeps moving just in the inner circle.</description>
+    </item>
+    
+    <item>
+      <title>NôÓbsletters: Moar games!Moar compatibility!</title>
+      <link>https://costanzaltavilla.github.io/blogs/moar-games-moar-compatibility/</link>
+      <pubDate>Wed, 20 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/moar-games-moar-compatibility/</guid>
+      <description>Well, let&#39;s face it! Users love Games. Me too.
+I still have some really great childhood memories, playing with those lovely old games.
+Do you remember trying to save the poor Lemmings? Damn, they do seem predestined to fall!&amp;nbsp;
+Or what about XWing? And Dangerous Dave (a blatant game copy of&amp;nbsp; inspired by Super Mario)? I still have nightmares with the Aliens from X-COM every once in a while !</description>
+    </item>
+    
+    <item>
+      <title>How may I help?</title>
+      <link>https://costanzaltavilla.github.io/how-may-i-help/</link>
+      <pubDate>Mon, 29 Apr 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/how-may-i-help/</guid>
+      <description>&amp;quot;How may I help?&amp;quot;. This is maybe, and thankfully, one of the most frequently asked questions in these 4, 5(?) years that I&amp;#39;ve been into the project. And maybe one of the most difficult questions to be answered by the ReactOS &amp;quot;Team&amp;quot;.
+If you&amp;#39;re reading this post it could be by 3 different reasons:
+You&amp;#39;re trying to find an useful way to help ReactOS.Google redirected you here while searching for &amp;quot;Help me to construct a reactor on May &amp;quot;.</description>
+    </item>
+    
+  </channel>
+</rss>

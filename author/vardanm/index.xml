@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vardanm on ReactOS Website</title>
+    <link>https://costanzaltavilla.github.io/author/vardanm/</link>
+    <description>Recent content in Vardanm on ReactOS Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 22 Aug 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://costanzaltavilla.github.io/author/vardanm/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>GSoC final report for USB project.</title>
+      <link>https://costanzaltavilla.github.io/blogs/gsoc-final-report-usb-project-0/</link>
+      <pubDate>Mon, 22 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/gsoc-final-report-usb-project-0/</guid>
+      <description>Here is my final blog post in terms of GSoC, but definitely not the last one in terms of contribution to ReactOS. I’ll try to share conclusion of my work done during this summer.
+&amp;nbsp;
+First of all links &amp;nbsp;
+Here are the links to GIT and SVN repositories containing my commits. These repos are identical, so for review or fork you can choose the one that is more eligible for you.</description>
+    </item>
+    
+    <item>
+      <title>USB stack improvements GSoC - Week 11</title>
+      <link>https://costanzaltavilla.github.io/blogs/usb-stack-improvements-gsoc-week-11/</link>
+      <pubDate>Wed, 10 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/usb-stack-improvements-gsoc-week-11/</guid>
+      <description>I spent last week moving from 2k3 to ROS. After doing final validation of my usbhub changes on 2k3, me and my mentor decided to move to some real world issues. I have setup my development and testing environment work with ROS instead of 2k3.
+VS-2015 as IDE for ROS First of all, I decided to use VS as IDE, to be able to use windbg as debugger. In that case I’ll have minimal changes on workflow I was using on 2k3 before.</description>
+    </item>
+    
+    <item>
+      <title>USB stack improvements GSoC - Week 10</title>
+      <link>https://costanzaltavilla.github.io/blogs/usb-stack-improvements-gsoc-week-10/</link>
+      <pubDate>Tue, 02 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/usb-stack-improvements-gsoc-week-10/</guid>
+      <description>Since previous post I have done few tasks and learned a lot of things. Generally, I was reading and thinking about WDM’s PnP handling concepts. In general, I’ve improved my understanding of PnP and also learned about remove synchronization. Also I’ve investigated some corner cases and problems of WDM related remove synchronization topic. I think this learning is definitely a big investment into my future as NT driver developer.
+Interesting thing with DV’s Enhanced I/O Verification Here I have faced few issues which was not seen without Enhanced I/O Verification flag set.</description>
+    </item>
+    
+    <item>
+      <title>USB stack improvements GSoC - Week 8</title>
+      <link>https://costanzaltavilla.github.io/blogs/usb-stack-improvements-gsoc-week-8/</link>
+      <pubDate>Mon, 18 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/usb-stack-improvements-gsoc-week-8/</guid>
+      <description>I have spent this week on improvements of realization and done stability fixes in usbhub PDO/FDO. &amp;nbsp; I have prepared usbhub FDO&#39;s handling of removal and surprise-removal IRPs. We&#39;ll receive surprise-removal IRP on HUB unexpected removal, or on USB controller removal from PCI port. Here hub should &#34;let know&#34; all its children that their parent is removed and on next removal they also can be removed. For now this code path can&#39;t be tested because none of our host controllers can be removed now(they are failing query remove).</description>
+    </item>
+    
+    <item>
+      <title>USB stack improvements GSoC - Week 7</title>
+      <link>https://costanzaltavilla.github.io/blogs/usb-stack-improvements-gsoc-week-7/</link>
+      <pubDate>Tue, 12 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/usb-stack-improvements-gsoc-week-7/</guid>
+      <description>I&#39;ll start this report from the good news. After starting GSoC&#39;s coding period, I was doing fixes and improvements of hub layer and was not repeating tests which was done by me in community bonding period (results provided in my first blog post). So by the end of this week I decided to test surprise-removal on VBox with 2k3 working with our USB stack. As result I saw that crashes on device removal (physical) are gone!</description>
+    </item>
+    
+    <item>
+      <title>USB stack improvements GSoC - Week 6</title>
+      <link>https://costanzaltavilla.github.io/blogs/usb-stack-improvements-gsoc-week-6/</link>
+      <pubDate>Wed, 06 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/usb-stack-improvements-gsoc-week-6/</guid>
+      <description>This week I have continued fixes in PnP handling of our USB stack. I was focused on usbhub and done number of fixes there. Let me describe process from begining.
+Issue on MS&#39;s hidusb removal. As you may remember from previous post, now MS&#39;s usbccgp works under 2k3, sitting on the top of our ohci-hub pair. But that time I have also faced issue on it&#39;s removal. So to simplify debugging I have reproduced same issue with hidusb and saw the same behaviour under 2k3.</description>
+    </item>
+    
+    <item>
+      <title>USB stack improvements GSoC - Week 5</title>
+      <link>https://costanzaltavilla.github.io/blogs/usb-stack-improvements-gsoc-week-5/</link>
+      <pubDate>Mon, 27 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/usb-stack-improvements-gsoc-week-5/</guid>
+      <description>After long period of investigation and debugging, this week I have commited first patches for review. And they make difference under 2k3 :)
+About fixes I&#39;ve done
+As continuation of usbhub&#39;s PnP handler debug and testing, this week I have commited patches with fixes. The most important ones are described below (same description is given in commit messages too).
+&amp;nbsp;PDO: Changed handling of IRP_MN_REMOVE_DEVICE On this IRP we should free recources and delete child&#39;s PDO ONLY if it isn&#39;t presented physically on the bus.</description>
+    </item>
+    
+    <item>
+      <title>USB 1.1 UHCI improvements GSoC - Week 4</title>
+      <link>https://costanzaltavilla.github.io/blogs/usb-11-uhci-improvements-gsoc-week-4/</link>
+      <pubDate>Mon, 20 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/usb-11-uhci-improvements-gsoc-week-4/</guid>
+      <description>TO LEARN HOW TO SWIM, YOU NEED TO GET INTO THE WATER. At the start of the week I was debugging the system crash on ROS&#39;s usbhub unload in Win2k3. I spent a lot of time asking questions and discussing topics related to WDM with my mentor Thfabba. He kind of kickstarted me, giving small tasks and then analyzing with me the results. During that sessions I have gathered many new tips related debugging and also started feeling much more confidently working with WDM.</description>
+    </item>
+    
+    <item>
+      <title>USB 1.1 UHCI improvements GSoC - Week 3</title>
+      <link>https://costanzaltavilla.github.io/blogs/usb-11-uhci-improvements-gsoc-week-3/</link>
+      <pubDate>Mon, 13 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/usb-11-uhci-improvements-gsoc-week-3/</guid>
+      <description>This week I haven&amp;rsquo;t spent much time on project, I was passing yearly final exams in my university. By the end of the week I have passed all my exams with excellence (which means that I&amp;rsquo;ll keep my scholarship) and with peace of mind started working on my GSoC project.As I mentioned in previous post I have found some Issues in ROS USB stack driver&amp;rsquo;s uninstall/unload flows, and started debugging. This time I decided to spend some time to understand deeper ROS&amp;rsquo;s USB stack (from code perspective) before any try of debugging, because I&amp;rsquo;ll spend much more trying to understand things on the fly.</description>
+    </item>
+    
+    <item>
+      <title>USB 1.1 UHCI improvements GSoC - Week 2</title>
+      <link>https://costanzaltavilla.github.io/blogs/usb-11-uhci-improvements-gsoc-week-2/</link>
+      <pubDate>Mon, 06 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/usb-11-uhci-improvements-gsoc-week-2/</guid>
+      <description>The second week of coding period I spend on testing and debugging.
+As you may remember from previous post, there were all fails in UHCI test spreadsheet. This week I&amp;#39;ve done same tests with all ROS&amp;#39;s usb stack injected along with &amp;quot;usbuhci.sys&amp;quot; but this also not helped. So we can assume that UHCI is not working under 2k3. Also I&amp;#39;ve found bug (crash) in UHCI driver uninstall flow. In case of EHCI, it is normally denying removal, but in case of UHCI I&amp;#39;m seeing system crash coming from &amp;quot;hub.</description>
+    </item>
+    
+    <item>
+      <title>USB 1.1 UHCI improvements GSoC - Week 1</title>
+      <link>https://costanzaltavilla.github.io/blogs/usb-11-uhci-improvements-gsoc-week-1/</link>
+      <pubDate>Mon, 30 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/usb-11-uhci-improvements-gsoc-week-1/</guid>
+      <description>Hi! My name is Vardan and during this GSoC I&amp;#39;ll work on UHCI driver improvements.
+&amp;nbsp;
+&amp;nbsp;
+Why ROS?Now, when human is becoming more and more dependent on computer it becoming critical to have open-source OS on it. You can feel really secured only when you&amp;lsquo;re able (allowed) to see any part of OS which can control all your data. For the student who is studying computer science, the best choice was Linux (especially when classroom computers working only under it).</description>
+    </item>
+    
+  </channel>
+</rss>

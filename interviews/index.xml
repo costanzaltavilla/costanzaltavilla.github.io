@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Interviews on ReactOS Website</title>
+    <link>https://costanzaltavilla.github.io/interviews/</link>
+    <description>Recent content in Interviews on ReactOS Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 29 Dec 2006 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://costanzaltavilla.github.io/interviews/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Interview 6: Art Yerkes</title>
+      <link>https://costanzaltavilla.github.io/interviews/art-yerkes/</link>
+      <pubDate>Fri, 29 Dec 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/interviews/art-yerkes/</guid>
+      <description>Art YerkesInterview with Art Yerkes by Klemens Friedl
+This is the sixth in a series of interviews with ReactOS developers. In a few weeks we will have a nice collection showcasing the talent of the people behind ReactOS.
+Art, born in Philadelphia, PA, USA in 1974. He&amp;#39;s been involved with ReactOS since 2002 and contributed primarily to the keyboard code in win32k and the network code. Lately much of the work has been networing related, as well as slowly giving birth to a PowerPC architecture port.</description>
+    </item>
+    
+    <item>
+      <title>Interview 5: Johannes Anderwald</title>
+      <link>https://costanzaltavilla.github.io/interviews/johannes-anderwald/</link>
+      <pubDate>Wed, 13 Dec 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/interviews/johannes-anderwald/</guid>
+      <description>Johannes Anderwald Interview with Johannes Anderwald by Klemens Friedl
+This is the fifth in a series of interviews with ReactOS developers. In a few weeks we will have a nice collection showcasing the talent of the people behind ReactOS.
+&amp;nbsp;
+Johannes Anderwald, born in Graz, Austria in 1983. He&#39;s been involved with ReactOS since 2004 and became a developer in 2006. Lately much of the work has been related to increase source compability with Visual Studio Development Suite.</description>
+    </item>
+    
+    <item>
+      <title>Interview 4: Steven Edwards</title>
+      <link>https://costanzaltavilla.github.io/interviews/steven-edwards/</link>
+      <pubDate>Wed, 06 Dec 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/interviews/steven-edwards/</guid>
+      <description>Steven EdwardsInterview with Steven Edwards by Aleksey Bragin
+This is the fourth in a series of interviews with ReactOS developers. In a few weeks we will have a nice collection showcasing the talent of the people behind ReactOS.
+&amp;nbsp;
+For several years Steven Edwards has served as a valuable liaison between Wine and ReactOS. In addition, he ha&amp;#39;s been responsible for porting Wine to the MinGW compiler and making the resulting libraries actually work.</description>
+    </item>
+    
+    <item>
+      <title>Interview 3: Magnus Olsen</title>
+      <link>https://costanzaltavilla.github.io/interviews/magnus-olsen/</link>
+      <pubDate>Tue, 28 Nov 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/interviews/magnus-olsen/</guid>
+      <description>Magnus OlsenInterview with Magnus Olsen by Klemens Friedl
+This is the third in a series of interviews with ReactOS developers. In a few weeks we will have a nice collection showcasing the talent of the people behind ReactOS.
+&amp;nbsp;
+Magnus Olsen, born in Skarholmen, Sweden in 1976 been involved with ReactOS since year 2002 and contributed to a lot of different parts throughout the project since that time.
+StartHow did you get involved with ReactOS?</description>
+    </item>
+    
+    <item>
+      <title>Interview 2: Alex Ionescu</title>
+      <link>https://costanzaltavilla.github.io/interviews/alex-ionescu/</link>
+      <pubDate>Tue, 21 Nov 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/interviews/alex-ionescu/</guid>
+      <description>Alex IonescuInterview with Alex Ionescu by Klemens Friedl
+This is the second in a series of interviews with ReactOS developers. In a few weeks we will have a nice collection showcasing the talent of the people behind ReactOS.
+Alex Ionescu was born in Bucharest, Romania (Europe) in 1986. He currently lives in Montreal, Canada and is a student at Concordia University in Software Engineering. He&amp;#39;s been involved with ReactOS since 2004 and contributed to many different parts.</description>
+    </item>
+    
+    <item>
+      <title>Interview: Aleksey Bragin</title>
+      <link>https://costanzaltavilla.github.io/interviews/aleksey-bragin/</link>
+      <pubDate>Wed, 15 Nov 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/interviews/aleksey-bragin/</guid>
+      <description>Aleksey BraginInterview with Aleksey Bragin by Klemens Friedl
+Aleksey Bragin, born in Moscow, Russia in 1983 been involved with ReactOS since year 2002 and contributed to a lot of different parts throughout the project since that time.&amp;nbsp;&amp;nbsp;
+StartHow did you get involved with ReactOS?Lots of time ago an idea came to my mind, the idea was creating a FOSS alternative to Windows. However, I was too busy with the projects I was doing (mostly in game development area) and thus did not really search for already existing projects of this kind.</description>
+    </item>
+    
+  </channel>
+</rss>

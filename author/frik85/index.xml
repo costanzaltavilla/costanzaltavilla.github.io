@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Frik85 on ReactOS Website</title>
+    <link>https://costanzaltavilla.github.io/author/frik85/</link>
+    <description>Recent content in Frik85 on ReactOS Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 Aug 2007 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://costanzaltavilla.github.io/author/frik85/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>New RosCMS v3 online</title>
+      <link>https://costanzaltavilla.github.io/project-news/new-roscms-v3-online/</link>
+      <pubDate>Tue, 14 Aug 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/new-roscms-v3-online/</guid>
+      <description>New RosCMS v3 online The ReactOS Content Management System software for the ReactOS website got a major update. RosCMS is used to manage the ReactOS website and in near future additionally to maintain the ReactOS translation work. It is a very flexible web based system. The core parts of the software are the flexible database layout and the dynamic interface that consist of a bunch of filters. The end user can costumize his/her own workflow by changing the filter settings or choose one of the predefined views (which consist itself of filters internally).</description>
+    </item>
+    
+    <item>
+      <title>Interview 6: Art Yerkes</title>
+      <link>https://costanzaltavilla.github.io/interviews/art-yerkes/</link>
+      <pubDate>Fri, 29 Dec 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/interviews/art-yerkes/</guid>
+      <description>Art YerkesInterview with Art Yerkes by Klemens Friedl
+This is the sixth in a series of interviews with ReactOS developers. In a few weeks we will have a nice collection showcasing the talent of the people behind ReactOS.
+Art, born in Philadelphia, PA, USA in 1974. He&amp;#39;s been involved with ReactOS since 2002 and contributed primarily to the keyboard code in win32k and the network code. Lately much of the work has been networing related, as well as slowly giving birth to a PowerPC architecture port.</description>
+    </item>
+    
+    <item>
+      <title>ReactOS Website back online again</title>
+      <link>https://costanzaltavilla.github.io/project-news/reactos-website-back-online-again/</link>
+      <pubDate>Fri, 29 Dec 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/reactos-website-back-online-again/</guid>
+      <description>ReactOS Website back online again ReactOS website has been offline for two weeks due to a hardware problem. Everything is back online!
+The RAID controller inside the server failed and &amp;quot;forgot&amp;quot; all RAID partitions, the reason is unknown. The server hardware and harddisk content has been restored and everything is back online again.
+Fixing the problem was not easy during christmas time. Thanks to all persons who have been involved&amp;nbsp;in bringing the webserver back online.</description>
+    </item>
+    
+    <item>
+      <title>Interview 5: Johannes Anderwald</title>
+      <link>https://costanzaltavilla.github.io/interviews/johannes-anderwald/</link>
+      <pubDate>Wed, 13 Dec 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/interviews/johannes-anderwald/</guid>
+      <description>Johannes Anderwald Interview with Johannes Anderwald by Klemens Friedl
+This is the fifth in a series of interviews with ReactOS developers. In a few weeks we will have a nice collection showcasing the talent of the people behind ReactOS.
+&amp;nbsp;
+Johannes Anderwald, born in Graz, Austria in 1983. He&#39;s been involved with ReactOS since 2004 and became a developer in 2006. Lately much of the work has been related to increase source compability with Visual Studio Development Suite.</description>
+    </item>
+    
+    <item>
+      <title>Mac &amp; Parallels support, new ReactOS Roadmap</title>
+      <link>https://costanzaltavilla.github.io/project-news/mac-parallels-support-new-reactos-roadmap/</link>
+      <pubDate>Wed, 06 Dec 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/mac-parallels-support-new-reactos-roadmap/</guid>
+      <description>Intel Mac &amp;amp; Parallels support, new ReactOS Roadmap Intel Mac and Parallels support, new Roadmap, new Interviews and newsletter author request. &amp;nbsp;
+ReactOS Intel Mac compatibility ReactOS development builds (trunk) have run fine now for two days on Intel Mac (with Bootcamp installed) computers. Intel Mac&#39;s consist of standard hardware but there are some differences which had made it impossible to run ReactOS before. Intel Mac&#39;s don&#39;t have PS/2 keyboard controllers.</description>
+    </item>
+    
+    <item>
+      <title>Interview 3: Magnus Olsen</title>
+      <link>https://costanzaltavilla.github.io/interviews/magnus-olsen/</link>
+      <pubDate>Tue, 28 Nov 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/interviews/magnus-olsen/</guid>
+      <description>Magnus OlsenInterview with Magnus Olsen by Klemens Friedl
+This is the third in a series of interviews with ReactOS developers. In a few weeks we will have a nice collection showcasing the talent of the people behind ReactOS.
+&amp;nbsp;
+Magnus Olsen, born in Skarholmen, Sweden in 1976 been involved with ReactOS since year 2002 and contributed to a lot of different parts throughout the project since that time.
+StartHow did you get involved with ReactOS?</description>
+    </item>
+    
+    <item>
+      <title>Interview 2: Alex Ionescu</title>
+      <link>https://costanzaltavilla.github.io/interviews/alex-ionescu/</link>
+      <pubDate>Tue, 21 Nov 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/interviews/alex-ionescu/</guid>
+      <description>Alex IonescuInterview with Alex Ionescu by Klemens Friedl
+This is the second in a series of interviews with ReactOS developers. In a few weeks we will have a nice collection showcasing the talent of the people behind ReactOS.
+Alex Ionescu was born in Bucharest, Romania (Europe) in 1986. He currently lives in Montreal, Canada and is a student at Concordia University in Software Engineering. He&amp;#39;s been involved with ReactOS since 2004 and contributed to many different parts.</description>
+    </item>
+    
+    <item>
+      <title>Newsletter 12</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-12/</link>
+      <pubDate>Sun, 19 Nov 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-12/</guid>
+      <description>Time to get this Newsletter Back on Track A newsletter author, a new start. No, I am not the new newsletter author, we are still searching for one. Please read the related news entry for more detailed information.
+If you would like to be the ReactOS newsletter author, please send an email to &amp;quot;ros-dev&amp;quot; developer mailing list (don&#39;t forget to subscribe), explaining why you think you would be a good newsletter author.</description>
+    </item>
+    
+    <item>
+      <title>Announcement: ReactOS Interviews series</title>
+      <link>https://costanzaltavilla.github.io/project-news/announcement-reactos-interviews-series/</link>
+      <pubDate>Wed, 15 Nov 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/announcement-reactos-interviews-series/</guid>
+      <description>Announcement: ReactOS Interviews series We are starting a series of interviews with ReactOS developers. The first interview features our project coordinator Aleksey Bragin. Interviews are divided into several parts and&amp;nbsp;cover different interesting topics - beginning from how&amp;nbsp;developers got involved&amp;nbsp;in the ReactOS project and going up to which development software they use in their daily work.
+We&amp;nbsp;are going to publish&amp;nbsp;interviews on a weekly basis.
+&amp;nbsp;
+Please don&#39;t forget to read the second news of today, a request for a &amp;quot;ReactOS Weekly Newsletter&amp;quot; author.</description>
+    </item>
+    
+    <item>
+      <title>Interview: Aleksey Bragin</title>
+      <link>https://costanzaltavilla.github.io/interviews/aleksey-bragin/</link>
+      <pubDate>Wed, 15 Nov 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/interviews/aleksey-bragin/</guid>
+      <description>Aleksey BraginInterview with Aleksey Bragin by Klemens Friedl
+Aleksey Bragin, born in Moscow, Russia in 1983 been involved with ReactOS since year 2002 and contributed to a lot of different parts throughout the project since that time.&amp;nbsp;&amp;nbsp;
+StartHow did you get involved with ReactOS?Lots of time ago an idea came to my mind, the idea was creating a FOSS alternative to Windows. However, I was too busy with the projects I was doing (mostly in game development area) and thus did not really search for already existing projects of this kind.</description>
+    </item>
+    
+    <item>
+      <title>Wanted: ReactOS Weekly Newsletter Author</title>
+      <link>https://costanzaltavilla.github.io/project-news/wanted-reactos-weekly-newsletter-author/</link>
+      <pubDate>Wed, 15 Nov 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/wanted-reactos-weekly-newsletter-author/</guid>
+      <description>Wanted: ReactOS Weekly Newsletter Author  We search an author for our &amp;quot;ReactOS Weekly Newsletter&amp;quot;.
+History Jason Filby had established the ReactOS Weekly Newsletter (called &amp;quot;ReactOS Weekly&amp;quot;) in 1999 as a useful weekly news summary located on www.reactos.com. In 2000 the newsletter had been discontinued. In late 2004 to early 2005, Zach Tong wrote 5 Issues of the &amp;quot;SPLASH - The official ReactOS Newsletter&amp;quot;. With the website redesign in summer 2005, the newsletter came back with Stuart &amp;quot;TwoTailedFox&amp;quot; Robbins as author.</description>
+    </item>
+    
+    <item>
+      <title>ReactOS servers up again, audit progress bar wrong</title>
+      <link>https://costanzaltavilla.github.io/project-news/reactos-servers-again-audit-progress-bar-wrong/</link>
+      <pubDate>Tue, 31 Oct 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/reactos-servers-again-audit-progress-bar-wrong/</guid>
+      <description>One of ReactOS server machines (which serves DNS, SVN and website proxy)&amp;nbsp;went&amp;nbsp;offline due to a problem with the webhosting. Now all services&amp;nbsp;are up again except for SVN which is temporarily offline for moving to another machine (expected to be finished today).&amp;nbsp; Sorry for any inconvenience you might have experienced.
+The audit is not complete, the progress bar is wrong because of the server downtime.</description>
+    </item>
+    
+    <item>
+      <title>ReactOS Compatibility Database (beta status)</title>
+      <link>https://costanzaltavilla.github.io/project-news/reactos-compatibility-database-beta-status/</link>
+      <pubDate>Fri, 21 Apr 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/reactos-compatibility-database-beta-status/</guid>
+      <description>ReactOS Compatibility Database (beta status) The ReactOS Compatibility Database has reached beta status.
+URL: http://www.reactos.org/support/ The compatibility database has been designed to store application and driver data. Simply click on one of the 5 green start buttons on the frontpage to begin to browse through the database. To submit an application/driver, click on &amp;quot;Submit Application&amp;quot; (menu bar).
+Please have a look at the help and faq section for more information.</description>
+    </item>
+    
+    <item>
+      <title>Google Summer Of Code 2006</title>
+      <link>https://costanzaltavilla.github.io/project-news/google-summer-code-2006/</link>
+      <pubDate>Wed, 19 Apr 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/google-summer-code-2006/</guid>
+      <description>Google Summer Of Code 2006 Aleksey Bragin&#39;s (Project Coordinator&amp;nbsp;of ReactOS) email to the mailing list:
+We are negotiating technical details now, and soon information will appear on the official SoC 2006 web-site.
+Meanwhile, we already should start compiling a list of project&#39;s suggestions for it. Everyone is welcome to provide suggested projects, however please have in mind that only 1 student can do one project (or separate part of the bigger project).</description>
+    </item>
+    
+    <item>
+      <title>ReactOS Auditing Progress - Status 03/2006</title>
+      <link>https://costanzaltavilla.github.io/project-news/reactos-auditing-progress-status-032006/</link>
+      <pubDate>Fri, 10 Mar 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/reactos-auditing-progress-status-032006/</guid>
+      <description>ReactOS Auditing Progress - Status 03/2006 A lot of things happened in january and february 2006. This news issue&#39;s goal is to sum up what has been happening in the past few weeks. If you want to stay tuned, visit the ReactOS Blogs from time to time. And do not forget to add the ReactOS News Feed to your feed reader or aggregator.
+A lot of information of this news issue came from Ged Murphy&#39;s blog entry, thank you for clearing up of some questions.</description>
+    </item>
+    
+    <item>
+      <title>New ReactOS Blog</title>
+      <link>https://costanzaltavilla.github.io/project-news/new-reactos-blog/</link>
+      <pubDate>Wed, 25 Jan 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/new-reactos-blog/</guid>
+      <description>New ReactOS Blog The ReactOS Project use a new blog system. The old and outdated dottext 1.x blog system rest now in peace. GvG installed &#34;serendipity&#34; and integrated the global login system.
+Lets hope than now more devs blogs and write informative articles than before.</description>
+    </item>
+    
+    <item>
+      <title>ReactOS status report - 01/2006</title>
+      <link>https://costanzaltavilla.github.io/project-news/reactos-status-report-012006/</link>
+      <pubDate>Sat, 07 Jan 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/reactos-status-report-012006/</guid>
+      <description>ReactOS status report for January 2006 The first issue of the quarterly ReactOS status reports. Steven Edwards (ReactOS Project Coordinator) published the first issue of the status report. It&#39;s a general overview of the last quarter. The original status report announcement is available in the mailing list archive.
+Project Coordinator&#39;s (PC) job has several responsibilities, one is to provide quarterly status updates regarding all major activities of the project.
+Contents at a Glance Basically this report covers what has gone on during the 0.</description>
+    </item>
+    
+    <item>
+      <title>Happy New Year!</title>
+      <link>https://costanzaltavilla.github.io/project-news/happy-new-year/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/happy-new-year/</guid>
+      <description>Happy New Year! 2005 was a great year for ReactOS.
+The following facts came from the SVN server (thanks to Casper Hornstrup):
+ The core ReactOS code base is now 120MB large. The repository is currently 624MB large and contains ~20500 revisions. ~8000 of these revisions were created in 2005. This mean 39% of the total number of revisions created during ReactOS&#39; entire 8 year history was created in 2005!  ReactOS Website facts:</description>
+    </item>
+    
+    <item>
+      <title>ReactOS Website Translation Process</title>
+      <link>https://costanzaltavilla.github.io/project-news/reactos-website-translation-process/</link>
+      <pubDate>Tue, 13 Dec 2005 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/reactos-website-translation-process/</guid>
+      <description>ReactOS Website Translation Process - Community Challenge I started the ReactOS Website Translation Process one week ago. My plan was to start it with an information in the ReactOS IRC Web Channel (#reactos-web). The idea was to allow a small group of translators to translate ReactOS web contents with the RosCMS interface. Now, some interface bugs has been fixed and a lot of translated web contents has been added to the database (thanks to all contributors/translators).</description>
+    </item>
+    
+    <item>
+      <title>ReactOS Website Update</title>
+      <link>https://costanzaltavilla.github.io/project-news/reactos-website-update/</link>
+      <pubDate>Wed, 30 Nov 2005 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/reactos-website-update/</guid>
+      <description>ReactOS Website Update The ability to browse through the newsletters and news entries wasn&#39;t so easy. I got response from several visitors. In conclusion, they prefer a WineHQ newsletter style layout.
+I rewrote the newsletter and news interface and add a ReactOS News Feed (RSS 2.0 and Atom 1.0).
+Everything is available on the website frontpage!
+If you have ideas or suggestion about the website please use the ReactOS Forums and/or the ReactOS Wiki.</description>
+    </item>
+    
+    <item>
+      <title>New ReactOS Homepage</title>
+      <link>https://costanzaltavilla.github.io/project-news/new-reactos-homepage/</link>
+      <pubDate>Thu, 29 Sep 2005 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/new-reactos-homepage/</guid>
+      <description>New ReactOS Homepage is online! The new ReactOS homepage is now (2005-09-29) online!
+The website moved to www.reactos.org as the primary name, with www.reactos.com being an alias (you&#39;ll be redirected automatically to www.reactos.org if you use the old name).
+The mailing lists are also going to be moved from reactos.com to reactos.org, so if you have filtering in place please take this into account.
+Many thanks to Ge van Geldorp, Michael Wirth and especially Klemens Friedl who put a lot of effort in the new site.</description>
+    </item>
+    
+    <item>
+      <title>ReactOS 0.2.7 Released!</title>
+      <link>https://costanzaltavilla.github.io/project-news/reactos-027-released/</link>
+      <pubDate>Tue, 23 Aug 2005 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/reactos-027-released/</guid>
+      <description>ReactOS 0.2.7 Released! This release brings as always more compatibility and stability. At the time also heavy work on a new webpage is done. It will be up in a few weeks. </description>
+    </item>
+    
+    <item>
+      <title>ReactOS 0.2.6 Final released!</title>
+      <link>https://costanzaltavilla.github.io/project-news/reactos-026-final-released/</link>
+      <pubDate>Sun, 10 Apr 2005 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/reactos-026-final-released/</guid>
+      <description>ReactOS 0.2.6 Released! As always a new release brings increases in speed, stability and compatibility.
+The next release, 0.3, will feature many improvements - but most notably somewhat usable networking. </description>
+    </item>
+    
+  </channel>
+</rss>

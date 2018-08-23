@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Telegram on ReactOS Website</title>
+    <link>https://costanzaltavilla.github.io/tags/telegram/</link>
+    <description>Recent content in Telegram on ReactOS Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 17 Jun 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://costanzaltavilla.github.io/tags/telegram/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello Telegram. A new #ReactOS channel</title>
+      <link>https://costanzaltavilla.github.io/project-news/hello-telegram-new-reactos-channel/</link>
+      <pubDate>Fri, 17 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/hello-telegram-new-reactos-channel/</guid>
+      <description>Hello Telegram!  Technology keeps evolving and the ReactOS Community growing. We&#39;re proud to introduce a new way to keep in touch with ,and updated of, the latest #ReactOS news.
+ The ReactOS project is probably one of the open source communities with a higher social network impact out there.Our ReactOS Twitter channel and ReactOS Facebook page are updated daily with the latest commits, news, and fixes thanks to a nifty integration with our development tools and, of course, some human care.</description>
+    </item>
+    
+  </channel>
+</rss>

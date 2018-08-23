@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Extravert34 on ReactOS Website</title>
+    <link>https://costanzaltavilla.github.io/author/extravert34/</link>
+    <description>Recent content in Extravert34 on ReactOS Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://costanzaltavilla.github.io/author/extravert34/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>GSoC 2018 - Final report</title>
+      <link>https://costanzaltavilla.github.io/blogs/gsoc-2018-final-report/</link>
+      <pubDate>Tue, 14 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/gsoc-2018-final-report/</guid>
+      <description>Introduction WinBtrfs is a feature-complete IFSD (Installable File System Driver) for NT operating systems, written by Mark Harmstone. This driver is checked into the ReactOS source code for some time already. My main goal for this GSoC project was to implement all missing features (and fix bugs, of course) in ReactOS that prevents booting from BTRFS file system.
+Links All work is merged into gsoc2018_all branch in my ReactOS fork on GitHub.</description>
+    </item>
+    
+    <item>
+      <title>GSoC 2018 - booting from BTRFS works!</title>
+      <link>https://costanzaltavilla.github.io/blogs/gsoc-2018-booting-btrfs-works/</link>
+      <pubDate>Sun, 29 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/gsoc-2018-booting-btrfs-works/</guid>
+      <description>Hi, all!
+Here is what happened since last post:
+Freeloader is now able to read files and follow symlinks from btrfs partition. One major issue is left here - case sensitivity. BTRFS is case-sensitive file system, so paths like /ReactOS/System32, /reactos/system32, /ReactOS/system32 are different here. But in Windows world most software is written assuming that case does not matter during path lookup. This thing is solved in WinBtrfs driver, but for Freeloader it can be a bit tricky.</description>
+    </item>
+    
+    <item>
+      <title>GSoC 2018 - boot sector finished</title>
+      <link>https://costanzaltavilla.github.io/blogs/gsoc-2018-boot-sector-finished/</link>
+      <pubDate>Tue, 10 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/gsoc-2018-boot-sector-finished/</guid>
+      <description>Hi all!
+ Sorry, haven’t written anything for a while. Let me tell you what have been done since last post. BTRFS boot sector TL;DR: It works!
+ I’ve been able to load main bootloader code from freeldr.sys into memory, transfer control to it and get on error message (freeldr.sys can’t find its config file - I haven’t written second-stage BTRFS code yet).  It was not that easy because we are in x86 real mode when running boot sector thus only about 1mb of memory is available.</description>
+    </item>
+    
+    <item>
+      <title>GSoC 2018 weeks 3-4 - understanding BTRFS internals</title>
+      <link>https://costanzaltavilla.github.io/blogs/gsoc-2018-weeks-3-4-understanding-btrfs-internals/</link>
+      <pubDate>Thu, 14 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/gsoc-2018-weeks-3-4-understanding-btrfs-internals/</guid>
+      <description>Hi all!
+This two weeks I was diving into btrfs structures and on-disk layout. Writing an ASM program from scratch is not that simple so I decided to convert a VirtualBox image with BTRFS filesystem in it to raw file and write a python script to parse and show internal filesystem structures.  It was also useful for understanding how files are stored in FS, because information on btrfs.wiki.kernel.org was not enough for me to understand some corner cases.</description>
+    </item>
+    
+    <item>
+      <title>GSoC 2018 - Project BTRFS Boot</title>
+      <link>https://costanzaltavilla.github.io/blogs/gsoc-2018-weeks-1-2/</link>
+      <pubDate>Tue, 29 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/gsoc-2018-weeks-1-2/</guid>
+      <description>Introduction Hi all!
+My name is Victor Perevertkin and I am the only GSoC student in ReactOS project this year :)
+This is my first GSoC and I was very excited when I realized that I was selected and there will be four mentors for me. I will definitely learn a lot from this internship!
+My project is both simple and complicated. I want to add to ReactOS an option to install on and boot from BTRFS partitions.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dancemonkey on ReactOS Website</title>
+    <link>https://costanzaltavilla.github.io/author/dancemonkey/</link>
+    <description>Recent content in Dancemonkey on ReactOS Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 13 Dec 2006 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://costanzaltavilla.github.io/author/dancemonkey/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Newsletter 13</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-13/</link>
+      <pubDate>Wed, 13 Dec 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-13/</guid>
+      <description>I&#39;m the new guy(s) Yup, that&#39;s right, we&#39;re the new newsletter writers (those two words should never be used in combination - I promise never to do it again). We fought off a crowd of people breaking their necks to apply, and finally, we&#39;re here. So. Who are we? I am Dana Burkart, I will do most of the writing, and my associate - Samuel Serapion - will be providing most of the information.</description>
+    </item>
+    
+  </channel>
+</rss>

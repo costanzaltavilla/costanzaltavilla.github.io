@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gigaherz on ReactOS Website</title>
+    <link>https://costanzaltavilla.github.io/author/gigaherz/</link>
+    <description>Recent content in Gigaherz on ReactOS Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 26 Jan 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://costanzaltavilla.github.io/author/gigaherz/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Post-vacational resolutions (A.K.A. Present and future of my ReactOS contract)</title>
+      <link>https://costanzaltavilla.github.io/blogs/post-vacational-resolutions/</link>
+      <pubDate>Mon, 26 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/post-vacational-resolutions/</guid>
+      <description>Hello everyone!
+You will have noticed the long delay since my last report, and may be wondering what has happened. I will try to explain.
+The last report was published on the 24th, right before christmas eve, when my vacation started. I took my vacation so that I could rest, clear my head, and regain energy so that I could resume my work in January at full speed. Over the christmas days, I had time for resting, games, hobbies, and family, and this gave me a lot of time to think.</description>
+    </item>
+    
+    <item>
+      <title>Decorating the shell tree</title>
+      <link>https://costanzaltavilla.github.io/blogs/decorating-shell-tree/</link>
+      <pubDate>Wed, 24 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/decorating-shell-tree/</guid>
+      <description>Hello everyone,
+Because Christmas was so close to the weekend, I decided to delay the report a few days, and release it on time for the holidays, and this way include in the report everything that has happened over the weekend and the beginning of this week.
+The past week began by reviewing some patches that were pending for a LONG time. Sadly, most of them were too bit-rotten to be applicable as-is, so I had to contact the patches’ authors and request an update.</description>
+    </item>
+    
+    <item>
+      <title>Unclean cleanups</title>
+      <link>https://costanzaltavilla.github.io/blogs/unclean-cleanups/</link>
+      <pubDate>Sat, 13 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/unclean-cleanups/</guid>
+      <description>Hello, everyone!
+I think the best way to explain how this week started is by recreating a conversation that happened on IRC (shortened and cleaned so that it looks more serious and professional then the typical IRC conversation):
+gadamopoulos: Oh gigaherz, we have bugs due to the conversion to c++. Pretty obvious ones. CTaskBand is a mess: punkSite is ambigouous, as member and parameter.
+gigaherz: I tried to find all of those, did I miss some?</description>
+    </item>
+    
+    <item>
+      <title>Funny title not found</title>
+      <link>https://costanzaltavilla.github.io/blogs/funny-title-not-found/</link>
+      <pubDate>Sun, 07 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/funny-title-not-found/</guid>
+      <description>Hello everyone,
+If you remember from last week, my top priority was to investigate the crash when pasting files, but because Giannis insisted a bit that I should fix the merged folders usage so that the windows classes can be used instead of our own, I went back to the merged folders, and started looking at why the windows classes didn’t work. The first thing I had to fix was a misunderstanding of the return value of the filtering callback, which returns S_FALSE if the item is shown, and S_OK if the item has to be filtered away.</description>
+    </item>
+    
+    <item>
+      <title>Dislocated localizations</title>
+      <link>https://costanzaltavilla.github.io/blogs/dislocated-localizations/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/dislocated-localizations/</guid>
+      <description>Hello and sorry for yet another delay!
+As you will most probably know (and if you don’t, you should take a look at the news on the front page!), the shell branch was merged last Wednesday evening, as a thanksgiving gift from the project to all the contributors. As things happen when a big merge is done and people with varied configurations start testing, it wasn’t 5 minutes that the first big “oh shit” bug report came in.</description>
+    </item>
+    
+    <item>
+      <title>Patching Patches and Testing Tests</title>
+      <link>https://costanzaltavilla.github.io/blogs/patching-patches-testing-tests/</link>
+      <pubDate>Mon, 24 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/patching-patches-testing-tests/</guid>
+      <description>Hello and sorry for the delay.
+This past week has been rather strange. My goal was to add some quick tests to ensure that my implementation was matching Windows’ behaviour, and then send the changes to WINE. But as I was adding more details to test, I was finding more mismatches between Windows and ReactOS (well, WINE code). Annoyingly, most of the mismatches are in the code not related to my changes, and on top of that, a few of the returned values had unexpected content.</description>
+    </item>
+    
+    <item>
+      <title>Translatable emptyness and Long-winded Shortcuts</title>
+      <link>https://costanzaltavilla.github.io/blogs/translatable-emptyness-long-winded-shortcuts/</link>
+      <pubDate>Sat, 15 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/translatable-emptyness-long-winded-shortcuts/</guid>
+      <description>Hello and welcome back to my weekly report.
+As I said in the last report, I ended the week trying to fix the start menu closing on a second click. The realization that Windows doesn’t close the shell menus on mouse up, allowed me to simplify some of the logic, but the issue still resisted my attempts.
+After some very long hours trying to figure out where the code went wrong, I realized the order of the events was actually wrong.</description>
+    </item>
+    
+    <item>
+      <title>Post-Incrementing the C</title>
+      <link>https://costanzaltavilla.github.io/blogs/post-incrementing-c/</link>
+      <pubDate>Mon, 10 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/post-incrementing-c/</guid>
+      <description>Hello again, people.
+Wow so another week has passed, and the whole weekend too. I feel a bit like I was sucked into a temporal distortion, because I can’t really tell where all these hours have gone. Heck, I almost forgot to write the report! Thankfully, the cold I spoke about last week, it didn’t complicate itself, so I have been able to work over the week.
+I suppose many of you didn’t wait for the surprise and looked at the commit logs, or read the comment thread for the “spoilers”.</description>
+    </item>
+    
+    <item>
+      <title>Two Steps from [the S]hell</title>
+      <link>https://costanzaltavilla.github.io/blogs/two-steps-from-shell/</link>
+      <pubDate>Mon, 03 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/two-steps-from-shell/</guid>
+      <description>Hello everyone, and sorry for the delay.
+I caught a bad cold (that may or may not be complicated with a throat infection -- we&#39;ll see) so I was lacking the necessary concentration to write this report earlier.
+As Z98 said last weekend, it has been some very busy days for all the team. I want to reiterate all the appreciation for the help given by everyone. There is just so much debugging I can do without my head exploding, and finding leaks tends to cross that line.</description>
+    </item>
+    
+    <item>
+      <title>Circular leaks</title>
+      <link>https://costanzaltavilla.github.io/blogs/circular-leaks/</link>
+      <pubDate>Sun, 19 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/circular-leaks/</guid>
+      <description>Hello again!
+As I mentioned in the last report, I had been writing tests to find the problems in SHFileOperation. All I knew was that in some situations it would end without fully writing some file, so I wrote tests moving, copying and deleting a folder structure, and comparing the copy with the original. I tried with empty files first, then with files of random sizes, then with really big files, and also with a lot of files of relatively small size.</description>
+    </item>
+    
+    <item>
+      <title>View Popups and Unreliable Operations</title>
+      <link>https://costanzaltavilla.github.io/blogs/view-popups-and-unreliable-operations/</link>
+      <pubDate>Sat, 11 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/view-popups-and-unreliable-operations/</guid>
+      <description>Hello!
+It’s this time of the week again where I have to sit down and try to remember everything I have been doing over the week.
+I began the week by looking at some older pending bugs. First, I looked at an issue where using the branch with the vmware audio driver installed would crash stobject.dll and because it’s loaded into explorer-new, the rest of the desktop and taskbar. I couldn’t reproduce this issue, so I moved on.</description>
+    </item>
+    
+    <item>
+      <title>Inter-process miscommunication</title>
+      <link>https://costanzaltavilla.github.io/blogs/inter-process-miscommunication/</link>
+      <pubDate>Fri, 03 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/inter-process-miscommunication/</guid>
+      <description>Hello again!
+This week has been strange. It has mostly been a series of disappointments, but it ended in some really good news.
+I started this week by implementing the parser for the shell DDE commands. The syntax is simple, so the parser itself didn’t take long to finish. I tested it and debugged it in Windows at first, and when I was satisfied that the code was working the way I wanted it, I moved the functions into their rightful place inside shell32, and proceeded to test the function in ReactOS.</description>
+    </item>
+    
+    <item>
+      <title>Locked at Sharing</title>
+      <link>https://costanzaltavilla.github.io/blogs/locked-at-sharing/</link>
+      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/locked-at-sharing/</guid>
+      <description>Hello again!
+You may remember from last week I said I would need more information in order to implement the mechanism browseui uses to open new windows in an existing process.
+Well, spoiler alert if you haven’t read the SVN log: I got the information, and I wrote an implementation.
+First of all, it turns out message 1037 is related to the rooted idlists. Since rooting is completely unimplemented at all the levels down to the implementation of the idlists, I stopped trying to figure out that message, and instead focused on the important one, 1035.</description>
+    </item>
+    
+    <item>
+      <title>Shared memory messages</title>
+      <link>https://costanzaltavilla.github.io/blogs/shared-memory-messages/</link>
+      <pubDate>Sun, 21 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/shared-memory-messages/</guid>
+      <description>Hello!
+Another weekend, another report.
+The week was slightly shorter for me due to having the project defense on Tuesday, so I spent most of Monday preparing for the presentation, and most of Tuesday afternoon recovering from it. If you are curious, I got a 9.5/10 on the project. ;P
+In the context of the shell, this week I mostly continued my investigations on the IPC mechanism used by browseui to open new windows in the existing process.</description>
+    </item>
+    
+    <item>
+      <title>Lines of commands</title>
+      <link>https://costanzaltavilla.github.io/blogs/lines-of-commands/</link>
+      <pubDate>Fri, 12 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/lines-of-commands/</guid>
+      <description>Hello again!
+When I said last week’s report would be short, I was still planning to write a few lines about what I had been doing on the spare time from the university project, but by the time the weekend came I was way too mentally exhausted to actually do it. Then I started refreshing my mind with what I was in the middle of doing, and by Sunday night I had the explorer command line parser working more or less as intended (it still has a few places where it doesn’t behave exactly like Windows’ parser, but it’s close enough for what we need).</description>
+    </item>
+    
+    <item>
+      <title>Parsing the commands</title>
+      <link>https://costanzaltavilla.github.io/blogs/parsing-the-commands/</link>
+      <pubDate>Sat, 30 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/parsing-the-commands/</guid>
+      <description>Hello, Everyone!
+I mentioned last week, that I had started looking at the DDE server support, and it would take a while.
+What I forgot to mention, is that the deadline for handing over my final project at university is next Friday, and the defense for the project a couple weeks after that. Ideally, if me &amp;amp; the other guys working on the project had done everything on schedule, we’d just be finishing off the documentation and we’d be almost ready, but as projects go, it’s always when the deadline looms close that you remember everything you were supposed to have been doing.</description>
+    </item>
+    
+    <item>
+      <title>Dynamic menus and miscounted references</title>
+      <link>https://costanzaltavilla.github.io/blogs/dynamic-menus-miscounted-references/</link>
+      <pubDate>Sat, 23 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/dynamic-menus-miscounted-references/</guid>
+      <description>Hello everyone,
+I know I promised weekly reports but it’s summer time and, although I haven’t really been out on vacation, I have been taking my schedule a lot more loosely than usual.
+After fixing the stobject compilation, I set my sights on the file browser menus. I began by trying to figure out how the Windows shell manages the menus, and I realized that most of the actual work was done in the WM_INITMENUPOPUP message handler.</description>
+    </item>
+    
+    <item>
+      <title>Shell Service Objects</title>
+      <link>https://costanzaltavilla.github.io/blogs/shell-service-objects/</link>
+      <pubDate>Sat, 02 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/shell-service-objects/</guid>
+      <description>Hello everyone! Long time no see!
+As some of you will probably know by now, I had a cooking accident, wherein my hand was splashed by very hot olive oil. I will skip the shameful details, but I want to say that for the next 10 days, I was unable to code properly.
+After those first 10 days, my bandage was replaced by a lighter dressing, which allowed me more mobility in my hand, and I began looking at my TODO list, for something “lighter” to pass the time.</description>
+    </item>
+    
+    <item>
+      <title>Merged Folders and undocumented interfaces</title>
+      <link>https://costanzaltavilla.github.io/blogs/merged-folders-undocumented-interfaces/</link>
+      <pubDate>Sat, 12 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/merged-folders-undocumented-interfaces/</guid>
+      <description>Hello, and welcome to my weekly report. I apologize for not having a report last weekend, so this week’s report will be longer than usual.
+Reading the issues in the community-powered Shell TODO List got me thinking about some issues that I previously thought were too complex for phase 1. Biggest of all, was the implementation of the CMergedFolder class structure. This set of classes is almost completely undocumented, and I suspect it has multiple features that don’t really fit together.</description>
+    </item>
+    
+    <item>
+      <title>The TODO list, collaborative edition</title>
+      <link>https://costanzaltavilla.github.io/blogs/todo-list-collaborative-edition/</link>
+      <pubDate>Sat, 28 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/todo-list-collaborative-edition/</guid>
+      <description>Hello! Welcome back to my weekly status report. I want to finally start writing the reports on Fridays, so it hasn’t been that many days since the last report, and there was a holiday in the middle of this week and some craziness you may already be aware of, so this report may end up either shorter than usual, or at least different. Sorry about that!
+I started the week by looking back at older “known issues”.</description>
+    </item>
+    
+    <item>
+      <title>Spilling the Wine</title>
+      <link>https://costanzaltavilla.github.io/blogs/spilling-the-wine/</link>
+      <pubDate>Mon, 23 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/spilling-the-wine/</guid>
+      <description>After the frustration of last week, I decided to take one last look at Deleaker, and try to figure out why it crashes in ReactOS during COM registration.
+The problem is, looking at the disassembly made it clear that the code is obfuscated. The functions start in one address, and then they jump all over the place, creating a mesh of small function chunks that even the best disassemblers seem unable to follow.</description>
+    </item>
+    
+    <item>
+      <title>Machining Virtually</title>
+      <link>https://costanzaltavilla.github.io/blogs/machining-virtually/</link>
+      <pubDate>Sat, 14 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/machining-virtually/</guid>
+      <description>As I said in the last report, the week began by setting up a development environment in a Windows Server 2003 VM.
+I had to install Visual Studio 2010 and RosBE, and then download and compile the source code to verify that everything was working correctly. When I tried to compile, I realized two things. First, that vs2010 is much buggier than I remembered, and second, that compiling in a Virtual Machine with one cpu core is very very slow.</description>
+    </item>
+    
+    <item>
+      <title>Leaks and corruption</title>
+      <link>https://costanzaltavilla.github.io/blogs/leaks-and-corruption/</link>
+      <pubDate>Mon, 09 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/leaks-and-corruption/</guid>
+      <description>After I finally managed to write last week’s report (have you ever tried to write something, and the words wouldn’t come out at all?), I continued looking at those nasty menu leaks.
+In an attempt to make the task simpler, I started looking for software with the ability to detect USER handle leaks. I checked the free (libre) alternatives first, but after not much luck I moved on to free (beer) software, and to fully commercial and proprietary software, when I finally found Deleaker.</description>
+    </item>
+    
+    <item>
+      <title>Leak-leaking leaks</title>
+      <link>https://costanzaltavilla.github.io/blogs/leak-leaking-leaks/</link>
+      <pubDate>Mon, 02 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/leak-leaking-leaks/</guid>
+      <description>I began the week by fixing the issue where the right button wasn’t detected by the code managing the start menu and submenus.
+I had been told that there was a JIRA issue related to the shutdown dialog, and that it had been implemented in some way in trunk already. I considered the means of calling that dialog from the shell32 function the start menu calls, but I dropped the idea some hours later, when I decided the code in msgina wasn’t designed to be called externally.</description>
+    </item>
+    
+    <item>
+      <title>Advancing the TODO list...</title>
+      <link>https://costanzaltavilla.github.io/blogs/advancing-the-todo-list/</link>
+      <pubDate>Mon, 26 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/advancing-the-todo-list/</guid>
+      <description>If you recall from the last report, I had a few issues that I couldn’t fix myself. Well, Huw (Frontier) surprised me by sending me a patch to fix the activation issue!
+One of the issues in explorer-new was that every time you clicked on the desktop to open a new folder, it would launch a new instance of explorer.exe and run the new window on it. While the underlying issue still remains (it requires implementing the DDE handler for explorer), by disabling the version of the desktop window from RShell and using the existing one from shell32 instead, the shell takes a shortcut and runs the window directly on its own instance.</description>
+    </item>
+    
+    <item>
+      <title>The Bar of the Tasks</title>
+      <link>https://costanzaltavilla.github.io/blogs/the-bar-of-the-tasks/</link>
+      <pubDate>Sun, 18 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/the-bar-of-the-tasks/</guid>
+      <description>Hello! Another weekend is here, time for me to write a new report…
+Good news! I’m recovered and back on track! ;P
+The week started by doing some boring investigation on how Windows manages the addressbar. If you didn’t guess already, analysing the behaviour of COM(ATL) classes is anything but simple. Interface inheritance is good for encapsulation, but bad for about anything else, including debugging. I did manage to figure out that it has two functions related to filling the addressbar combobox: one of them resets the contents and fills them from scratch, and the other only adds/changes/removes items related to the navigation.</description>
+    </item>
+    
+    <item>
+      <title>Small Hickup</title>
+      <link>https://costanzaltavilla.github.io/blogs/small-hickup/</link>
+      <pubDate>Mon, 12 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/small-hickup/</guid>
+      <description>Hello everyone!
+This update will be rather short.
+At the same time I was writing last week&#39;s post, I had already started to feel sore in my throat.
+By Sunday evening, I had a slight fever, and by Monday it was obvious that I must have caught a flu.
+I have been trying to poke around as I was recovering, but I couldn&#39;t really focus enough to do anything complex.</description>
+    </item>
+    
+    <item>
+      <title>Tweaks and improvements</title>
+      <link>https://costanzaltavilla.github.io/blogs/tweaks-and-improvements/</link>
+      <pubDate>Mon, 05 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/tweaks-and-improvements/</guid>
+      <description>Sorry for the delay! Drupal was causing issues on submitting new things.
+This week I continued what I was doing the previous one.
+I focused my efforts in the browse window, tweaking the existing code, fixing logic issues and cleaning up the code a bit.
+There were some visual differences that were easy to fix, and others that will require a lot of work.
+I added some code to extract the icon and show it in the titlebar.</description>
+    </item>
+    
+    <item>
+      <title>Slowly getting closer...</title>
+      <link>https://costanzaltavilla.github.io/blogs/slowly-getting-closer/</link>
+      <pubDate>Mon, 28 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/slowly-getting-closer/</guid>
+      <description>Another week is over, and it’s time for me to look back and convert all my efforts into words.
+If you recall from the previous report, I was trying to fix the keyboard navigation. I managed to find and fix the issue that caused my code not to process the key presses correctly. With that issue fixed, I could implement the code to switch left and right between popup menus, and shell menus, both between a popup and a shell menu (which was already working last week), and between a shell menu and a popup.</description>
+    </item>
+    
+    <item>
+      <title>Menus and keyboard navigation</title>
+      <link>https://costanzaltavilla.github.io/blogs/menus-and-keyboard-navigation/</link>
+      <pubDate>Tue, 22 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/menus-and-keyboard-navigation/</guid>
+      <description>Sorry for the delay.
+This past week has been full of holidays and the inevitable family meetings, so the report will be short.
+After spending some more time on the context menu bug, I decided to leave it aside, and focus on things that improve the progress. If the code is incompatible with TortoiseGit for some reason, I can figure that out later.
+The next issue on the list was the keyboard navigation.</description>
+    </item>
+    
+    <item>
+      <title>At the peak of the mountain... there&#39;s a hill?</title>
+      <link>https://costanzaltavilla.github.io/blogs/at-the-peak-of-the-mountain-theres-a-hill/</link>
+      <pubDate>Tue, 15 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/at-the-peak-of-the-mountain-theres-a-hill/</guid>
+      <description>This week really didn’t “start”; it was merely a continuation of the past weeks.
+The issue where the toolbar did not receive clicks was one of those annoying problems where finding the apparent cause is easy, but finding a solution not so much. The issue, as far as I could tell, was related to using SetCapture as a means to track the mouse movement on top of the toolbar. If I disabled that piece of code, the clicks got through, but – of course – other features stopped working.</description>
+    </item>
+    
+    <item>
+      <title>The Sisyphean Bug -- part 2</title>
+      <link>https://costanzaltavilla.github.io/blogs/the-sisyphean-bug-part-2/</link>
+      <pubDate>Mon, 07 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/the-sisyphean-bug-part-2/</guid>
+      <description>Over this past week, I continued fixing many small bugs, logic errors and such. Eventually I got to a point where I couldn’t deny the truth anymore.
+One of the lessons you are taught when learning to be an engineer (including software programming), and one that some people find hard to accept, is that you should always try to reuse existing processes and components, instead of reinventing your own. Because of that, I tried very hard to let the toolbars manage their own hot-tracking and only intercept hot-tracking events when strictly necessary.</description>
+    </item>
+    
+    <item>
+      <title>The Sisyphussian Bug</title>
+      <link>https://costanzaltavilla.github.io/blogs/the-sisyphussian-bug/</link>
+      <pubDate>Sat, 29 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/the-sisyphussian-bug/</guid>
+      <description>If you have been following the weekly reports, you know that I have been having issues with the focus manager.
+Well, this week I redesigned part of the focus manager, improving the structure so that it has more accurate information of what’s happening with the menus. While improving the code, I also fixed some bugs in the code.
+By Wednesday, I had what appeared to be working code. While running it in Windows 7, everything seemed to work, both in the start menu and the menu bar.</description>
+    </item>
+    
+    <item>
+      <title>Walking in circles</title>
+      <link>https://costanzaltavilla.github.io/blogs/walking-in-circles/</link>
+      <pubDate>Mon, 24 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/walking-in-circles/</guid>
+      <description>When work progresses, there’s a natural tendency towards running out of simple bugs to fix, and being left with those persistent ones that seem to have an intelligence of their own.
+I thought I was over those. That the bug I was working on would be a simple one.
+I wanted to have some test builds ready to share with the world, to be able to tell you all “hey look, if you don’t try to navigate with the keyboard, everything mostly acts the way it should, come and try!</description>
+    </item>
+    
+    <item>
+      <title>Menus, menus</title>
+      <link>https://costanzaltavilla.github.io/blogs/menus-menus/</link>
+      <pubDate>Sun, 16 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/menus-menus/</guid>
+      <description>I began the week by fixing the menus, so that they would properly display submenus, and react to clicks. I was stuck for a bit, but I finally managed to find the problem that prevented the menus from working correctly within ReactOS.
+I set the filebrowser aside for a bit after this small success, to revisit some of the old bugs and pending tasks.
+I took a fresher look at the exec issue, where items weren’t clickable unless a submenu had been opened first, and I (painfully) traced the issue to pointless/bogus WM_ACTIVATE messages, with the new HWND being equal to the old HWND.</description>
+    </item>
+    
+    <item>
+      <title>ReactOS RShell</title>
+      <link>https://costanzaltavilla.github.io/blogs/reactos-rshell/</link>
+      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/reactos-rshell/</guid>
+      <description>I began the week by testing the progress of the start menu in ReactOS.
+You may remember this screenshot from last weekend’s report. In it, you can see the results of implementing vertical menus in a different, more documented, way. This method requires more work to be done per item, to make them all wrap into a new row, but it is supported by the Wine toolbar implementation ReactOS uses.</description>
+    </item>
+    
+    <item>
+      <title>Look&amp;Feel of the Start Menu</title>
+      <link>https://costanzaltavilla.github.io/blogs/look-feel-start-menu/</link>
+      <pubDate>Mon, 03 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/look-feel-start-menu/</guid>
+      <description>This week’s work began by improving the look&amp;amp;feel of the start menu so that it matches the Windows start menu better.
+The first step was to improve the look of the menu: This included positioning, colours, dropdown arrows, icon sizes, etc.
+I continued by trying to improve the feel of the menu: Hot-tracking behaviours, keyboard navigation, etc. The keyboard navigation keeps resisting me somewhat, though, as it tends to glitch when using the left/right arrow keys to open and close submenus, but moving up and down seems to behave as expected.</description>
+    </item>
+    
+    <item>
+      <title>The Starts and The Menus</title>
+      <link>https://costanzaltavilla.github.io/blogs/the-starts-and-the-menus/</link>
+      <pubDate>Sun, 23 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/the-starts-and-the-menus/</guid>
+      <description>The week began by implementing the functionality needed to handle clicking on menu items. This involved sending a callback notification for the currently selected item, asking the callback to execute the appropriate action of the item.
+Some of the items are not meant to be clicked on and are supposed to show a submenu instead. For these items I had to subclass the toolbar windows so that I could add a timer on hover and handle the opening of the submenu in the resulting WM_TIMER event, which would be received by the toolbar, but needed to be handled by my code.</description>
+    </item>
+    
+    <item>
+      <title>Shell experiments: Progress on the start menu</title>
+      <link>https://costanzaltavilla.github.io/blogs/shell-experiments-progress-on-the-start-menu/</link>
+      <pubDate>Sun, 16 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/shell-experiments-progress-on-the-start-menu/</guid>
+      <description>Work, this week, began with finishing the initial implementation of CMenuSite. This class and the window it creates act as an intermediary between a BaseBar and a MenuBand, forwarding the events and messages either to the child band, or to the parent bar, as necessary. It handles the sizing of the child band, to adapt it to changes in the available space. It also provides certain services related to the positioning and sizing of the child bar, which it handles by forwarding some requests to the child, and the rest to the parent.</description>
+    </item>
+    
+  </channel>
+</rss>

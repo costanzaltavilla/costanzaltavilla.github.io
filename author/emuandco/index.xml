@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emuandco on ReactOS Website</title>
+    <link>https://costanzaltavilla.github.io/author/emuandco/</link>
+    <description>Recent content in Emuandco on ReactOS Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 24 May 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://costanzaltavilla.github.io/author/emuandco/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>April 2017 meeting minutes</title>
+      <link>https://costanzaltavilla.github.io/project-news/april-2017-meeting-minutes/</link>
+      <pubDate>Wed, 24 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/april-2017-meeting-minutes/</guid>
+      <description>2017-04-27
+20:00 UTC
+#reactos-meeting
+Proceedings Meeting started at 20:09 by Colin Finck
+ Point 1: Status Reports Point 2: Release 0.4.5 Point 3: Vadim&#39;s USB work integration Point 3: Server infra discussion  Point 1: Status Reports Aleksey_Bragin: He was mostly busy with server infrastructure and minor org things. Of course, he has ~30 students this year who are doing their work using ReactOS. So at least quite a few testers are testing it on a weekly basis.</description>
+    </item>
+    
+    <item>
+      <title>February 2017 meeting minutes</title>
+      <link>https://costanzaltavilla.github.io/project-news/february-2017-meeting-minutes/</link>
+      <pubDate>Wed, 24 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/february-2017-meeting-minutes/</guid>
+      <description>2017-02-23
+20:00 UTC
+#reactos-meeting
+Proceedings Meeting started at 20:25 by Aleksey Bragin
+ Point 1: Status Reports Point 2: USB status Point 3: Office status and NTLM Point 4: Tree restructure  Point 1: Status Reports Aleksey Bragin: His main achievement for this month was finally installing the ReactOS hardware infrastructure together with Colin and Christoph. They brought the mothership back online, configured networks even better, as now he has fully separated networks at his house.</description>
+    </item>
+    
+    <item>
+      <title>January 2017 meeting minutes</title>
+      <link>https://costanzaltavilla.github.io/project-news/january-2017-meeting-minutes/</link>
+      <pubDate>Wed, 24 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/january-2017-meeting-minutes/</guid>
+      <description>2017-01-26
+20:00 UTC
+#reactos-meeting
+Proceedings Meeting started at 20:16 by Colin Finck
+ Point 1: FOSDEM participation Point 2: Status of scholarships Point 3: GSoC USB branch merging Point 3: Vadim&#39;s USB stack  Point 1: FOSDEM participation Colin Finck started this topic giving recent information about FOSDEM participation and who will be there right now. He criticised the current planning a bit because noone knew if someone will be at the FOSDEM booth or not until very recently.</description>
+    </item>
+    
+    <item>
+      <title>October 2016 meeting minutes</title>
+      <link>https://costanzaltavilla.github.io/project-news/october-2016-meeting-minutes/</link>
+      <pubDate>Wed, 24 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/october-2016-meeting-minutes/</guid>
+      <description>2016-10-27
+20:00 UTC
+#reactos-meeting
+Proceedings Meeting started at 20:31 by Aleksey Bragin
+ Point 1: Status Reports Point 2: Hiring developers Point 3: GSoC merging  Point 1: Status Reports Aleksey Bragin: He sold his startup, got a CTO position in a company which bought his startup, and ideally he should have more time, but it&#39;s not the case right now. So basically he was busy whole October and he started doing some research into software image processing for optical tech (his students, not him)</description>
+    </item>
+    
+    <item>
+      <title>August 2016 meeting minutes</title>
+      <link>https://costanzaltavilla.github.io/project-news/august-2016-meeting-minutes/</link>
+      <pubDate>Mon, 03 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/august-2016-meeting-minutes/</guid>
+      <description>2016-08-25
+20:04 UTC
+irc.freenode.net, #reactos-meeting
+Proceedings Meeting started at 20:11 by Amine Khaldi
+ Point 1: Status Reports Point 2: GSoC Point 3: 0.4.3 Release Plans  GENERAL INFORMATION
+Starting with this month meetings will be open to public. You may watch, but all non-devs are muted by default. If the meeting is set to invite-only when you try to join then we first discuss some private points before we open it to public.</description>
+    </item>
+    
+    <item>
+      <title>July 2016 meeting minutes</title>
+      <link>https://costanzaltavilla.github.io/project-news/july-2016-meeting-minutes/</link>
+      <pubDate>Mon, 03 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/july-2016-meeting-minutes/</guid>
+      <description>2016-07-28
+20:00 UTC
+irc.freenode.net, #reactos-meeting
+Proceedings Meeting started at 20:11 by Amine Khaldi
+ Point 1: Status Reports Point 2: 0.4.2 Release Plans  Point 1: Status Reports Aleksey Bragin: He starts to get more free time now and tests ROS quite often recently. ReactOS keeps his C coding skills in shape right now which would be forgotten otherwise with all the .net C# he has to do. He plans to fix some release blockers soon.</description>
+    </item>
+    
+    <item>
+      <title>September 2016 meeting minutes</title>
+      <link>https://costanzaltavilla.github.io/project-news/september-2016-meeting-minutes/</link>
+      <pubDate>Mon, 03 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/september-2016-meeting-minutes/</guid>
+      <description>2016-09-29
+20:00 UTC
+irc.freenode.net, #reactos-meeting
+Proceedings Meeting started at 20:22 by Aleksey Bragin
+ Point 1: Status Reports Point 2: 0.4.3 Release Plans  Point 1: Status Reports [TheFlash]: He&#39;s still working on both the Sound Blaster driver and NTVDM VESA support, but right now he has to finish his M.Sc. thesis, so there will be a delay.
+Amine Khaldi: He&#39;s been looking after some long standing tasks we wanted to get into the 0.</description>
+    </item>
+    
+    <item>
+      <title>April 2016 meeting minutes</title>
+      <link>https://costanzaltavilla.github.io/project-news/april-2016-meeting-minutes/</link>
+      <pubDate>Mon, 02 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/april-2016-meeting-minutes/</guid>
+      <description>2016-04-28
+20:00 UTC
+irc.freenode.net, #reactos-meeting
+Proceedings Meeting started at 20:00 by Amine Khaldi
+ Point 1: Status Reports Point 2: 0.4.1 Release plans Point 3: GSoC  Point 1: Status Reports Aleksey Bragin: He did not have time to code, however he was putting some time into the infrastructure, which is working quite nice
+Amine Khaldi: He&#39;s been trying to catch a breath and recharge a bit, but he still worked on his usual tasks (jira, patches, handling newcomers, and especially our GSoC students, some commits like the SDK structure, the libpng sync and so on.</description>
+    </item>
+    
+    <item>
+      <title>March 2016 meeting minutes</title>
+      <link>https://costanzaltavilla.github.io/project-news/march-2016-meeting-minutes/</link>
+      <pubDate>Mon, 02 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/march-2016-meeting-minutes/</guid>
+      <description>2016-03-31
+20:00 UTC
+irc.freenode.net, #reactos-meeting
+Proceedings Meeting started at 20:00 by Aleksey Bragin
+ Point 1: Status Reports Point 2: 0.4.1 Release plans Point 3: GSoC  Point 1: Status Reports [TheFlash]: He&#39;s still busy with class projects (pursuing a master&#39;s degree) so he hasn&#39;t gotten around to working on ReactOS much. He did fix that NTVDM bug though. Once he&#39;s done with these projects he can start working on NTVDM VESA support.</description>
+    </item>
+    
+    <item>
+      <title>CLT 2016 - A short summary</title>
+      <link>https://costanzaltavilla.github.io/project-news/clt-2016-short-summary/</link>
+      <pubDate>Sun, 27 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/clt-2016-short-summary/</guid>
+      <description>Hello guys,
+After some days went past I will now sum up the main events of the CLT 2016 for you.
+The event took place from 19th - 20th March at Technische Universität of Chemnitz. This year the team was smaller than the years before and only Thomas Faber and me (for ppl that don&#39;t know me: Daniel Reimer) have made it. The hotel we booked was the Hoteloper Chemnitz. Tryin to stay sort of cheap we had a two bed room in deluxe size (at least one of two guys in that team could kill with the noise he makes @ night ^^).</description>
+    </item>
+    
+    <item>
+      <title>February 2016 meeting minutes</title>
+      <link>https://costanzaltavilla.github.io/project-news/february-2016-meeting-minutes/</link>
+      <pubDate>Sun, 27 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/february-2016-meeting-minutes/</guid>
+      <description>2015-11-26
+19:30 UTC
+irc.freenode.net, #reactos-meeting
+Proceedings Meeting started at 19:33 by Aleksey Bragin
+ Point 1: Status Reports Point 2: Website Reports Point 3: 0.4.1 and 0.5.0 Release plans  Point 1: Status Reports [TheFlash]: He&#39;ll work on the ntvdm bugs he took over in jira and after that he&#39;ll help with rapps_new. He&#39;s pretty much given up on writing NTVDM sound card drivers for now due to licensing problems he can&#39;t bypass and/or combine with his ideals.</description>
+    </item>
+    
+    <item>
+      <title>November 2015 meeting minutes</title>
+      <link>https://costanzaltavilla.github.io/project-news/november-2015-meeting-minutes/</link>
+      <pubDate>Sat, 19 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/november-2015-meeting-minutes/</guid>
+      <description>2015-11-26
+19:00 UTC
+dev.reactos.org, #meeting
+Proceedings Meeting started at 19:18 by Aleksey Bragin
+ Point 1: Status Reports Point 2: 0.4.0 Release plans  Point 1: Status Reports [TheFlash]: He started working on the NTVDM Sound Blaster emulation, however he realized that he&#39;s completely unable to test anything sound-related on ReactOS. KVM doesn&#39;t support the only card we have (CMI8378) and the rest would require non-free drivers, the use of which he finds contradictory to his ideals.</description>
+    </item>
+    
+    <item>
+      <title>October 2015 meeting minutes</title>
+      <link>https://costanzaltavilla.github.io/project-news/october-2015-meeting-minutes/</link>
+      <pubDate>Sun, 15 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/october-2015-meeting-minutes/</guid>
+      <description>2015-10-29
+19:00 UTC
+dev.reactos.org, #meeting
+Proceedings Meeting started at 19:01 by Amine Khaldi
+ Point 1: Release plans Point 2: Special Report: Shell Point 3: Special Report: CE plans Point 4: Developers reports  Point 1 Amine Khaldi built up on an email he sent to ros-priv about planning a 0.4.0 release now that things start to get in shape for it. He started the topic with asking for opinions and questions regarding what&#39;s still left to do.</description>
+    </item>
+    
+    <item>
+      <title>September 2015 meeting minutes</title>
+      <link>https://costanzaltavilla.github.io/project-news/september-2015-meeting-minutes/</link>
+      <pubDate>Sun, 18 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/september-2015-meeting-minutes/</guid>
+      <description>2015-09-24
+19:00 UTC
+dev.reactos.org, #meeting
+Proceedings Meeting started at 19:01 by Aleksey Bragin
+ Point 1: Status Reports Point 2: Website upgrade proposal (Aleksey and Victor) Point 3: MSPL licensed code in our repo Point 4: Switching to new build process (Amine and Daniel) Point 5: Oldest CPU arch supported by ReactOS  Point 1 Aleksandar Andrejevic: He is currently working on NTVDM. Soon, he&#39;ll finish translating a FreeBasic-based GPL Sound Blaster emulator (written by Mysoft, aka Gregory Macario Harbs) to C and include it.</description>
+    </item>
+    
+    <item>
+      <title>June 2015 meeting minutes</title>
+      <link>https://costanzaltavilla.github.io/project-news/june-2015-meeting-minutes/</link>
+      <pubDate>Thu, 17 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/june-2015-meeting-minutes/</guid>
+      <description>2015-06-25
+19:00 UTC
+dev.reactos.org, #meeting
+Proceedings Meeting started at 19:08 by Aleksey Bragin
+ Point 1: Status Reports Point 2: Hackfest  Point 1 Aleksey Bragin: His work on LDR code starts to have good results and a first patch was attached to a JIRA ticket. One crash was experienced in the tests, but it&#39;s not sure that it&#39;s caused by the patch at all. All which still has to be done is some reviewing by others and some clean up.</description>
+    </item>
+    
+    <item>
+      <title>May 2015 meeting minutes</title>
+      <link>https://costanzaltavilla.github.io/project-news/may-2015-meeting-minutes/</link>
+      <pubDate>Thu, 17 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/may-2015-meeting-minutes/</guid>
+      <description>2015-05-28
+19:00 UTC
+dev.reactos.org, #meeting
+Proceedings Meeting started at 19:17 by Aleksey Bragin
+ Point 1: Report on the BRICS Operating System project proposal Point 2: Request to feature our official Dell laptop in a video Point 3: New Website Point 4: Plans for 0.4.0  Point 1 Aleksey Bragin officially submitted two project proposals to the Russian IT ministry (which is in charge of the BRICS operating systems development). First project is a desktop operating system and the second project is called RosServer, a server operating system.</description>
+    </item>
+    
+    <item>
+      <title>April 2015 Meeting Minutes</title>
+      <link>https://costanzaltavilla.github.io/project-news/april-2015-meeting-minutes/</link>
+      <pubDate>Sun, 03 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/april-2015-meeting-minutes/</guid>
+      <description>2015-04-30
+19:00 UTC
+dev.reactos.org, #meeting
+Proceedings Meeting started at 19:09 by Aleksey Bragin
+ Point 1: Developer Briefings Point 2: ReactOS Hackfest 2015  Point 1 Aleksandar Andrejevic: During the last month, Aleksandar has been fixing bugs in various parts of NTVDM, and is planning on fixing more bugs in the near future.
+Amine Khaldi: Amine was continuing the wine sync effort, while assisting and guiding some new comers that showed up recently, to make sure they contribute to the most urgent needs.</description>
+    </item>
+    
+    <item>
+      <title>Back from CLT 2010</title>
+      <link>https://costanzaltavilla.github.io/project-news/back-clt-2010/</link>
+      <pubDate>Mon, 15 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/back-clt-2010/</guid>
+      <description>The Chemnitz Linux-Days 2010 are over and all ReactOS developers have safely made their way home again.
+We would like to give a summary, and share our impressions with those who were unfortunately unable join us:
+Contrary to our expectations, the stall and the presentation were a wow. Especially for ReactOS Deutschland e.V., the new German non-profit organization supporting the project, it was a promising start. A lot of interested guests visited our stall and wished us success for the future.</description>
+    </item>
+    
+  </channel>
+</rss>

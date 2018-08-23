@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Call on ReactOS Website</title>
+    <link>https://costanzaltavilla.github.io/tags/call/</link>
+    <description>Recent content in Call on ReactOS Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 Feb 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://costanzaltavilla.github.io/tags/call/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ReactOS has been accepted for GSOC&#39;17</title>
+      <link>https://costanzaltavilla.github.io/project-news/reactos-has-been-accepted-gsoc17/</link>
+      <pubDate>Mon, 27 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/reactos-has-been-accepted-gsoc17/</guid>
+      <description>The ReactOS Team is proud to announce that Google has once again selected the ReactOS project to be part in the upcoming 2017 Google Summer of Code.
+This is the first time ReactOS has been accepted for GSOC two years consecutively, setting an important landmark in ReactOS’ history. No doubt the amazing work of the ReactOS mentors and students in the 2016 program contributed to make this possible.
+The GSOC program is a great opportunity to join recognized and skilled mentors with eager and skilled students alike.</description>
+    </item>
+    
+  </channel>
+</rss>

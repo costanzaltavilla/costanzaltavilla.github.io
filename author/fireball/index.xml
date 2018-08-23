@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fireball on ReactOS Website</title>
+    <link>https://costanzaltavilla.github.io/author/fireball/</link>
+    <description>Recent content in Fireball on ReactOS Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://costanzaltavilla.github.io/author/fireball/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ReactOS Hackfest in Aachen</title>
+      <link>https://costanzaltavilla.github.io/project-news/reactos-hackfest-aachen/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/reactos-hackfest-aachen/</guid>
+      <description>Day -1 (5th of August) As Aleksey arrived well before the hackfest started, Colin was kind enough to show the city in its full glory on a very hot day: the cathedral, springs, restaurants and cafes, and definitely the RWTH university buildings spread across the city. The most relevant was the temporary seminar building where a large room was dedicated for the Hackfest. It turned out to be a clean and modern equipped building which is indeed temporary and will be demolished once the real building is finished, so ReactOS is not the only one to utilize temporary hacks until full implementation is done :).</description>
+    </item>
+    
+    <item>
+      <title>ReactOS as a second OS in Russian government&#39;s software freedom effort</title>
+      <link>https://costanzaltavilla.github.io/project-news/reactos-second-os-russian-governments-software-freedom-effort/</link>
+      <pubDate>Fri, 19 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/reactos-second-os-russian-governments-software-freedom-effort/</guid>
+      <description>The Russian Federation along with the BRICS nations are pursuing measures to rid vendor lock-in of strategically important software (http://minsvyaz.ru/en/events/33237/) and substitute such software with free/open software (http://minsvyaz.ru/en/events/32967/). As such an initiative would provide considerable benefits beyond that of any singular agenda, Aleksey Bragin decided to take part in that on behalf of ReactOS Foundation. Since October 2014 he has been a member of the Operating Systems workgroup formed by the Ministry of Telecom and Mass Communications (so-called &#34;</description>
+    </item>
+    
+    <item>
+      <title>ReactOS 0.3.14 Released</title>
+      <link>https://costanzaltavilla.github.io/project-news/reactos-0314-released/</link>
+      <pubDate>Wed, 08 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/reactos-0314-released/</guid>
+      <description>The ReactOS team is proud to announce the release of ReactOS 0.3.14. This version includes a significant amount of changes including both user visible and architectural improvements. Also included in this release is the valuable work accomplished as part of the Google Summer of Code 2011 event, of which ReactOS was a mentoring project. One of the more significant sets of improvements was to ReactOS’ networking stack. As part of the GSoC, ReactOS gained a new TCP/IP driver built around the LwIP project.</description>
+    </item>
+    
+    <item>
+      <title>ReactOS 0.3.13 Released</title>
+      <link>https://costanzaltavilla.github.io/project-news/reactos-0313-released/</link>
+      <pubDate>Tue, 22 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/reactos-0313-released/</guid>
+      <description>The ReactOS team is proud to announce the release of ReactOS 0.3.13. This version continues building on the work first previewed in 0.3.12, ranging from memory management improvements to better sound and display control. A Coverity scan also occurred between 0.3.12 and 0.3.13, helping the team clean up potential security holes and also help improve general stability by enforcing more care in memory operations.
+Some of the biggest system changes happened with memory management with the introduction of a new heap manager based on the Windows 2003/Vista architecture, significantly increasing ReactOS’ compatibility with advanced memory allocation types and providing proper kernel mode heap management used by win32k.</description>
+    </item>
+    
+    <item>
+      <title>ReactOS 0.3.12 Released</title>
+      <link>https://costanzaltavilla.github.io/project-news/reactos-0312-released/</link>
+      <pubDate>Wed, 20 Oct 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/reactos-0312-released/</guid>
+      <description>The ReactOS team is proud to announce the release of ReactOS 0.3.12. This is a huge release for the team, not just with regards to the number of improvements which this release holds but in terms of the leap forward architecturally, stability wise and in bringing some of the more modern aspects of the NT kernel into ReactOS. It&#39;s been almost a year since the last release and whilst this is understandably excessive, it was required to stabilize the OS due to the nature of the work which was undertaken.</description>
+    </item>
+    
+    <item>
+      <title>ReactOS 0.3.10 Released</title>
+      <link>https://costanzaltavilla.github.io/project-news/reactos-0310-released/</link>
+      <pubDate>Sun, 05 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/reactos-0310-released/</guid>
+      <description>ReactOS 0.3.10 Released The ReactOS team is proud to announce the release of ReactOS 0.3.10. This version is the first to use the Universal ATA driver as the default disk driver, adding support for Serial ATA and partitions greater than 8GB. In addition, recent work was done on the USB stack to increase compatibility with USB keyboards and mice. These features are still under heavy development and have several known bugs, but their inclusion should allow more people to run ReactOS on real hardware and are part of the extensive work to make ReactOS usable as an every day operating system.</description>
+    </item>
+    
+    <item>
+      <title>ReactOS 0.3.8, FOSDEM 2009</title>
+      <link>https://costanzaltavilla.github.io/project-news/reactos-038-fosdem-2009/</link>
+      <pubDate>Wed, 04 Feb 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/reactos-038-fosdem-2009/</guid>
+      <description>ReactOS 0.3.8 Released  Our development team is proud to present a new version of ReactOS, a Windows®-compatible operating system. It has been three months since the 0.3.7 release date. Much of the work has been done and only some minor changes remain in order to make the release cycle faster and less time consuming for developers and release engineers.  Besides development of the operating system, a number of organizational and administrative changes were done to make the development process easier and more enjoyable.</description>
+    </item>
+    
+    <item>
+      <title>Soft of the Year Award</title>
+      <link>https://costanzaltavilla.github.io/project-news/soft-year-award/</link>
+      <pubDate>Fri, 19 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/soft-year-award/</guid>
+      <description>&#34;Soft of the Year 2008&#34; Award  &#34;Soft of the Year 2008&#34; is a national Russian software award given annually to the best computer software. Winners in seven different categories are selected by results of people&#39;s voting (carried out by Mail.Ru).  ReactOS won second place in the &#34;Technologies&#34; category. Thanks to everyone who supported us! </description>
+    </item>
+    
+    <item>
+      <title>ReactOS 0.3.7</title>
+      <link>https://costanzaltavilla.github.io/project-news/reactos-037/</link>
+      <pubDate>Wed, 05 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/reactos-037/</guid>
+      <description>ReactOS 0.3.7 Released  Version 0.3.7 got delayed due to a couple of blocker bugs, however they are fixed now and we are ready to release.  This release along with the rest of the 0.3.x series is still considered alpha quality software.  ReactOS 0.3.7 continues further work on the main three principles of current ReactOS development: bugfixes, compatibility and stability. Changes summaryA consolidation of all changes in great details can be found in the changelog.</description>
+    </item>
+    
+    <item>
+      <title>ReactOS 0.3.6</title>
+      <link>https://costanzaltavilla.github.io/project-news/reactos-036/</link>
+      <pubDate>Wed, 06 Aug 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/reactos-036/</guid>
+      <description>ReactOS 0.3.6 Released  In a little over a month since version 0.3.5, we are announcing the release ReactOS 0.3.6.  This release along with the rest of the 0.3.x series is still considered alpha quality software, so do not set your expectations too high.  ReactOS 0.3.6 is the product of the current development focus: bugfixes, compatibility, and stability. There were more than a thousand commits to the ReactOS Subversion repository this month.</description>
+    </item>
+    
+    <item>
+      <title>ReactOS 0.3.5</title>
+      <link>https://costanzaltavilla.github.io/project-news/reactos-035/</link>
+      <pubDate>Mon, 30 Jun 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/reactos-035/</guid>
+      <description>ReactOS 0.3.5 Released  Four months after the release of 0.3.4, we are pleased to announce ReactOS 0.3.5.  This release, along with the rest of the 0.3.x series is still considered alpha quality software, so do not set your expectations too high.  ReactOS 0.3.5 release contains fixes for many old bugs, some having been present since 0.3 or even earlier and some being regressions introduced in further releases due to rewrites of certain components, not to mention new features.</description>
+    </item>
+    
+    <item>
+      <title>New project of ReactOS Foundation</title>
+      <link>https://costanzaltavilla.github.io/project-news/new-project-reactos-foundation/</link>
+      <pubDate>Fri, 04 Apr 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/new-project-reactos-foundation/</guid>
+      <description>New project of ReactOS Foundation  Our russian department launched a new service for opensource projects hosting: FireForge.net. This site provides file releases, SVN/CVS, web, ftp hosting, bug/feature trackers, mailing lists and everything else needed for building a successive opensource community. A difference from similar known sites like sf.net or code.google.com is that FireForge.net provides hosting services for projects interested for russian audience, and it&amp;#39;s not just about providing services, but it&amp;#39;s about providing a way for new projects to become known quicker, attract interested users and developers.</description>
+    </item>
+    
+    <item>
+      <title>Back to normal operation</title>
+      <link>https://costanzaltavilla.github.io/project-news/back-normal-operation/</link>
+      <pubDate>Mon, 10 Mar 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/back-normal-operation/</guid>
+      <description>Server maintenance Our scheduled server maintenance period is over now, all went good and is supposed to be in a working state. If you notice some unusual behavior, please don&#39;t hesitate to let us know!
+As a bonus, the subversion server was upgraded to the latest stable version, both svn:// and http:// access methods are provided, there is a special dedicated server for per-revision installation CDs storage, and even more bandwidth and server power to the ReactOS Website.</description>
+    </item>
+    
+    <item>
+      <title>Server maintenance</title>
+      <link>https://costanzaltavilla.github.io/project-news/server-maintenance/</link>
+      <pubDate>Fri, 07 Mar 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/server-maintenance/</guid>
+      <description>Server maintenance Our scheduled server maintenance started about a week ago. It went rarther smooth, with exception to all mail-related services. We&#39;re working on fixing email-related issues and beg our pardon for the inconvinience. Please have in mind that right now ALL email services may not work. This includes registration on the website, forum notifications, mailing lists, @reactos.org email aliases, etc.
+The mailing system will be restored as soon as possible</description>
+    </item>
+    
+    <item>
+      <title>ReactOS 0.3.4 Released</title>
+      <link>https://costanzaltavilla.github.io/project-news/reactos-034-released/</link>
+      <pubDate>Tue, 22 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/reactos-034-released/</guid>
+      <description>ReactOS 0.3.4 Released  We are pleased to announce the release of the next version of ReactOS in the 0.3 series. This is a culmination of the last 3 months of development, and some significant progress has been made in various areas. Release cycle  Starting from version 0.3.3 we have aimed to move our release cycle to a 2 month period. There are various reasons for this, but the two which are key to this decision is a desire to keep the main development tree in a stable condition, and an effort to keep up the interests of the people who follow the project, by providing regular release builds to play with.</description>
+    </item>
+    
+    <item>
+      <title>ReactOS Status Update</title>
+      <link>https://costanzaltavilla.github.io/project-news/reactos-status-update/</link>
+      <pubDate>Wed, 14 Nov 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/reactos-status-update/</guid>
+      <description>Status Update  ReactOS had quite a few major improvements since the last 0.3.3 release, and I feel this needs to be given a special attention. Kernel First of all, the kernel gets mostly bugfixes in all areas, especially which haven&#39;t been touched for a long time (Cache controller, for example), leading to great improvements in compatibility+stability. A number of issues with Win32 applications crashing went away. Drivers Then, drivers. Input stack was rewritten to be plug&#39;n&#39;play compatible, USB is on its way to be PnPised, PCI bus driver bugfixed resulting in better hardware support.</description>
+    </item>
+    
+    <item>
+      <title>ReactOS 0.3.3 Released!</title>
+      <link>https://costanzaltavilla.github.io/project-news/reactos-033-released/</link>
+      <pubDate>Thu, 13 Sep 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/reactos-033-released/</guid>
+      <description>ReactOS 0.3.3 Released!  As we have previously made you aware, we skipped the 0.3.2 release due to massive problems with old incompatible drivers resulting in blocker bugs we couldn&#39;t resolve within the scheduled release time. With these issues now resolved, and along with a extensive amount of additional improvements, we are presenting the next minor release - 0.3.3  This is still labeled as alpha-stage release, so do not set your expectations too high: translating into a non-programmer’s language alpha-stage means: “You are lucky if it actually installs and runs for you outside of a virtual machine”.</description>
+    </item>
+    
+    <item>
+      <title>Newsletter 26</title>
+      <link>https://costanzaltavilla.github.io/blogs/newsletter-26/</link>
+      <pubDate>Mon, 11 Jun 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/newsletter-26/</guid>
+      <description>Forget 0.3.2  We promised a release period of two months, but all the kinks are not out yet. More than 2 months have passed and project leaders have decided that there are already enough changes in trunk to call it 0.3.3, the next release. This is a sign that development, although a bit hard to manage, is moving at faster rates. As development approaches 0.4.0 goals we would see increasing functionality and stability, as well as keeping in line with the best practices in software development, testing and compatibility.</description>
+    </item>
+    
+    <item>
+      <title>Update on ReactOS internals</title>
+      <link>https://costanzaltavilla.github.io/project-news/update-reactos-internals/</link>
+      <pubDate>Thu, 07 Jun 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/update-reactos-internals/</guid>
+      <description>Update on ReactOS internals 0.3.2 Release  ReactOS 0.3.2 is officially going to be skipped (due to 4 blocker bugs), and ReactOS 0.3.3 will be the next in the cycle which, according to the 2 months release schedule,&amp;nbsp;will be released in July. Trunk already has many improvements and bugfixes for 0.3.3, however we are still working on fixing those 4 major issues.   Team  Alex Ionescu left the ReactOS team to follow an exciting career opportunity working with David Solomon as an official replacement to&amp;nbsp;Mark Russinovich Our best wishes to him at his new position, and a big thanks for all the great work he has done for ReactOS.</description>
+    </item>
+    
+    <item>
+      <title>ReactOS 0.3.1 Released</title>
+      <link>https://costanzaltavilla.github.io/project-news/reactos-031-released/</link>
+      <pubDate>Sun, 11 Mar 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/reactos-031-released/</guid>
+      <description>ReactOS 0.3.1 Released! It&#39;s been almost half a year since the last release (0.3.0). And all this time work was going on like crazy - sometimes up to 50 commits per day. Mainly, the work focused on rewriting certain parts of the ReactOS Core (kernel, HAL, bootloader, etc). It&#39;s very hard to sum up&amp;nbsp;the huge Changelog&amp;nbsp;in an outline, but briefly:
+ Freeldr was improved HAL&#39;s key areas&amp;nbsp;have been&amp;nbsp;significantly improved (irql-related, bus support, kd-functions) The Kernel experienced a massive rewrite of incompatible parts (and is still in the process of improvement) Run-time library (Rtl)&amp;nbsp;got a lot of improvements and bugfixes Bugs were fixed in kernel-mode drivers&amp;nbsp;and a better USB driver was added Registry-support&amp;nbsp;has been&amp;nbsp;greatly improved thanks to addition of&amp;nbsp;&amp;quot;cmlib&amp;quot;, a library shared by the boot loader and the kernel to handle&amp;nbsp;binary registry hives; it even supports binary registry hives created by Windows More fixes in the Win32 subsystem and user-mode DLLs Boot video&amp;nbsp;driver (and a splash screen) was added  Read through the changelog, and you will see the amount of changes in this release!</description>
+    </item>
+    
+    <item>
+      <title>ReactOS at DELL IdeaStorm</title>
+      <link>https://costanzaltavilla.github.io/project-news/reactos-dell-ideastorm/</link>
+      <pubDate>Wed, 07 Mar 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/reactos-dell-ideastorm/</guid>
+      <description>DELL IdeaStorm project After some requests from people&amp;nbsp;at our forum, we decided to add an idea&amp;nbsp;about ReactOS&amp;nbsp;to the DELL IdeaStorm project.
+If you like this idea, &amp;quot;Promote&amp;quot; it, and it&#39;ll get higher on the list of popular ideas.
+Thanks!</description>
+    </item>
+    
+    <item>
+      <title>FOSDEM 2007</title>
+      <link>https://costanzaltavilla.github.io/project-news/fosdem-2007/</link>
+      <pubDate>Thu, 01 Mar 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/fosdem-2007/</guid>
+      <description>FOSDEM 2007 event in Brussels FOSDEM&amp;nbsp;turned out to be a big great event indeed.
+I was just back from the event yesterday, and after having some rest I&#39;m writing this news. This was my first time attending FOSDEM, and first time speaking at FOSDEM. I should say, FOSDEM&#39;s staff organized everything very well, the room(Janson)given for ReactOS talk was huge (and the space was not wasted ;)), the hotel was quite perfect and very well situated (despite it&#39;s far from the ULB, where the event took place, they provided a nice Taxi service).</description>
+    </item>
+    
+    <item>
+      <title>ReactOS at FOSDEM event</title>
+      <link>https://costanzaltavilla.github.io/project-news/reactos-fosdem-event/</link>
+      <pubDate>Tue, 20 Feb 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/reactos-fosdem-event/</guid>
+      <description>ReactOS talk at the coming FOSDEM event in Brussels FOSDEM (Free and Open source Software Developers&#39; European Meeting) will take place the 24th and 25th of February 2007&amp;nbsp;in Brussels, Belgium.
+ReactOS is going to be represented by me, who is going to give a talk&amp;nbsp;this saturday&amp;nbsp;about ReactOS internals, and do some live demonstrations of what ReactOS achieved so far.
+See you there, Aleksey Bragin.</description>
+    </item>
+    
+    <item>
+      <title>Fundraising campaign finished!</title>
+      <link>https://costanzaltavilla.github.io/project-news/fundraising-campaign-finished/</link>
+      <pubDate>Mon, 12 Feb 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/fundraising-campaign-finished/</guid>
+      <description>ReactOS Fundraising campaign A month ago ReactOS project announced a fundraising campaign aimed to gather money to support our operation - servers, exhibitions, promotions, spread the word, etc.
+Today I am very glad to say that this fundraising campaign did not only meet the required value of 4000 euro, but also outperformed and we gathered a total of 4450 EUR!
+We already ordered parts for the new buildslave server, which is going to be amazingly fast in building DBG/REL .</description>
+    </item>
+    
+    <item>
+      <title>Interview 4: Steven Edwards</title>
+      <link>https://costanzaltavilla.github.io/interviews/steven-edwards/</link>
+      <pubDate>Wed, 06 Dec 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/interviews/steven-edwards/</guid>
+      <description>Steven EdwardsInterview with Steven Edwards by Aleksey Bragin
+This is the fourth in a series of interviews with ReactOS developers. In a few weeks we will have a nice collection showcasing the talent of the people behind ReactOS.
+&amp;nbsp;
+For several years Steven Edwards has served as a valuable liaison between Wine and ReactOS. In addition, he ha&amp;#39;s been responsible for porting Wine to the MinGW compiler and making the resulting libraries actually work.</description>
+    </item>
+    
+    <item>
+      <title>ReactOS participation in GSoC 2006 Mentor Summit</title>
+      <link>https://costanzaltavilla.github.io/project-news/reactos-participation-gsoc-2006-mentor-summit/</link>
+      <pubDate>Mon, 09 Oct 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/reactos-participation-gsoc-2006-mentor-summit/</guid>
+      <description>Google conducts GSoC 2006 mentor summit next week In the area of &amp;quot;better collaboration between organizations&amp;quot;, Alex Ionescu will present a short talk on ReactOS on the following topics:
+ Targetting, developping and testing Win32 versions of projects on ReactOS. Solving OS-level and other platform-specific bugs. Finding out and dealing with undocumented behaviour. Testing Win32 ports without acquiring a Windows license and spending money on a test environment.  The ReactOS Foundation is looking at creating an official long-term &amp;quot;division&amp;quot; responsible for communicating with developers and leaders from other projects.</description>
+    </item>
+    
+    <item>
+      <title>Server transfer is over</title>
+      <link>https://costanzaltavilla.github.io/project-news/server-transfer-over/</link>
+      <pubDate>Mon, 25 Sep 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/server-transfer-over/</guid>
+      <description>Servers are finally migrated to new places! The ReactOS server is finally fully migrated now to a new datacenter and new hardware, including mailing lists, webserver with all its contents, SVN server, etc.
+We had to change really a lot of stuff, to make future transfers easier, to prevent&amp;nbsp;&amp;quot;slashdotting&amp;quot; and thus some of you experienced problems using the website or services during the transfer period. I am very pleased to announce that now everything is in place and is expected to work as it always did.</description>
+    </item>
+    
+    <item>
+      <title>ReactOS 0.3.0 Released!</title>
+      <link>https://costanzaltavilla.github.io/project-news/reactos-030-released/</link>
+      <pubDate>Mon, 28 Aug 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/reactos-030-released/</guid>
+      <description>ReactOS 0.3.0 Released! This release holds a few records - it is the most long-awaited release of ReactOS, it is the release which was preceded by 3 Release Candidates instead of usual 2, and at last ReactOS release never had so much changes since the last one.
+This release&#39;s main feature is the networking ability - it&#39;s the first release where it is possible to download and install FireFox and browse the web, get mIRC (or some other irc client) and get to #reactos to chat a bit with developers.</description>
+    </item>
+    
+    <item>
+      <title>ReactOS Status Report - 07/2006</title>
+      <link>https://costanzaltavilla.github.io/project-news/reactos-status-report-072006/</link>
+      <pubDate>Wed, 26 Jul 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/reactos-status-report-072006/</guid>
+      <description>ReactOS status report for July 2006 The second issue (07/2006) of the ReactOS status reports was published today by Aleksey Bragin (ReactOS Project Coordinator). It&#39;s a general overview of the last 6 months of project&#39;s progress, with some additional information and future outlook. Download The ReactOS status report is available in several document formats (doc, rtf, xml and plain text).
+ HTML page MS Word document (.doc) RTF document (.rtf) MS Word 2003 XML document (.</description>
+    </item>
+    
+    <item>
+      <title>Summer Of Code Applications</title>
+      <link>https://costanzaltavilla.github.io/project-news/summer-code-applications/</link>
+      <pubDate>Sat, 27 May 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/summer-code-applications/</guid>
+      <description>Summer Of Code: Winning applications for ReactOS project It&#39;s time to announce the results of the first phase of Google Summer Of Code project. Some statistics: ReactOS has&amp;nbsp;got&amp;nbsp;4 slots (our&amp;nbsp;number desired projects was 12), and got around ~30 applications (plus 4 applications were classified as ineligible, and 2 more has been redirected to Google).
+Results:
+ ReactOS Print Spooler Service (spoolsv) by Peter Windridge, mentored by Alex Ionescu. Remote Desktop Client application &amp;amp; ActiveX control by Michele Cicciotti, mentored by Alex Ionescu Login System by Justin Haygood, mentored by Thomas Weidenmueller Clipboard Server API implementation by Pablo Borobia, mentored by Thomas Weidenmueller  I congratulate the winning students, they did a great job at picking up complex, but interesting and needed topics, and providing applications, which showed they are capable of performing these tasks.</description>
+    </item>
+    
+    <item>
+      <title>ReactOS and TinyKRNL projects&#39; official relationship</title>
+      <link>https://costanzaltavilla.github.io/project-news/reactos-and-tinykrnl-projects-official-relationship/</link>
+      <pubDate>Fri, 19 May 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/reactos-and-tinykrnl-projects-official-relationship/</guid>
+      <description>ReactOS and TinyKRNL projects&#39; official relationship Prepared by Aleksey Bragin and Alex Ionescu, Project Coordinators.
+There is a little information posted officially about TinyKRNL project and this provides a base for gossip to appear. This short article is intended to clear up official relations between these two projects. &amp;nbsp; TinyKRNL is an educational and documentation project which creates plug-in replacements for various modules of Windows 2003 SP 1 (ultimately replacing the kernel too) and a series of papers ultimately combined into a book.</description>
+    </item>
+    
+    <item>
+      <title>ReactOS is dead, Welcome to ReactOS !</title>
+      <link>https://costanzaltavilla.github.io/project-news/reactos-dead-welcome-reactos/</link>
+      <pubDate>Wed, 22 Feb 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/reactos-dead-welcome-reactos/</guid>
+      <description>Hello, It is already a known fact that ReactOS project started working again and that SVN servers are running since some days again.  But what has happened? We read so much in the news? What’s true?  Let’s summarize:  ReactOS project is Dead, welcome to ReactOS !  Every Opensource project can be split into 3 main phases: -	Starting and developing fundamental things -	Fixing then bugs, doing the long road of mprovements  and enhancements -	Finding something where it can be used  ReactOS now came to the 0.</description>
+    </item>
+    
+  </channel>
+</rss>

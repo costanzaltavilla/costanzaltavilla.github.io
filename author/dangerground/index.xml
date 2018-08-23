@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dangerground on ReactOS Website</title>
+    <link>https://costanzaltavilla.github.io/author/dangerground/</link>
+    <description>Recent content in Dangerground on ReactOS Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 04 Aug 2009 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://costanzaltavilla.github.io/author/dangerground/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Website Design Contest</title>
+      <link>https://costanzaltavilla.github.io/project-news/website-design-contest/</link>
+      <pubDate>Tue, 04 Aug 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/website-design-contest/</guid>
+      <description>The task is to create a mockup for a new homepage and menu layout. We want a fresh layout, as the current one is starting to show its age.  color scheme should be compatible with the ReactOS logo and the logo included into the design. it should contain a diagram for a simplified frontpage it should also integrate stylistically with the forum, wiki &amp; bugzilla it should render consistently across IE7+, FF2+, Opera 9+, Safari 3+ and without javascript or other browser plugins, though javascript and DOM may be used for optional effects whose absence will not adversely degrade the usability of the site there is no guarantee that your proposal will not be modified if selected any submission must be of an original work by the submitter/submitters (you are free to use the ReactOS logo for the proposal) submitters grants the ReactOS Foundation a royalty-free license to use and/or modify their respective designs, though all submitters retain the rights to their work   The best submission will be selected by a jury of five (Aleksey Bragin, Colin Finck, Danny Götte, Ged Murphy and Ziliang Guo).</description>
+    </item>
+    
+  </channel>
+</rss>

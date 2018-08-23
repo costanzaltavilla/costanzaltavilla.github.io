@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Heis Spiter on ReactOS Website</title>
+    <link>https://costanzaltavilla.github.io/author/heis-spiter/</link>
+    <description>Recent content in Heis Spiter on ReactOS Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 21 Jan 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://costanzaltavilla.github.io/author/heis-spiter/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Security issue on the ReactOS infrastructure</title>
+      <link>https://costanzaltavilla.github.io/project-news/security-issue-reactos-infrastructure-2015/</link>
+      <pubDate>Wed, 21 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/security-issue-reactos-infrastructure-2015/</guid>
+      <description>Dear all,
+
+On the 20th of January, we discovered a vulnerability affecting our infrastructure. This vulnerability has been immediately fixed after its discovery. Unfortunately, it was a vulnerability present for years on the infrastructure.
+
+This vulnerability was affecting our main users database. This means that our complete user database may have leaked, including user name, password (hashed) and email address.
+
+We do not have any evidence that the database actually leaked.</description>
+    </item>
+    
+    <item>
+      <title>ReactOS infrastructure goes fully HTTPS and joins Reset The Net</title>
+      <link>https://costanzaltavilla.github.io/project-news/reactos-infrastructure-goes-fully-https-joins-reset-the-net/</link>
+      <pubDate>Wed, 11 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/reactos-infrastructure-goes-fully-https-joins-reset-the-net/</guid>
+      <description>Dear all, You are still numerous people to use our infrastructure without any encryption.
+This news is the opportunity to inform you that the ReactOS infrastructure is fully available with encryption. Web sites (be them developpers or general purpose websites) are finally all HTTPS aware. Other services such as mails are also using secure protocols (SSMTP, SIMAP, and so on). Furthermore, for more security, we enabled HSTS (HTTP Strict Transport Security) &amp;amp; PFS (Perfect Forward Secrecy).</description>
+    </item>
+    
+    <item>
+      <title>Security issue on the ReactOS infrastructure</title>
+      <link>https://costanzaltavilla.github.io/project-news/security-issue-reactos-infrastructure-2014/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/security-issue-reactos-infrastructure-2014/</guid>
+      <description>Dear all,
+
+In case you don&#39;t use SSL/TLS on our infrastructure (web sites - drupal, jira, fisheye), skip reading (and reconsider your choices about such non-usage).
+
+As you may (should?) have heard recently, OpenSSL has suffered a critical security vulnerability (CVE-2014-0160), known as Heartbleed Bug (http://heartbleed.com/). Most of our services were using an affected release of OpenSSL, with heartbeat feature activated. Be it, mails services, web services (Drupal, Jira).</description>
+    </item>
+    
+    <item>
+      <title>Developer services offline</title>
+      <link>https://costanzaltavilla.github.io/project-news/developer-services-offline/</link>
+      <pubDate>Mon, 25 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/developer-services-offline/</guid>
+      <description>Updated at 13h21 CET: We are trying to restore all the services at the moment, on a new server. Everything should be working again. Let&#39;s hope it will be a stable server this time... Except issues with mail server and delays with mails for the moment.
+Dear all,
+On Saturday, we attempted an upgrade of one of our old hypervisor. If the upgrade went fine, it appears that the new server provided by our hoster is totally unstable.</description>
+    </item>
+    
+  </channel>
+</rss>

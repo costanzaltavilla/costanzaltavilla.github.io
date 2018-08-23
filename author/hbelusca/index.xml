@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hbelusca on ReactOS Website</title>
+    <link>https://costanzaltavilla.github.io/author/hbelusca/</link>
+    <description>Recent content in Hbelusca on ReactOS Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 Feb 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://costanzaltavilla.github.io/author/hbelusca/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Word 2010 support Part 6: New progress</title>
+      <link>https://costanzaltavilla.github.io/blogs/word-2010-support-part-6-new-progress/</link>
+      <pubDate>Mon, 27 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/word-2010-support-part-6-new-progress/</guid>
+      <description>Hello everyone, I&#39;m summarizing here my latest progress towards making Word 2010 running in ReactOS.  After having paused a little my ReactOS development during the first two weeks of February (due to personal matters), I started reviewing Samuel Serapión&#39;s NTLM code (in the &#34;sspi-bringup&#34; branch) and first focused on trying to convert his NTLM tests into something that can be included into our apitest framework. This is still work-in-progress because his original tests are interactive, and I need to find the good way of turning them into automated tests and finding a way to store the test results (for comparison purposes), as the tests are modeled around a client/server architecture.</description>
+    </item>
+    
+    <item>
+      <title>Word 2010 support Part 5: NTLM &amp; FOSDEM 2017 preparation</title>
+      <link>https://costanzaltavilla.github.io/blogs/word-2010-support-weekly-report-part5-ntlm-fosdem-2017-preparation/</link>
+      <pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/word-2010-support-weekly-report-part5-ntlm-fosdem-2017-preparation/</guid>
+      <description>Hello everyone! As you&#39;ve seen my activity in the blogs has been reduced quite a lot since beginning January,so here is a summary of what I did during the month of January.
+First two weeks of January (until ~= 15)  In my previous report of last time, I explained that what blocked my progress on Word 2010 was the absence of NTLM authentication support for the installation to continue &amp; finish.</description>
+    </item>
+    
+    <item>
+      <title>Word 2010 support – Weekly report - Part 4: Update &#43; Authentication failed!</title>
+      <link>https://costanzaltavilla.github.io/blogs/word-2010-support-weekly-report-part4-update-authentication-failed/</link>
+      <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/word-2010-support-weekly-report-part4-update-authentication-failed/</guid>
+      <description>Hi everyone, let me first wish you a happy new year 2017!
+ During the second half of last month (December) I did not have much time to work on ReactOS, hence the fact I could not write more reports for you to read. I was however able to test some stuff I started to work on during last November. I have started to familiarize and play a bit with the user-profile APIs inside userenv.</description>
+    </item>
+    
+    <item>
+      <title>Word 2010 support – Weekly report – Part 3: Installation progress</title>
+      <link>https://costanzaltavilla.github.io/blogs/word-2010-support-weekly-report-part3-installation-cont/</link>
+      <pubDate>Tue, 06 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/word-2010-support-weekly-report-part3-installation-cont/</guid>
+      <description>Hello everybody. Today I am going to summarize my progress on Word 2010 installation so far, concerning the main two problems I did encounter: setting a correct environment block for services, and understanding why the SLInitialize function fails, leading to the failure of the Word 2010 installation. The third problem, namely correctly stopping services, will be addressed in a subsequent report. Reading the two previous weekly reports: &#34;Part 1: Installation&#34;</description>
+    </item>
+    
+    <item>
+      <title>Word 2010 support – Weekly report – Part 2: Installation (cont.)</title>
+      <link>https://costanzaltavilla.github.io/blogs/word-2010-support-weekly-report-part2-installation-cont/</link>
+      <pubDate>Sun, 20 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/word-2010-support-weekly-report-part2-installation-cont/</guid>
+      <description>In this second report I continue my investigations on the Word 2010 installation. Last time we saw that our services (and in particular the &#34;Office Software Protection Platform&#34; OSPPSVC service) were started without a complete environment block, and as a result some needed environment variables were missing, causing e.g. OSPPSVC to fail opening some of its files. We now analyse what happens after my local fix (NOTE: I have not committed the fix yet, as I validate it in my local installation first).</description>
+    </item>
+    
+    <item>
+      <title>Word 2010 support – Weekly report – Part 1: Installation</title>
+      <link>https://costanzaltavilla.github.io/blogs/word-2010-support-weekly-report-part1-installation/</link>
+      <pubDate>Sat, 19 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/word-2010-support-weekly-report-part1-installation/</guid>
+      <description>Hello everyone, I am Hermès Bélusca-Maïto. This is my first week report, as part of the part-time scholarship that I started two weeks ago, that consists in making ReactOS being able to support Word 2010.  Preliminaries  Before starting anything with Word 2010 I needed to prepare a testing environment. Because I am a native Windows user, I use a ReactOS trunk build made with the MSVC compiler. This ReactOS build was then properly installed and adequately configured on a VirtualBox (VBox) virtual machine (VM).</description>
+    </item>
+    
+  </channel>
+</rss>

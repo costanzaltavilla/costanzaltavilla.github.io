@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nt6 on ReactOS Website</title>
+    <link>https://costanzaltavilla.github.io/tags/nt6/</link>
+    <description>Recent content in Nt6 on ReactOS Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 14 Apr 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://costanzaltavilla.github.io/tags/nt6/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ReactOS 0.4.8 released!!</title>
+      <link>https://costanzaltavilla.github.io/project-news/reactos-048-released/</link>
+      <pubDate>Sat, 14 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/reactos-048-released/</guid>
+      <description>The ReactOS Project is pleased to announce the release of version 0.4.8 as we continue to work on releasing every three months.
+As you may know, our previous 0.4.7 version was the first one developed in our Git/GitHub repository. 0.4.8 is the nice sequel and a good way to measure the GitHub impact on the ReactOS project. Since ReactOS reached GitHub, it has been forked 248 times. A nice amount understanding ReactOS is not a framework or a library, but a final product.</description>
+    </item>
+    
+  </channel>
+</rss>

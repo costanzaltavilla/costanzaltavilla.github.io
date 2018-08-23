@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aminekhaldi on ReactOS Website</title>
+    <link>https://costanzaltavilla.github.io/author/aminekhaldi/</link>
+    <description>Recent content in Aminekhaldi on ReactOS Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 08 Nov 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://costanzaltavilla.github.io/author/aminekhaldi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ReactOS hires a new developer. Discover what&#39;s coming!</title>
+      <link>https://costanzaltavilla.github.io/project-news/reactos-hires-new-developer-we-re-hiring/</link>
+      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/reactos-hires-new-developer-we-re-hiring/</guid>
+      <description>Ever since the IGG campaign was over, working on the ReactOS Community Edition has been one of our main priorities. Today we make another promising step towards achieving that goal.
+Although the IGG campaign was not a success, we were really proud of raising half of the needed funds. Nonetheless, and thanks to your valuable contributions, it was the most successful crowdfunding campaigns ReactOS has ever had.
+The IGG crowdfunding impact, your impact, on ReactOS is quite noticeable: A whole reworked shell thanks to hiring Giannis Adamopoulos then David Quintana (who among us misses the old shell!</description>
+    </item>
+    
+    <item>
+      <title>ReactOS gets a Youtube Channel</title>
+      <link>https://costanzaltavilla.github.io/project-news/reactos-gets-youtube-channel/</link>
+      <pubDate>Thu, 18 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/reactos-gets-youtube-channel/</guid>
+      <description>ReactOS is proud to announce the ReactOS Community&amp;nbsp;YouTube&amp;nbsp;Channel!
+Its main goal is to share all of the videos of ReactOS in one main spot. This way, the entire ReactOS community, and the whole world, will be able to see the progress of ReactOS and what it can do. We hope for this channel to become a central place for all the community&#39;s contributions in terms of videos.
+The ReactOS Community YouTube Channel can also be used as PR to the world.</description>
+    </item>
+    
+  </channel>
+</rss>

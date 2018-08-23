@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contributions on ReactOS Website</title>
+    <link>https://costanzaltavilla.github.io/tags/contributions/</link>
+    <description>Recent content in Contributions on ReactOS Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 31 Jan 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://costanzaltavilla.github.io/tags/contributions/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Contributions: MS Office 2003</title>
+      <link>https://costanzaltavilla.github.io/blogs/contributions-ms-office-2003/</link>
+      <pubDate>Fri, 31 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/contributions-ms-office-2003/</guid>
+      <description>This time a double-win.
+Not so long ago trying to run a whole office suite was almost a dream. Just launching an app was a success.There was just one complex suite almost working: &#34;SoftMaker Office 2008&#34;. A nice, and mostly unknown, Microsoft Office clone. It was such a good Office clone that it is closed and non-free.
+From past experience you can find two kind of users out there: &#34;Pro-open source&#34;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Codertrevor on ReactOS Website</title>
+    <link>https://costanzaltavilla.github.io/author/codertrevor/</link>
+    <description>Recent content in Codertrevor on ReactOS Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 29 Aug 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://costanzaltavilla.github.io/author/codertrevor/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>GSoC NTFS 2017 - Work Summary</title>
+      <link>https://costanzaltavilla.github.io/blogs/gsoc-ntfs-2017-work-summary/</link>
+      <pubDate>Tue, 29 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/gsoc-ntfs-2017-work-summary/</guid>
+      <description>This is a detailed summary of the work I&#39;ve performed over the course of Google Summer of Code 2017. This was a continuation of my GSoC project from last year.
+Code Submitted You can check out my branch with SVN at https://svn.reactos.org/reactos/branches/GSoC_2016/NTFS
+You can find a list of commits made to my branch during GSoC 2017 at this link.
+I also worked on this project after GSoC last year and before the coding period officially began this year.</description>
+    </item>
+    
+    <item>
+      <title>GSoC NTFS 2017 Update 10</title>
+      <link>https://costanzaltavilla.github.io/blogs/gsoc-ntfs-2017-update-10/</link>
+      <pubDate>Sat, 19 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/gsoc-ntfs-2017-update-10/</guid>
+      <description>Home stretch! Just a matter of days before Google opens up the GSoC final submission! I&#39;ll be using every minute I have available to me in the interim.
+Splitting A B-Tree Node Have I finally finished my magnum opus, allowing for file creation without limits on the number of files? Well, the bad news is, no, I still have more work to do on this. The good news, however, is I have this working in ReactOS!</description>
+    </item>
+    
+    <item>
+      <title>GSoC NTFS 2017 Update 9</title>
+      <link>https://costanzaltavilla.github.io/blogs/gsoc-ntfs-2017-update-9/</link>
+      <pubDate>Sat, 12 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/gsoc-ntfs-2017-update-9/</guid>
+      <description>Last week went pretty well! :)
+In my last post, I talked about how I needed to refactor some code to fix a bug. I&#39;m really happy with how this turned out.
+Refactoring As I mentioned before, the driver has a struct called an NTFS_ATTR_CONTEXT which keeps track of information related to attributes. The main purpose of the structure is to keep vital information about the attribute cached in memory, but it&#39;s also just a convenient way to pass information about attributes between functions and the driver relies on it quite extensively.</description>
+    </item>
+    
+    <item>
+      <title>GSoC NTFS 2017 Update 8</title>
+      <link>https://costanzaltavilla.github.io/blogs/gsoc-ntfs-2017-update-8/</link>
+      <pubDate>Thu, 03 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/gsoc-ntfs-2017-update-8/</guid>
+      <description>Hello World!
+I know it hasn&#39;t been very long since the last update. The last few updates were late, but I&#39;m trying to get back into good habits like committing often and blogging on time. :)
+Last time, I talked about how ReactOS was corrupting my test volume by trying to create files I wasn&#39;t ready for it to create. I was indeed able to fix that by booting into Windows and creating the folder and files ReactOS kept trying to make.</description>
+    </item>
+    
+    <item>
+      <title>GSoC NTFS 2017 Update 7</title>
+      <link>https://costanzaltavilla.github.io/blogs/gsoc-ntfs-2017-update-7/</link>
+      <pubDate>Mon, 31 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/gsoc-ntfs-2017-update-7/</guid>
+      <description>Hi everyone! Last week I left off with an example of creating files, showing you how an index node fills up with file names. Once the node in a B-Tree gets too full, it needs to be split. I&#39;ve been working on this for a while and I was expecting that I&#39;d have an example of this working. I even delayed writing this post because I was so sure this feature was almost ready.</description>
+    </item>
+    
+    <item>
+      <title>GSoC NTFS 2017 Update 6</title>
+      <link>https://costanzaltavilla.github.io/blogs/gsoc-ntfs-2017-update-6/</link>
+      <pubDate>Mon, 24 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/gsoc-ntfs-2017-update-6/</guid>
+      <description>Hello again! :)
+Last week, I finished the code that writes a B-Tree node to disk. Specifically, it lets me write the node to an index buffer within the index allocation of the parent directory. Don&#39;t worry if that doesn&#39;t make sense, I&#39;ll explain it more below.
+From a user&#39;s perspective, this means that the driver now has the ability to create dozens of files. My tester will create 39 files before filling the index node.</description>
+    </item>
+    
+    <item>
+      <title>GSoC NTFS 2017 Update 5</title>
+      <link>https://costanzaltavilla.github.io/blogs/gsoc-ntfs-2017-update-5/</link>
+      <pubDate>Thu, 13 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/gsoc-ntfs-2017-update-5/</guid>
+      <description>Last week I got back to writing B-Tree code. Sadly, the week flew by before I could come up with anything screenshot-able.
+
+I&#39;ve been updating the B-Tree code to accommodate index allocations, and trees of arbitrary depth. I&#39;m mostly done with this but I still have to finish the code that saves an index buffer to the index allocation. Once I do that, I should be able to demonstrate creating dozens of files in a directory.</description>
+    </item>
+    
+    <item>
+      <title>GSoC NTFS 2017 Update 4</title>
+      <link>https://costanzaltavilla.github.io/blogs/gsoc-ntfs-2017-update-4/</link>
+      <pubDate>Thu, 06 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/gsoc-ntfs-2017-update-4/</guid>
+      <description>I won&#39;t lie; it&#39;s been a slow week, feature-wise.
+I guess you could say that last week was all about finding and fixing bugs and errors with the driver. During the first half of the week, I upgraded my automated tester to test file creation, and I fixed a couple of bugs it turned up. I used the second half of the week for addressing issues raised by CR-123.
+Automated Test I tried to go all out with the tester.</description>
+    </item>
+    
+    <item>
+      <title>GSoC NTFS 2017 Update 3</title>
+      <link>https://costanzaltavilla.github.io/blogs/gsoc-ntfs-2017-update-3/</link>
+      <pubDate>Thu, 29 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/gsoc-ntfs-2017-update-3/</guid>
+      <description>All continues to go well :). Two weeks ago, I started writing code to parse B-Trees, which are representative of how NTFS organizes its directories on disk.
+It works like this: First, the index of a directory is read and converted to a B-Tree in memory. Next, a key for the new file is inserted into the tree. Finally, the tree is converted back to an index root attribute which is written to disk.</description>
+    </item>
+    
+    <item>
+      <title>GSoC NTFS 2017 Update 2</title>
+      <link>https://costanzaltavilla.github.io/blogs/gsoc-ntfs-2017-update-2/</link>
+      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/gsoc-ntfs-2017-update-2/</guid>
+      <description>All is going well :). Since the last update, I&#39;ve checked off a minor TODO related to file creation: increasing the size of the master file table, if needed.
+
+Every time the mft grows, it creates several empty file records at a time. In the past, I was using this to my advantage, and was only creating files in empty slots that already existed. Every time I got an error saying there wasn&#39;t enough space for a new file, I&#39;d boot into Windows, create a file (which would increase the mft size), and get back to testing.</description>
+    </item>
+    
+    <item>
+      <title>GSoC NTFS  2017 Update 1</title>
+      <link>https://costanzaltavilla.github.io/blogs/gsoc-ntfs-2017-update-1/</link>
+      <pubDate>Thu, 15 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/gsoc-ntfs-2017-update-1/</guid>
+      <description>Hello everyone! My name is Trevor Thompson. I&#39;m a computer science major at Blue Ridge Community College living in Virginia. This is my second time participating in Google Summer of Code. I&#39;m very happy to be working on ReactOS&#39; NTFS driver again!
+Recap When I started last year, ReactOS could read files from an NTFS volume, but had no write support whatsoever. After GSoC last year, the driver in my branch could overwrite existing files.</description>
+    </item>
+    
+    <item>
+      <title>NTFS Write Support GSoC - Work Summary</title>
+      <link>https://costanzaltavilla.github.io/blogs/ntfs-write-support-gsoc-work-summary-draft/</link>
+      <pubDate>Tue, 23 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/ntfs-write-support-gsoc-work-summary-draft/</guid>
+      <description>This is a detailed summary of the work I&#39;ve performed during GSoC.
+Highlights  Wrote numerous functions which allow for NTFS write-support. Expanded ReactOS&#39; NTFS driver with the ability to overwrite files and change a file&#39;s size. Identified and repaired several bugs related to reading files from NTFS. Fixed ReactOS&#39; LargeMCB implementation, facilitating support for four file systems, NTFS included (See CORE-11002). Diagnosed and fixed a regression using log files (See CORE-11707).</description>
+    </item>
+    
+    <item>
+      <title>NTFS Write Support GSoC - Week 12</title>
+      <link>https://costanzaltavilla.github.io/blogs/ntfs-write-support-gsoc-week-12/</link>
+      <pubDate>Thu, 18 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/ntfs-write-support-gsoc-week-12/</guid>
+      <description>I said in my last update that I was aware GSoC was coming to an end, but in truth I don&#39;t think I realized just how close the end was coming. I need to be completely finished in much less than a week from now!
+Near the middle of the week, I was mostly finished with the code to create a new file record in memory. This progressed quickly, thanks to the time I put into diagnostic output and researching the file records that Windows creates.</description>
+    </item>
+    
+    <item>
+      <title>NTFS Write Support GSoC - Weeks 9, 10, 11</title>
+      <link>https://costanzaltavilla.github.io/blogs/ntfs-write-support-gsoc-weeks-9-10-11/</link>
+      <pubDate>Fri, 05 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/ntfs-write-support-gsoc-weeks-9-10-11/</guid>
+      <description>Wow, these weeks keep blazing by! Apologies for the missed updates; I&#39;ve been faced with a family emergency for the past couple of weeks. My girlfriend&#39;s dad was in the hospital for 13 days after having a heart attack, getting a triple-bypass, then suffering from Ogilvie syndrome after surgery. He got out Saturday and is recovering. It&#39;s been a very long, scary time for my girlfriend and her family and she needed my support full-time.</description>
+    </item>
+    
+    <item>
+      <title>NTFS Write Support GSoC - Week 8</title>
+      <link>https://costanzaltavilla.github.io/blogs/ntfs-write-support-gsoc-week-8/</link>
+      <pubDate>Tue, 19 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/ntfs-write-support-gsoc-week-8/</guid>
+      <description>Overwriting Files Continues This week has been pretty uneventful. I wrote a function to shrink the allocation size of an attribute and another to migrate a resident attribute to non-resident. The former seems to be working, the latter still needs some work. Looking Forward (Changing Direction) I&#39;m only planning to spend another couple of days working on updating files, then I want to move on to file creation. There are several reasons motivating this thinking.</description>
+    </item>
+    
+    <item>
+      <title>NTFS Write Support GSoC - Week 7</title>
+      <link>https://costanzaltavilla.github.io/blogs/ntfs-write-support-gsoc-week-7/</link>
+      <pubDate>Wed, 13 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/ntfs-write-support-gsoc-week-7/</guid>
+      <description>Assigning Clusters Part 2 I can&#39;t believe week seven has already passed! Adding assigned clusters to data runs turned out to be more challenging than I anticipated, but I made steady progress on it throughout the week and have it working now (as far as I can tell). Fixing the problems with LargeMcb.c in week 1 came full-circle, as I relied on a map control block to simplify my task considerably.</description>
+    </item>
+    
+    <item>
+      <title>NTFS Write Support GSoC - Week 6</title>
+      <link>https://costanzaltavilla.github.io/blogs/ntfs-write-support-gsoc-week-6/</link>
+      <pubDate>Wed, 06 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/ntfs-write-support-gsoc-week-6/</guid>
+      <description>This week was rewarding, because I got some things done that I&amp;#39;ve been wanting to do for a while.
+Assigning ClustersI wrote some code which can assign clusters by updating the $BITMAP file. As I mentioned last week, this is half of the equation for extending the allocation size of a non-resident file. I&amp;#39;m still working on the other half, which involves storing the assigned clusters in data runs.
+Resident EvalI realized that modifying the data runs would involve making the same changes I needed for resident attributes, so I focused on making these changes during the second half of the week.</description>
+    </item>
+    
+    <item>
+      <title>NTFS Write Support GSoC - Week 5</title>
+      <link>https://costanzaltavilla.github.io/blogs/ntfs-write-support-gsoc-week-5/</link>
+      <pubDate>Tue, 28 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/ntfs-write-support-gsoc-week-5/</guid>
+      <description>Progress At the beginning of the week I finished cleaning up and committing the code I wrote related to extending a file&#39;s size. This took me a little longer than I expected and in the future I&#39;m going to commit more often so I don&#39;t have this problem.
+From there I added support for truncating files, with a couple of caveats. This is significant because it allows for opening a file in Notepad.</description>
+    </item>
+    
+    <item>
+      <title>NTFS Write Support GSoC - Week 4</title>
+      <link>https://costanzaltavilla.github.io/blogs/ntfs-write-support-gsoc-week-4/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/ntfs-write-support-gsoc-week-4/</guid>
+      <description>Mid-term evaluations opened up yesterday, and naturally I&#39;ve been super-busy this week, making sure I&#39;ve earned my keep! ;)
+Getting the New Size Recognized in Windows Recall that I ended last week being able to extend a file&#39;s size in ReactOS, but Windows wasn&#39;t showing the newly written data when opening the file in notepad. My mentor Pierre and forum member Pathoswithin both suggested, independently, that my problems with extending a file might be caused by only increasing the size of the $DATA attribute and not also modifying the appropriate $FILE_NAME attribute associated with the file.</description>
+    </item>
+    
+    <item>
+      <title>NTFS Write Support GSoC - Week 3</title>
+      <link>https://costanzaltavilla.github.io/blogs/ntfs-write-support-gsoc-week-3/</link>
+      <pubDate>Mon, 13 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/ntfs-write-support-gsoc-week-3/</guid>
+      <description>Learning About NTFSI spent most of the week studying NTFS in-depth, and really learning about some of the things I glossed over before. This is something I had to do make meaningful progress with increasing file sizes. This involved (re-re-re-)reading the three relevant chapters in File System Forensic Analysis.
+Also, in order to retain and really understand the information, I&amp;#39;ve started making a standalone app that lists files on an NTFS partition.</description>
+    </item>
+    
+    <item>
+      <title>NTFS Write Support GSoC - Week 2</title>
+      <link>https://costanzaltavilla.github.io/blogs/ntfs-write-support-gsoc-week-2/</link>
+      <pubDate>Mon, 06 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/ntfs-write-support-gsoc-week-2/</guid>
+      <description>This week I spent a few days hammering out all the problems I was having with MSVC builds, understanding exactly what was causing them, and updating configure.cmd so nobody else would have them in the future. See my forum post for the details. I&#39;ve also been doing a lot of reading this week, both on the peculiarities of NTFS, and on Windows file system drivers. File System Forensic Analysis by Brain Carrier has been an incredible resource for the former, and Windows Nt File System Internals by Rajeev Nagar has been indispensable for the latter.</description>
+    </item>
+    
+    <item>
+      <title>NTFS Write Support GSoC - Week 1 Update</title>
+      <link>https://costanzaltavilla.github.io/blogs/ntfs-write-support-gsoc-week-1-update/</link>
+      <pubDate>Sun, 29 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/ntfs-write-support-gsoc-week-1-update/</guid>
+      <description>Hi there! My name is Trevor Thompson and I&#39;m working on NTFS write support for Google Summer of Code 2016. Status Update: I now know the basics of windbg. I&#39;m surprised at how powerful this tool is! A few weeks ago, Pierre asked if I could take a look at largemcb.c and help him fix the bugs that were causing kmtest to fail the FsRtlMcb test. I didn&#39;t have a chance to look at it until now, but I felt like this would be a perfect opportunity to get some practice with windbg and get started with serious React OS development.</description>
+    </item>
+    
+  </channel>
+</rss>

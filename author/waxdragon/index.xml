@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Waxdragon on ReactOS Website</title>
+    <link>https://costanzaltavilla.github.io/author/waxdragon/</link>
+    <description>Recent content in Waxdragon on ReactOS Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 08 Oct 2005 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://costanzaltavilla.github.io/author/waxdragon/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>State of the Repository</title>
+      <link>https://costanzaltavilla.github.io/project-news/state-repository/</link>
+      <pubDate>Sat, 08 Oct 2005 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/state-repository/</guid>
+      <description>WaxDragon took a look at what happened in ReactOS during September The stats:
+In Sepember, there were:
+578 commits
+98 bugs opened
+94 bugs closed
+I wasn&#39;t able to determine the bugs that weere touched during the last month, since something made *all* bugs appear touched.
+A little change of format, I will review the closed bugs first, then go over the SVN commits in less detail than last month.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on ReactOS Website</title>
+    <link>https://costanzaltavilla.github.io/tags/</link>
+    <description>Recent content in Tags on ReactOS Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 06 Dec 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://costanzaltavilla.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>0.4.7</title>
+      <link>https://costanzaltavilla.github.io/tags/0.4.7/</link>
+      <pubDate>Wed, 06 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/tags/0.4.7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>0.4.8</title>
+      <link>https://costanzaltavilla.github.io/tags/0.4.8/</link>
+      <pubDate>Sat, 14 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/tags/0.4.8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>0.4.9</title>
+      <link>https://costanzaltavilla.github.io/tags/0.4.9/</link>
+      <pubDate>Mon, 23 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/tags/0.4.9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Announce</title>
+      <link>https://costanzaltavilla.github.io/tags/announce/</link>
+      <pubDate>Mon, 27 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/tags/announce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Call</title>
+      <link>https://costanzaltavilla.github.io/tags/call/</link>
+      <pubDate>Mon, 27 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/tags/call/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cc</title>
+      <link>https://costanzaltavilla.github.io/tags/cc/</link>
+      <pubDate>Mon, 23 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/tags/cc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contributions</title>
+      <link>https://costanzaltavilla.github.io/tags/contributions/</link>
+      <pubDate>Fri, 31 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/tags/contributions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Drwatson</title>
+      <link>https://costanzaltavilla.github.io/tags/drwatson/</link>
+      <pubDate>Sat, 14 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/tags/drwatson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Filesystems</title>
+      <link>https://costanzaltavilla.github.io/tags/filesystems/</link>
+      <pubDate>Wed, 06 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/tags/filesystems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gsoc</title>
+      <link>https://costanzaltavilla.github.io/tags/gsoc/</link>
+      <pubDate>Mon, 27 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/tags/gsoc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hello</title>
+      <link>https://costanzaltavilla.github.io/tags/hello/</link>
+      <pubDate>Fri, 17 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/tags/hello/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mm</title>
+      <link>https://costanzaltavilla.github.io/tags/mm/</link>
+      <pubDate>Mon, 23 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/tags/mm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Network</title>
+      <link>https://costanzaltavilla.github.io/tags/network/</link>
+      <pubDate>Fri, 17 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/tags/network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nt6</title>
+      <link>https://costanzaltavilla.github.io/tags/nt6/</link>
+      <pubDate>Sat, 14 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/tags/nt6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ntfs</title>
+      <link>https://costanzaltavilla.github.io/tags/ntfs/</link>
+      <pubDate>Sat, 14 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/tags/ntfs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Office</title>
+      <link>https://costanzaltavilla.github.io/tags/office/</link>
+      <pubDate>Fri, 31 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/tags/office/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rapps</title>
+      <link>https://costanzaltavilla.github.io/tags/rapps/</link>
+      <pubDate>Wed, 06 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/tags/rapps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Release</title>
+      <link>https://costanzaltavilla.github.io/tags/release/</link>
+      <pubDate>Mon, 23 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/tags/release/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revamp</title>
+      <link>https://costanzaltavilla.github.io/tags/revamp/</link>
+      <pubDate>Mon, 08 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/tags/revamp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self Hosting</title>
+      <link>https://costanzaltavilla.github.io/tags/self-hosting/</link>
+      <pubDate>Mon, 23 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/tags/self-hosting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shell</title>
+      <link>https://costanzaltavilla.github.io/tags/shell/</link>
+      <pubDate>Mon, 23 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/tags/shell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social</title>
+      <link>https://costanzaltavilla.github.io/tags/social/</link>
+      <pubDate>Fri, 17 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/tags/social/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Students</title>
+      <link>https://costanzaltavilla.github.io/tags/students/</link>
+      <pubDate>Mon, 27 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/tags/students/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Taskbar</title>
+      <link>https://costanzaltavilla.github.io/tags/taskbar/</link>
+      <pubDate>Sat, 14 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/tags/taskbar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Telegram</title>
+      <link>https://costanzaltavilla.github.io/tags/telegram/</link>
+      <pubDate>Fri, 17 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/tags/telegram/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Usb</title>
+      <link>https://costanzaltavilla.github.io/tags/usb/</link>
+      <pubDate>Wed, 06 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/tags/usb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Website</title>
+      <link>https://costanzaltavilla.github.io/tags/website/</link>
+      <pubDate>Mon, 08 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/tags/website/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zipfldr</title>
+      <link>https://costanzaltavilla.github.io/tags/zipfldr/</link>
+      <pubDate>Mon, 23 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/tags/zipfldr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

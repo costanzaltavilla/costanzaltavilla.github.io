@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ged on ReactOS Website</title>
+    <link>https://costanzaltavilla.github.io/author/ged/</link>
+    <description>Recent content in Ged on ReactOS Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 26 Apr 2009 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://costanzaltavilla.github.io/author/ged/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ReactOS 0.3.9 Released</title>
+      <link>https://costanzaltavilla.github.io/project-news/reactos-039-released/</link>
+      <pubDate>Sun, 26 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/reactos-039-released/</guid>
+      <description>ReactOS 0.3.9 Released  Our development team is pleased to announce the 9th increment of the 0.3 series of ReactOS, an open source Windows® compatible operating system.  As we draw ever closer to the 0.4 series, more and more work is being put into bugfixing existing code in an effort to get more applications and drivers working. This release is testament to that and is our most compatible release to date.</description>
+    </item>
+    
+    <item>
+      <title>ReactOS at Linux World Expo UK</title>
+      <link>https://costanzaltavilla.github.io/project-news/reactos-linux-world-expo-uk/</link>
+      <pubDate>Sat, 08 Oct 2005 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/reactos-linux-world-expo-uk/</guid>
+      <description>On 05th and 06th October, ReactOS attended Linux World Expo UK as part of the .Org village. The two representatives for the project were Ge van Geldorp and Ged Murphy.
+
+Equipment for the exhibition consisted of 3 laptops, one running ReactOS on real hardware, one running ReactOS in VMWare and a laptop to act as an internet gateway. We also had around 100 live CDs and 400 flyers.
+Unfortunately we had trouble holding a connection to the AP due to a weak signal, so couldn&#39;t report in real-time.</description>
+    </item>
+    
+  </channel>
+</rss>

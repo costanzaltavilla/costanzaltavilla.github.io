@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thephysicist on ReactOS Website</title>
+    <link>https://costanzaltavilla.github.io/author/thephysicist/</link>
+    <description>Recent content in Thephysicist on ReactOS Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 27 Dec 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://costanzaltavilla.github.io/author/thephysicist/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Unexpected bug cascade - or how seemingly missing bugs in MSVC builds reveal actual bugs</title>
+      <link>https://costanzaltavilla.github.io/blogs/unexpected-bug-cascade-or-how-seemingly-missing-bugs-msvc-builds-reveal-actual-bugs/</link>
+      <pubDate>Sun, 27 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/unexpected-bug-cascade-or-how-seemingly-missing-bugs-msvc-builds-reveal-actual-bugs/</guid>
+      <description>I was looking into CORE-9105, a crash in wget.exe, but I couldn&#39;t reproducde it, so I asked Daniel whether he was using an MSVC build or a GCC build. He used a GCC build and I was using an MSVC build. So I tried with a GCC build and the bug appeared. So I looked at this thing with kdbg. And there the first bug showed up.
+Bug #1: KDBG and break points I set a breakpoint at a position that I wanted to step through and KDBG stopped there.</description>
+    </item>
+    
+    <item>
+      <title>Rounding and integer math</title>
+      <link>https://costanzaltavilla.github.io/blogs/rounding-and-integer-math/</link>
+      <pubDate>Sat, 16 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/rounding-and-integer-math/</guid>
+      <description>It sometimes happens that in your program you need to divide integer values and then round the result.
+Something like
+&amp;nbsp;&amp;nbsp;&amp;nbsp; int result = lrint((double)int_a / (double)int_b);
+But sometimes it is desirable to not use floating point math at all. The question is: Can we do the same calculation with integer math and get exactly the same result?
+Let&amp;#39;s simplify our case, by limiting to unsigned values (for signed values it is very similar, only the formulas get a bit more complex).</description>
+    </item>
+    
+  </channel>
+</rss>

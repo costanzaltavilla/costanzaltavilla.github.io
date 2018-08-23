@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhu48 on ReactOS Website</title>
+    <link>https://costanzaltavilla.github.io/author/zhu48/</link>
+    <description>Recent content in Zhu48 on ReactOS Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 23 Aug 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://costanzaltavilla.github.io/author/zhu48/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Google SoC lwIP Conclusion</title>
+      <link>https://costanzaltavilla.github.io/blogs/google-soc-lwip-conclusion/</link>
+      <pubDate>Tue, 23 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/google-soc-lwip-conclusion/</guid>
+      <description>My Google Summer of Code project proposal stated that I would add TCP support to the network branch of ReactOS, which sought to integrate lwIP 1.4.1 as the protocol level network driver for the operating system, to ultimately be tested by replacing the network driver in an installation of Windows Server 2003 with my driver. The full proposal can be found here. At the time of my proposal, I underestimated the amount of effort a fully working network driver would take.</description>
+    </item>
+    
+    <item>
+      <title>Google SoC lwIP Report Week 13</title>
+      <link>https://costanzaltavilla.github.io/blogs/google-soc-lwip-report-week-13/</link>
+      <pubDate>Mon, 22 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/google-soc-lwip-report-week-13/</guid>
+      <description>In this final week, I tried to do as much as possible to get my driver to some sort of usable state for simple network C programs.&amp;nbsp;
+My first task this week was to fix a problem with port freeing. When a TCP connection dies, its lwIP PCB would sometimes remain, preventing new sockets from binding to the ports they are taking up. After a lot of tracing, I discovered that an lwIP internal semantic was at play.</description>
+    </item>
+    
+    <item>
+      <title>Google SoC lwIP Report Week 12</title>
+      <link>https://costanzaltavilla.github.io/blogs/google-soc-lwip-report-week-12/</link>
+      <pubDate>Mon, 15 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/google-soc-lwip-report-week-12/</guid>
+      <description>In week 10, I had completed a major rewrite of my driver. In week 11, I dove into the problem of lwIP not being thread-safe once again. While I was able to deal with most of the individual bugs that kept popping up, each one was taking me more time to solve due to the haphazard nature of my previous fixes. At the beginning of last week, it was quickly becoming more apparent that I would need to rework most of my code once again if I wanted to have any hope of circumventing the multithreeading issue once and for all.</description>
+    </item>
+    
+    <item>
+      <title>Google SoC lwIP Report Week 11</title>
+      <link>https://costanzaltavilla.github.io/blogs/google-soc-lwip-report-week-11/</link>
+      <pubDate>Mon, 08 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/google-soc-lwip-report-week-11/</guid>
+      <description>This past week, I have primarily focused on thread-safety.&amp;nbsp;
+Three weeks ago, I discovered that lwIP&#39;s core code is not thread-safe. When left unmodified, each lwIP thread will access several unprotected global linked lists as well as use a set of global variables to process any and all incoming packets. One option to solve this problem was to modify the core code so the global data was protected from concurrent access.</description>
+    </item>
+    
+    <item>
+      <title>Google SoC lwIP Report Week 10</title>
+      <link>https://costanzaltavilla.github.io/blogs/google-soc-lwip-report-week-10/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/google-soc-lwip-report-week-10/</guid>
+      <description>Having rewritten all of the functions that I implemented and modified some of the functions that already existed before I started on this project at the end of last week, I now had to start flushing all of the bugs that invariably exist after a rewrite.&amp;nbsp;
+The major issue I dealt with this past week revolved around properly handling a TDI_LISTEN.&amp;nbsp;
+Part of the purpose for the rewrite was to reorganize my data so each TCP_CONTEXT struct represented a user socket or connection endpoint, and each ADDRESS_FILE struct only represented a local network address.</description>
+    </item>
+    
+    <item>
+      <title>Google SoC lwIP Report Week 9</title>
+      <link>https://costanzaltavilla.github.io/blogs/google-soc-lwip-report-week-9/</link>
+      <pubDate>Mon, 25 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/google-soc-lwip-report-week-9/</guid>
+      <description>Last week ended with my realization that lwIP was not thread-safe, and me reading up on various ways to get around that.&amp;nbsp;
+Last weekend, I spent a lot of time tinkering with lwIP&#39;s core code to see how hard it would be to make it thread-safe. I ultimately failed to actually make the library thread-safe, but I did learn a lot of things about lwIP that I hadn&#39;t known before I started digging into the source code in so much depth.</description>
+    </item>
+    
+    <item>
+      <title>Google SoC lwIP Report Week 8</title>
+      <link>https://costanzaltavilla.github.io/blogs/google-soc-lwip-report-week-8/</link>
+      <pubDate>Mon, 18 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/google-soc-lwip-report-week-8/</guid>
+      <description>This past week started with me mindlessly chasing down memory bugs after having gotten WinDBG up and running. A particularly annoying bug involved an lwIP protocol control block being dereferenced by lwIP after it had been freed. I could not find a place in my drivere where I tried to use a dead PCB pointer, so I looked deeper. I did some stepping through of code, and read more of lwIP&#39;s source code.</description>
+    </item>
+    
+    <item>
+      <title>Google SoC lwIP Report Week 7</title>
+      <link>https://costanzaltavilla.github.io/blogs/google-soc-lwip-report-week-7/</link>
+      <pubDate>Mon, 11 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/google-soc-lwip-report-week-7/</guid>
+      <description>Last week ended with Art going through decompiled assembly to find a bug for me, because the stack trace in the kernel debugger was pointing me to the wrong line in the C source code. It turns out that the problem was a NULL pointer dereference in the RECEIVE callback. As always in programming, a lot of effort went into catching a small oversight.&amp;nbsp;
+With that leftover bug from last week resolved, I moved on to my tasks for this week - more debugging, a code review done by Thomas Faber, and finally setting up WinDBG.</description>
+    </item>
+    
+    <item>
+      <title>Google SoC lwIP Report Week 6</title>
+      <link>https://costanzaltavilla.github.io/blogs/google-soc-lwip-report-week-6/</link>
+      <pubDate>Sun, 03 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/google-soc-lwip-report-week-6/</guid>
+      <description>I closed out last week by drawing a flow chart in preparation for restructuring my code for some new state variables. For most of this week, I was figuring out details about, and implementing, this chart.&amp;nbsp;
+One of new state variable I added in is one variable in the CONNECTION_CONTEXT struct, specifying what that particular connection is doing. This way, my driver can easily identify a socket as bound or not, whether it is currently connected, and what operations it is trying to perform.</description>
+    </item>
+    
+    <item>
+      <title>Google SoC lwIP Report Week 5</title>
+      <link>https://costanzaltavilla.github.io/blogs/google-soc-lwip-report-week-5/</link>
+      <pubDate>Sun, 26 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/google-soc-lwip-report-week-5/</guid>
+      <description>Going into week 5, I started with a code-complete but very much incorrect implementation of the TDI_SEND and TDI_RECEIVE IRQ handlers. My TCP_CONTEXT data structure and the existing ADDRESS_FILE data structure both did not contain a way to keep track of pending IRQs, so I had no way of keeping track of outstanding pending IRQs and what connection contexts they were supposed to be associated with. Without a clear scheme for keeping track of the information, IRP pointers invariably got lost.</description>
+    </item>
+    
+    <item>
+      <title>Google SoC lwIP Report Week 4</title>
+      <link>https://costanzaltavilla.github.io/blogs/google-soc-lwip-report-week-1-0/</link>
+      <pubDate>Sat, 18 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/google-soc-lwip-report-week-1-0/</guid>
+      <description>This week, I started off chasing down how to handle TDI sending a new IRQ to create a connection context immediately after a connection has been accepted on the server end. At first, I thought it was for socket multiplexing. As I talked more with Art and looked more into the lwIP source code, I realized that this is an attempt by TDI to support backlogging. As such, this was not something I had to actively handle since lwIP has full backlogging support.</description>
+    </item>
+    
+    <item>
+      <title>Google SoC lwIP Report Week 3</title>
+      <link>https://costanzaltavilla.github.io/blogs/google-soc-lwip-report-week-3/</link>
+      <pubDate>Sun, 12 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/google-soc-lwip-report-week-3/</guid>
+      <description>In week 3, I discovered a lot more about how data is being passed around.
+After more in depth inspection of the memory, I realized that Winsock was passing on the correct IP address; I just wasn&#39;t aware of the data structure it was using. After modifying my driver to correctly extract the IP address from the IRP, my test server and client performed a successful TCP connection hand shake, with my client program exiting correctly.</description>
+    </item>
+    
+    <item>
+      <title>Google SoC lwIP Report Week 2</title>
+      <link>https://costanzaltavilla.github.io/blogs/google-soc-lwip-report-week-2/</link>
+      <pubDate>Fri, 03 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/google-soc-lwip-report-week-2/</guid>
+      <description>In my second week of working on this project, I have made some progress in linking the Winsock listen() and connect() calls to their lwIP implementations. As with last week, Art Yerkes has been a great souce of information whenever I get stuck on anything.&amp;nbsp;
+I spent the first part of the week figuring out how to extract the information I need from the IRP my driver receives in order to pass it along to lwIP.</description>
+    </item>
+    
+  </channel>
+</rss>

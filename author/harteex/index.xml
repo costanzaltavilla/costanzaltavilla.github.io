@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Harteex on ReactOS Website</title>
+    <link>https://costanzaltavilla.github.io/author/harteex/</link>
+    <description>Recent content in Harteex on ReactOS Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 22 Jul 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://costanzaltavilla.github.io/author/harteex/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>June 2018 meeting minutes</title>
+      <link>https://costanzaltavilla.github.io/project-news/june-2018-meeting-minutes/</link>
+      <pubDate>Sun, 22 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/june-2018-meeting-minutes/</guid>
+      <description>2018-06-28
+19:00 UTC
+#meeting
+Proceedings Meeting started at 19:04 by Mark Jansen, as Colin Finck was running late.
+ Point 1: Status Reports Point 2: ReactOS Hackfest on August 16-21 Point 3: 0.4.9 release on July 14 Point 4: Website developer/maintainer  Point 1: Status Reports Amine Khaldi is doing the usual, Wine syncs and anything he can help with.
+Colin Finck has been working on authentication modules for RosLogin and the final migration script.</description>
+    </item>
+    
+    <item>
+      <title>May 2018 meeting minutes</title>
+      <link>https://costanzaltavilla.github.io/project-news/may-2018-meeting-minutes/</link>
+      <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/may-2018-meeting-minutes/</guid>
+      <description>2018-05-31
+19:00 UTC
+#meeting
+Proceedings Meeting started at 19:03 by Colin Finck
+ Point 1: Status Reports Point 2: Improving our handling of PRs and JIRA reports Point 3: Google Summer of Code Point 4: Changes affecting base addresses Point 5: Miscellaneous  Point 1: Status Reports Amine Khaldi is doing the usual, Wine syncs and anything he can help with.
+Colin Finck finished his university studies after almost 7 years!</description>
+    </item>
+    
+    <item>
+      <title>April 2018 meeting minutes</title>
+      <link>https://costanzaltavilla.github.io/project-news/april-2018-meeting-minutes/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/april-2018-meeting-minutes/</guid>
+      <description>2018-04-26
+19:00 UTC
+#meeting
+Proceedings Meeting started at 19:01 by Colin Finck
+ Point 1: Status Reports  Point 1: Status Reports Aleksandar Andrejevic had nothing to report, except that he now has some free time. He is currently looking at where he left off.
+Amine Khaldi is doing what he usually does, addressing anything he can help with, working on the Wine staging syncs etc.
+Colin Finck helped getting 0.</description>
+    </item>
+    
+    <item>
+      <title>March 2018 meeting minutes</title>
+      <link>https://costanzaltavilla.github.io/project-news/march-2018-meeting-minutes/</link>
+      <pubDate>Tue, 03 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/march-2018-meeting-minutes/</guid>
+      <description>2018-03-29
+19:00 UTC
+#meeting
+Proceedings Meeting started at 19:08 by Colin Finck
+ Point 1: Status Reports Point 2: GSoC Point 3: 0.4.8 Status and Release Planning Point 4: Hackfest Point 5: USB Patches Point 6: Code of Conduct  Point 1: Status Reports Aleksey Bragin has been busy with his full time job as CTO. He doesn&#39;t have enough time for ReactOS, and suggests to elect a new Project Coordinator.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Communities on ReactOS Website</title>
+    <link>https://costanzaltavilla.github.io/community/</link>
+    <description>Recent content in Communities on ReactOS Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 31 Oct 2011 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://costanzaltavilla.github.io/community/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mailing Lists</title>
+      <link>https://costanzaltavilla.github.io/community/mailing-lists/</link>
+      <pubDate>Mon, 31 Oct 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/community/mailing-lists/</guid>
+      <description>Notes  You can only email a list once successfully subscribed. Some spam filters block confirmation emails; please check your spam/bulk folders when (un)subscribing if a confirmation email is not received. List of all mailing lists on reactos.org  Active mailing lists   General List - Subscribe | Unsubscribe | Information | Archives
+This is the list for general discussion about ReactOS.   Developers List - Subscribe | Unsubscribe | Information | Archives</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Terrance on ReactOS Website</title>
+    <link>https://costanzaltavilla.github.io/author/terrance/</link>
+    <description>Recent content in Terrance on ReactOS Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 31 Oct 2005 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://costanzaltavilla.github.io/author/terrance/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ReactOS 0.2.8 Released!</title>
+      <link>https://costanzaltavilla.github.io/project-news/reactos-028-released/</link>
+      <pubDate>Mon, 31 Oct 2005 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/reactos-028-released/</guid>
+      <description>ReactOS 0.2.8 Released! This release brings us near to the release we are all looking forward to, 0.3.0. As always our developers have done a great job. For more information please have a look at the changelog.</description>
+    </item>
+    
+    <item>
+      <title>New mailing list search and voting technique</title>
+      <link>https://costanzaltavilla.github.io/project-news/new-mailing-list-search-and-voting-technique/</link>
+      <pubDate>Wed, 26 Oct 2005 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/new-mailing-list-search-and-voting-technique/</guid>
+      <description>New mailing list search! The ability to search the mailing lists with Google wasn&#39;t enough for me so I&#39;ve created a new more flexible mailing list search. This is available under http://www.reactos.org/mlsearch/
+We also decided to change the voting system. Now votes are done on the forum instead of the mailing list. This way we can do anonymous votes and keep track of the many decisions that must be made. Greetings Michael Wirth</description>
+    </item>
+    
+  </channel>
+</rss>

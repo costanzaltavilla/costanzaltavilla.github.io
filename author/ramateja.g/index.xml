@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ramateja.g on ReactOS Website</title>
+    <link>https://costanzaltavilla.github.io/author/ramateja.g/</link>
+    <description>Recent content in Ramateja.g on ReactOS Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 25 Aug 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://costanzaltavilla.github.io/author/ramateja.g/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>GSoC xHCI: Final Submission</title>
+      <link>https://costanzaltavilla.github.io/blogs/gsoc-xhci-final-submission/</link>
+      <pubDate>Fri, 25 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/gsoc-xhci-final-submission/</guid>
+      <description>Links: Link to my work:https://svn.reactos.org/svn/reactos/branches/GSoC_2017/usbxhci/reactos/drivers/usb/usbxhci/
+Link to check out using svn:https://svn.reactos.org/reactos/branches/GSoC_2017/usbxhci/reactos/
+All the commits log:https://svn.reactos.org/svn/reactos/branches/GSoC_2017/usbxhci/?view=log
+https://code.reactos.org/changelog/~br=GSoC_2017/reactos/branches/GSoC_2017/usbxhci?max=30&amp;amp;view=fe
+Introduction: My aim is to develop driver for xHCI which is compatible with ReactOS. For the development I&amp;rsquo;ve used Windows 2003 server edition running on Vmware Workstation. The first link points to the folder in which all main code and header files are present. To view any file, click on it and in the log; against any revision, click on view/download to see the code.</description>
+    </item>
+    
+    <item>
+      <title>GSoC xHCI: PCS and CCS</title>
+      <link>https://costanzaltavilla.github.io/blogs/gsoc-xhci-pcs-and-ccs/</link>
+      <pubDate>Thu, 17 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/gsoc-xhci-pcs-and-ccs/</guid>
+      <description>Finally the driver is generating multiple interrupt without any issues. Whenever a device is connected or disconnected an interrupt is being generated. In windows 2003 server edition, when a device is attached windows is recognizing that some unknown device is attached and also in the device manager we can see attached devices though they are not initiated.
+
+This is a crucial step, as now any USB device can be safely initiated.</description>
+    </item>
+    
+    <item>
+      <title>xHCI : A life lesson learnt</title>
+      <link>https://costanzaltavilla.github.io/blogs/xhci-life-lesson-learnt/</link>
+      <pubDate>Mon, 07 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/xhci-life-lesson-learnt/</guid>
+      <description>Recently I’ve worked on Scratchpad allocation. Scratchpad buffers are PAGESIZE blocks of system memory which the xHCI uses to store its internal state. xHCI can request 0 to 1024 buffers. Number of buffers required is given in the HCSPARAMS1 register. Each buffer is a PAGESIZE block aligned to PAGESIZE boundary.
+
+Scratchpad buffer array is an array which contains addresses of the scratchpad buffers. Its size is equal to the number of maximum scratchpad buffers required by the hardware.</description>
+    </item>
+    
+    <item>
+      <title>GSoC xHCI status update</title>
+      <link>https://costanzaltavilla.github.io/blogs/gsoc-xhci-status-update-0/</link>
+      <pubDate>Fri, 28 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/gsoc-xhci-status-update-0/</guid>
+      <description>In this post I’m going to detail my work progress. In the past week I’ve decided to clean up the code. Some parts of the code was re-written as functions. After that I’ve started working on the USB port status function. When an interrupt is generated the code is getting stuck in a loop.  I’m trying to figure out what caused it.
+
+As we’ve discussed in the previous blog post.</description>
+    </item>
+    
+    <item>
+      <title>XHCI Ring Data Structures </title>
+      <link>https://costanzaltavilla.github.io/blogs/xhci-ring-data-structures/</link>
+      <pubDate>Tue, 18 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/xhci-ring-data-structures/</guid>
+      <description>xHC functioning mostly depends on different ring data structures. In this blog post I’m going to detail what a ring is in XHCI and various implementations by Linux and Haiku. 
+A ring is a circular queue of data structures. There are three kinds of rings in xHC. 
+1.	Command ring
+2.	Event Ring
+3.	Transfer Ring
+
+These rings are the basis of communication with the Controller. Command Ring is used to send commands to the controller.</description>
+    </item>
+    
+    <item>
+      <title>GSoC: USBxHCI driver development work status</title>
+      <link>https://costanzaltavilla.github.io/blogs/gsoc-usbxhci-driver-development-work-status/</link>
+      <pubDate>Thu, 13 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/gsoc-usbxhci-driver-development-work-status/</guid>
+      <description>Welcome to my third blog post.  Sorry for the missed blog post from last week. I was stuck over an issue which kept me occupied. With the help of community I finally got over it. I had to calculate an address by adding a value taken from another register to the base address. This led to a typecast issue. Due to huge number of steps required to generate interrupt I didn&#39;t suspect the problem to be where it is initially.</description>
+    </item>
+    
+    <item>
+      <title>xHC Operational Model Overview</title>
+      <link>https://costanzaltavilla.github.io/blogs/xhc-operational-model-overview/</link>
+      <pubDate>Thu, 29 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/xhc-operational-model-overview/</guid>
+      <description>In this post I’m going to give some details on the working of xHC along with my progress. In my opinion Driver development is for the most part thoroughly studying the documentation. I’m working towards my next major target i.e., Implementing Control transfer. In this process I’ve faced some unforeseen issues. From the previous USB models and the available driver code my estimates of xHC turned out to be inadequate. xHC uses various kinds or data structures, more than what the other HC’s use.</description>
+    </item>
+    
+    <item>
+      <title>Interrupt mechanism: eHCI vs xHCI</title>
+      <link>https://costanzaltavilla.github.io/blogs/interrupt-mechanism-ehci-vs-xhci/</link>
+      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/interrupt-mechanism-ehci-vs-xhci/</guid>
+      <description>This blog post is first one of a series of posts which will deal with various topics related to xHCI (usb 3.0). I&#39;m Rama Teja one of the participants in GSOC 2017. My project is to develop xHCI driver for ReactOS with the help of my mentor Thomas Faber. In the xHCI documentation given by Intel there are three major topics i.e., Register Interface, Data Structures and Operational model. The hardware controller&#39;s register interface is used to send commands to it or get the status etc.</description>
+    </item>
+    
+  </channel>
+</rss>

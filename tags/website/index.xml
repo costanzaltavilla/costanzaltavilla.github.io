@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Website on ReactOS Website</title>
+    <link>https://costanzaltavilla.github.io/tags/website/</link>
+    <description>Recent content in Website on ReactOS Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 08 Feb 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://costanzaltavilla.github.io/tags/website/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Discover the new ReactOS website</title>
+      <link>https://costanzaltavilla.github.io/project-news/discover-new-reactos-website2/</link>
+      <pubDate>Mon, 08 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/discover-new-reactos-website2/</guid>
+      <description>As you may have noticed, the ReactOS website has been completely revamped. During the last year, the ReactOS Team has been focusing on entering the 0.4 era, the latest major alpha series before the 0.5 Beta. A common feeling among the ReactOS community was that our (now old) website was not good enough from content, design, and technology points of view to honor one of the greatest releases in the ReactOS history.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sanchaez on ReactOS Website</title>
+    <link>https://costanzaltavilla.github.io/author/sanchaez/</link>
+    <description>Recent content in Sanchaez on ReactOS Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 28 Aug 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://costanzaltavilla.github.io/author/sanchaez/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>RAPPS Enchancements: GSoC 2017 Edition Final Report</title>
+      <link>https://costanzaltavilla.github.io/blogs/rapps-enchancements-gsoc-2017-edition-final-report/</link>
+      <pubDate>Mon, 28 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/rapps-enchancements-gsoc-2017-edition-final-report/</guid>
+      <description>Introduction ReactOS App Manager (RAPPS) is an app used in ReactOS to download apps, tested by ReactOS team and community. It also manages apps that are installed - you can view apps that are present on your system and uninstall them. The goal of this project was to improve RAPPS and add some very useful features.
+Here is a video presenting it&#39;s features:
+
+
+Quick Links  SVN branch link Unified diff as a Gist Commits Overview  Table of contents  Introduction Building Testing Changes made during development  Application List Improvements Bulk installing Script installation Other improvements   Future work Conclusions   Building Building RAPPS is no different as building parts of ReactOS.</description>
+    </item>
+    
+    <item>
+      <title>RAPPS Enchancements: GSoC 2017 Edition Volume 5</title>
+      <link>https://costanzaltavilla.github.io/blogs/rapps-enchancements-gsoc-2017-edition-volume-5/</link>
+      <pubDate>Sat, 29 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/rapps-enchancements-gsoc-2017-edition-volume-5/</guid>
+      <description>It&#39;s very good when things go as planned. And they do! The BULK INSTALL&amp;nbsp;is here! Let&#39;s have a look.
+
+ Checkboxes are useful Now you can select a bunch of apps in the app bar. In the statusbar you can see selected app count. Selection drops when the categories are switched.
+&amp;nbsp;Using &#34;Select/Deselect button&#34; will select all apps in the current view.
+&amp;nbsp;Install all apps at once Pressing &#34;Install&#34; while there is a checkbox selection will open a download dialog.</description>
+    </item>
+    
+    <item>
+      <title>RAPPS Enchancements: GSoC 2017 Edition Volume 3 and 4</title>
+      <link>https://costanzaltavilla.github.io/blogs/rapps-enchancements-gsoc-2017-edition-volume-3-and-4/</link>
+      <pubDate>Fri, 21 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/rapps-enchancements-gsoc-2017-edition-volume-3-and-4/</guid>
+      <description>Whoosh! Two weeks flew by in no time! Fortunately, I&#39;ve done many things and have some screenshots to show!
+Before we start, I have an anouncement: I&#39;m going to Hackfest and FroSCon this August! I may not be very useful there, but I can discuss things related to the project, meet my mentor Mark Jansen and other devs. I will also learn from the ReactOS developers and FrOSCon workshops. &amp;nbsp;</description>
+    </item>
+    
+    <item>
+      <title>RAPPS Enchancements: GSoC 2017 Edition Volume 2.1</title>
+      <link>https://costanzaltavilla.github.io/blogs/rapps-enchancements-gsoc-2017-edition-volume-21/</link>
+      <pubDate>Thu, 06 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/rapps-enchancements-gsoc-2017-edition-volume-21/</guid>
+      <description>You may wonder why this post is not labeled &#34;Volume 3&#34;. Well, thanks to the training week of the military dept. of our university this week wasn&#39;t very productive in terms of features. Nevertheless, this short post is here to keep you updated.
+This week I was working on refactoring the code and improving code. This will help me progress faster and addd new feature more easily. It is not the only reason: RAPPS was initially written in C and had been converted to C++.</description>
+    </item>
+    
+    <item>
+      <title>RAPPS Enchancements: GSoC 2017 Edition Volume 2</title>
+      <link>https://costanzaltavilla.github.io/blogs/rapps-enchancements-gsoc-2017-edition-volume-2-2/</link>
+      <pubDate>Thu, 29 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/rapps-enchancements-gsoc-2017-edition-volume-2-2/</guid>
+      <description>Another week - another update! This time I worked on the license info, update checking and other improvements to my work. These changes bring up many under-the-hood changes.
+Dont worry, these changes may not look huge. I&#39;m adding features and then worry about the visuals :)&amp;nbsp; But first things first. Let&#39;s have a look.
+
+Before  After  &amp;nbsp;
+Update check RAPPS can now suggest and update if the version installed is less than in the database.</description>
+    </item>
+    
+    <item>
+      <title>RAPPS Enchancements: GSoC 2017 Edition</title>
+      <link>https://costanzaltavilla.github.io/blogs/rapps-enchancements-gsoc-2017-edition-0/</link>
+      <pubDate>Sat, 24 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/blogs/rapps-enchancements-gsoc-2017-edition-0/</guid>
+      <description>Introduction My name is Alexander Shaposhnikov, i&#39;m a GSOC student from Ukraine working on ReactOS App Manager (RAPPS) project. Last two weeks was extrodinary hard - university work took all the time. Fortunately it was dealt with and I&#39;m working at full capacity. I don&#39;t like to write stories in the blog so I&#39;ll keep this blog short and informative. And with screenshots!
+Changes During this 3 weeks I&#39;ve made some changes to visual part and to the RAPPS DB.</description>
+    </item>
+    
+  </channel>
+</rss>

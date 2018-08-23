@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>0.4.7 on ReactOS Website</title>
+    <link>https://costanzaltavilla.github.io/tags/0.4.7/</link>
+    <description>Recent content in 0.4.7 on ReactOS Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 06 Dec 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://costanzaltavilla.github.io/tags/0.4.7/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ReactOS 0.4.7 released!</title>
+      <link>https://costanzaltavilla.github.io/project-news/reactos-047-released/</link>
+      <pubDate>Wed, 06 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/reactos-047-released/</guid>
+      <description>The ReactOS Project is pleased to announce the release of version 0.4.7 as we continue to work on releasing every three months.
+We’re especially pleased to present this release as the very first one that’s been developed in our new Git/GitHub repository. Moving from Subversion to GitHub has proven to be an invaluable way to reach new testers, users and improve the overall awareness of the ReactOS project.
+To highlight the impact we’ve had since we moved to GitHub two months ago, ReactOS now leads the Win32Api and OsDev categories in Github, overtaking many amazing and well established projects.</description>
+    </item>
+    
+  </channel>
+</rss>

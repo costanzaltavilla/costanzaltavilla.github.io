@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sedwards on ReactOS Website</title>
+    <link>https://costanzaltavilla.github.io/author/sedwards/</link>
+    <description>Recent content in Sedwards on ReactOS Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 Jan 2006 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://costanzaltavilla.github.io/author/sedwards/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Reset, Reboot, Restart,	legal issues and the long road to 0.3</title>
+      <link>https://costanzaltavilla.github.io/project-news/reset-reboot-restart-legal-issues-and-long-road-03/</link>
+      <pubDate>Fri, 27 Jan 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://costanzaltavilla.github.io/project-news/reset-reboot-restart-legal-issues-and-long-road-03/</guid>
+      <description>Hello, There has been a lot of talk about possible tainted code in ReactOS and or developers that had access to leaked Microsoft source code. This has caused a lot of speculation about the future of the ReactOS Project. I&#39;m going to try to put those fears to rest and explain what has been going on and where we are going to go from here.  There was one issue that started this discussion and it related to clean-room reverse engineering of certain code in ReactOS.</description>
+    </item>
+    
+  </channel>
+</rss>
